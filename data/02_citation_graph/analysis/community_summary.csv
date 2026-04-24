@@ -1,0 +1,1229 @@
+community_id,community_size,top_keywords,representative_papers,high_impact_papers
+0,151,linear; programming; algorithm; interior; point; algorithms,paper_2eebca9cb25a; paper_66709548fc0e; paper_fe9773188a59,paper_2eebca9cb25a; paper_66709548fc0e; paper_e90a218d202c
+1,119,optimization; programming; nonlinear; problems; conditions; algorithms,paper_1797334e46f2; paper_d6c22ea79459; paper_592789b47f7b,paper_d6c22ea79459; paper_d64ef55939a3; paper_1797334e46f2
+2,99,linear; programming; decomposition; algorithm; programs; simplex,paper_35d0ab65068f; paper_fa9a61d176a5; paper_60b3bdfdf643,paper_fa9a61d176a5; paper_35d0ab65068f; paper_28b509d4b6b5
+3,98,integer; mixed; programming; programs; inequalities; cuts,paper_fe39d1eaf07b; paper_cd6ec042d204; paper_1dac17e6b76c,paper_fe39d1eaf07b; paper_1dac17e6b76c; paper_1a1ca0b91a3d
+4,93,algorithm; optimization; convex; programming; problem; problems,paper_a6717eb82daf; paper_0ebdc3b1b83a; paper_8682df5c3d6f,paper_0ebdc3b1b83a; paper_44631d5be4d4; paper_caf834050405
+5,82,complementarity; linear; algorithm; problems; problem; fixed,paper_b6662fa0c4f4; paper_1142458d1253; paper_fc06e2d40f48,paper_1142458d1253; paper_fc06e2d40f48; paper_c8eba6e1bfcf
+6,81,problems; error; bounds; complementarity; nonlinear; newton,paper_e0b629ccef11; paper_a1325937cdfa; paper_5bf8604e3f6c,paper_e0b629ccef11; paper_4e5e0fbfbd47; paper_8946e0f034da
+7,78,quadratic; programming; semidefinite; optimization; cut; problem,paper_49b26ce08fb5; paper_b53c398a4bde; paper_aa66c9b02646,paper_b53c398a4bde; paper_ce81d08d91fd; paper_aa66c9b02646
+8,70,problem; salesman; traveling; tree; travelling; problems,paper_b4aa718fc3f6; paper_742456c5035d; paper_b2e735173e22,paper_b4aa718fc3f6; paper_b2e735173e22; paper_16f90555b097
+9,69,facets; packing; problem; polytope; set; covering,paper_9becb780c96e; paper_8424d4564b13; paper_a6235cfcd085,paper_8424d4564b13; paper_9becb780c96e; paper_c85fc7439560
+10,58,programming; problems; programs; linear; variational; mathematical,paper_ad8d3be6d25f; paper_58ade39b6735; paper_5c877d373ff8,paper_ad8d3be6d25f; paper_58ade39b6735; paper_487b41c611d6
+11,54,programming; stochastic; integer; programs; sensitivity; quadratic,paper_a5bdf3ba1979; paper_9f081b4edc1f; paper_cb9be1a13261,paper_a5bdf3ba1979; paper_9f081b4edc1f; paper_cb9be1a13261
+12,52,algorithm; submodular; linear; convex; polynomial; programming,paper_265da7343401; paper_22ab9db71d9e; paper_5bd1c04b7873,paper_22ab9db71d9e; paper_5bd1c04b7873; paper_86ea7cad1b62
+13,42,quadratic; optimization; trust; region; programming; convergence,paper_4e7b145f3fdd; paper_c05d80ac6a74; paper_942a9d5f60e7,paper_4e7b145f3fdd; paper_942a9d5f60e7; paper_c05d80ac6a74
+14,38,simplex; network; algorithm; dual; problem; flow,paper_55d60bef8f1f; paper_1149693c0bdd; paper_caf23ed0053d,paper_caf23ed0053d; paper_55d60bef8f1f; paper_623f72bc0bb5
+15,34,duality; programming; problems; convex; optimization; programs,paper_72fbe26329a2; paper_981bc58d2e13; paper_915cab51c3ba,paper_981bc58d2e13; paper_8c65cfcb6860; paper_915cab51c3ba
+16,32,problems; convex; programming; algorithm; bilinear; concave,paper_f36ade2406ac; paper_2003ba83cfa0; paper_d7793bd961a7,paper_d7793bd961a7; paper_2003ba83cfa0; paper_25cf8e417e61
+17,32,global; optimization; sets; functions; linear; algorithm,paper_60e14d3e75ee; paper_a18061fd2101; paper_7ac781652a89,paper_a18061fd2101; paper_60e14d3e75ee; paper_7ac781652a89
+18,32,variational; equilibrium; inequalities; algorithm; linear; complementarity,paper_6183d42a2131; paper_5bb737d16965; paper_c5e081749748,paper_6183d42a2131; paper_5bb737d16965; paper_f5d0ccd8b0c7
+19,30,optimization; robust; stochastic; infinite; programming; linear,paper_62e6818edaa8; paper_6d7fece5703e; paper_b10ca23c00c3,paper_b10ca23c00c3; paper_160503a46a72; paper_ce92e9669dc6
+20,20,variable; conjugate; algorithms; metric; gradient; quasi,paper_05b379d99a97; paper_dbf5cfd9ef9a; paper_0e17ca276274,paper_05b379d99a97; paper_dbf5cfd9ef9a; paper_0e17ca276274
+21,10,functions; convexity; pseudoconvex; pseudo; quasi; second,paper_2221e58830c9; paper_69f74b17b77f; paper_d9734fc09a8d,paper_69f74b17b77f; paper_2221e58830c9; paper_d9734fc09a8d
+22,9,stochastic; dominance; regularity; infinite; convex; semi,paper_d9d0df4da89b; paper_d442cb6124d6; paper_7fe2686b8cca,paper_d9d0df4da89b; paper_d442cb6124d6; paper_7fe2686b8cca
+23,7,semidefinite; programming; stress; matrices; frameworks; coordinate,paper_738e5379e45c; paper_e81e44a2fa3e; paper_3835277602cb,paper_738e5379e45c; paper_e81e44a2fa3e; paper_3835277602cb
+24,6,programming; partially; finite; convex; relative; part,paper_75cecd66a3e8; paper_653ce486d05f; paper_575677c66a22,paper_75cecd66a3e8; paper_653ce486d05f; paper_575677c66a22
+25,6,minimax; constrained; optimization; algorithms; continuous; maximin,paper_9fdc8d003747; paper_b4bf3ba5c436; paper_2bb4d7721038,paper_9fdc8d003747; paper_b4bf3ba5c436; paper_2bb4d7721038
+26,5,semidefinite; programming; problem; min; max; problems,paper_94fe1967e8c9; paper_1edf798bb824; paper_d50b540785a4,paper_94fe1967e8c9; paper_1edf798bb824; paper_d50b540785a4
+27,5,duality; convex; gap; programming; conic; constrained,paper_f05bdc1c23b7; paper_9a4db4d74046; paper_7f361a30bbbd,paper_f05bdc1c23b7; paper_9a4db4d74046; paper_7f361a30bbbd
+28,4,solving; real; world; train; unit; assignment,paper_43b99b1b3ac2; paper_664deeae99a3; paper_955f847c8ded,paper_43b99b1b3ac2; paper_664deeae99a3; paper_955f847c8ded
+29,4,approximation; linear; problems; product; quadratic; programming,paper_9090815411f2; paper_a456a04bff78; paper_a7e785410d4e,paper_9090815411f2; paper_a456a04bff78; paper_a7e785410d4e
+30,4,partially; separable; recognizing; underlying; sparsity; optimization,paper_6e27cb3c401b; paper_6f892a972bd3; paper_d8b6a4b8a360,paper_6e27cb3c401b; paper_6f892a972bd3; paper_d8b6a4b8a360
+31,4,programming; supports; computational; aspects; two; segment,paper_642cc0af70b1; paper_d94fa41a364b; paper_b6fa51e55f08,paper_642cc0af70b1; paper_d94fa41a364b; paper_b6fa51e55f08
+32,4,convergent; globally; conjugate; gradient; without; derivatives,paper_1e010dd52404; paper_75dacf17e4c1; paper_00c7bf8b2c6d,paper_1e010dd52404; paper_75dacf17e4c1; paper_00c7bf8b2c6d
+33,4,optimality; conditions; constraint; programming; geometry; qualifications,paper_ed4e7a91ba80; paper_1c5624e53109; paper_741ed31148fa,paper_ed4e7a91ba80; paper_1c5624e53109; paper_741ed31148fa
+34,4,programming; semi; infinite; discretization; implementation; rate,paper_7878226ebb33; paper_b216db755fd6; paper_5e4e42447040,paper_7878226ebb33; paper_b216db755fd6; paper_5e4e42447040
+35,4,minimization; nuclear; norm; point; planted; clique,paper_a050ea864c21; paper_31f326f79e52; paper_42de9f56bff5,paper_a050ea864c21; paper_31f326f79e52; paper_42de9f56bff5
+36,4,multiknapsack; problem; probabilistic; knapsack; rates; convergence,paper_0d37ae0bdcb1; paper_3875af110cdd; paper_5b163fa820cf,paper_0d37ae0bdcb1; paper_3875af110cdd; paper_5b163fa820cf
+37,4,computationally; difficult; set; covering; problems; experimental,paper_41b0efcffdff; paper_4f9a6009eb81; paper_60ee2757186b,paper_41b0efcffdff; paper_4f9a6009eb81; paper_60ee2757186b
+38,3,stochastic; solution; complementarity; problems; two; stage,paper_31a02ef73189; paper_490108a3e5e7; paper_412f8a00aad3,paper_31a02ef73189; paper_490108a3e5e7; paper_412f8a00aad3
+39,3,nonlinear; semidefinite; programming; primal; dual; interior,paper_b8fc92f779d1; paper_d8ccae6c6cae; paper_48a202fb6951,paper_b8fc92f779d1; paper_d8ccae6c6cae; paper_48a202fb6951
+40,3,location; facility; average; distances; structure; solution,paper_93ec471d2c25; paper_6dc35a7ed972; paper_ee4dd4b1cc86,paper_93ec471d2c25; paper_6dc35a7ed972; paper_ee4dd4b1cc86
+41,3,convex; critical; angles; cone; polyhedral; cones,paper_e5293958e682; paper_2f0bfcb58975; paper_ad9c6e5f6335,paper_e5293958e682; paper_2f0bfcb58975; paper_ad9c6e5f6335
+42,3,price; anarchy; routing; games; function; demand,paper_849d8348d4b3; paper_2ac0d2d11d59; paper_c6cd57461bf8,paper_849d8348d4b3; paper_2ac0d2d11d59; paper_c6cd57461bf8
+43,3,problems; combinatorial; algorithms; approximating; class; rational,paper_ad940b44ec0e; paper_cf426abdbb16; paper_632d417f323f,paper_ad940b44ec0e; paper_cf426abdbb16; paper_632d417f323f
+44,3,relaxation; ellipsoid; systems; linear; variable; metric,paper_325ec5893ad2; paper_c003ba584772; paper_bd205acac1ac,paper_325ec5893ad2; paper_c003ba584772; paper_bd205acac1ac
+45,3,polyhedra; group; problems; dual; row; modules,paper_ffd58123b694; paper_258cb275990b; paper_3e584f5cfbe7,paper_ffd58123b694; paper_258cb275990b; paper_3e584f5cfbe7
+46,3,complementarity; algorithm; economic; model; short; rotation,paper_e97dc2925205; paper_4aa9d04d30c0; paper_c851c99227c6,paper_e97dc2925205; paper_4aa9d04d30c0; paper_c851c99227c6
+47,3,generalized; theorems; permanent; basic; nonbasic; variables,paper_a4e11d33f372; paper_5b3ff7f6fea1; paper_eafb13587486,paper_a4e11d33f372; paper_5b3ff7f6fea1; paper_eafb13587486
+48,3,interior; affine; scaling; point; minimization; cbb,paper_9d960478f01a; paper_0dd89802790d; paper_ad9a903e131a,paper_9d960478f01a; paper_0dd89802790d; paper_ad9a903e131a
+49,3,multicommodity; flow; problems; transportation; problem; combinatorial,paper_5ec029e20a7f; paper_ab89424b26d0; paper_31c18e53a16f,paper_5ec029e20a7f; paper_ab89424b26d0; paper_31c18e53a16f
+50,3,global; optimization; convergence; qualification; adaptive; partition,paper_d68e19a68e25; paper_46897fdbfb8c; paper_2f0fd748502a,paper_d68e19a68e25; paper_46897fdbfb8c; paper_2f0fd748502a
+51,3,flow; circulation; sharing; problem; improved; version,paper_40fe5a5c4e43; paper_5484d8d32fc1; paper_1be2118af06d,paper_40fe5a5c4e43; paper_5484d8d32fc1; paper_1be2118af06d
+52,3,problem; rounding; algorithms; covering; problems; heuristics,paper_c4d62016aac6; paper_92e7969e699a; paper_f8126df85089,paper_c4d62016aac6; paper_92e7969e699a; paper_f8126df85089
+53,3,finite; quadratic; procedure; determining; form; bounded,paper_7bad363db6f2; paper_b08c4aedf2ff; paper_064a0227590a,paper_7bad363db6f2; paper_b08c4aedf2ff; paper_064a0227590a
+54,3,matching; optimum; forests; weights; special; iii,paper_65f05749f252; paper_399270e1d768; paper_18428e975f93,paper_65f05749f252; paper_399270e1d768; paper_18428e975f93
+55,3,shapiro; results; quasidifferential; calculus; constraint; qualifications,paper_a2aebd60d43c; paper_cad248fc4f8f; paper_b6f21b17ac55,paper_a2aebd60d43c; paper_cad248fc4f8f; paper_b6f21b17ac55
+56,3,constraint; convex; simple; qualification; programming; saddle,paper_0e1ebf914212; paper_31eccbfbe869; paper_177e546f8188,paper_0e1ebf914212; paper_31eccbfbe869; paper_177e546f8188
+57,3,linear; overrelaxation; symmetric; complementarity; problem; computational,paper_cd583f52f58b; paper_2923389b89c6; paper_8ba5e7fb09c0,paper_cd583f52f58b; paper_2923389b89c6; paper_8ba5e7fb09c0
+58,3,geometric; condensation; programming; some; remarks; programs,paper_92315ac20183; paper_347367f4a3af; paper_c9e08349fbef,paper_92315ac20183; paper_347367f4a3af; paper_c9e08349fbef
+59,3,flows; hypergraphs; characterizing; consistency; probabilistic; logic,paper_e10fb7349d00; paper_3e2300a995d3; paper_21e1d010bcd9,paper_e10fb7349d00; paper_3e2300a995d3; paper_21e1d010bcd9
+60,3,scalings; theorem; matrices; optimal; conforming; decomposition,paper_f39d03e64186; paper_cbd17f98c2be; paper_c3d9bed931a0,paper_f39d03e64186; paper_cbd17f98c2be; paper_c3d9bed931a0
+61,2,chain; constrained; spanning; trees; approximating; min,paper_01f388b151a5; paper_355b7aecc03e,paper_01f388b151a5; paper_355b7aecc03e
+62,2,imposing; connectivity; constraints; integer; programs; algorithmic,paper_e3f45c45294d; paper_1c9746c97609,paper_e3f45c45294d; paper_1c9746c97609
+63,2,intersection; theorems; polytopes; set; theorem; applications,paper_3cd8ad3ecf24; paper_1b1ea581ad16,paper_3cd8ad3ecf24; paper_1b1ea581ad16
+64,2,superlinear; convergence; iterates; primal; dual; interior,paper_610cab5fd6bf; paper_6ec2c7b95633,paper_610cab5fd6bf; paper_6ec2c7b95633
+65,2,verifiable; sufficient; conditions; sparse; signal; recovery,paper_09dd0dfe1df7; paper_e772a71500f7,paper_09dd0dfe1df7; paper_e772a71500f7
+66,2,branching; branch; price; generic; scheme; comparison,paper_caf57c0f2525; paper_0deb53dfa4f1,paper_caf57c0f2525; paper_0deb53dfa4f1
+67,2,implicit; function; theorem; newton; generalized; equations,paper_23d850009185; paper_7c569761f3e0,paper_23d850009185; paper_7c569761f3e0
+68,2,interior; constrained; asymptotic; expansions; penalty; solutions,paper_f8362d434d37; paper_a23fe1aac471,paper_f8362d434d37; paper_a23fe1aac471
+69,2,multicommodity; fast; deterministic; approximation; flow; problem,paper_4097bfd57736; paper_bf8320c19c25,paper_4097bfd57736; paper_bf8320c19c25
+70,2,two; applications; divide; conquer; principle; molecular,paper_e9aecbcf302e; paper_58f209d0c9f3,paper_e9aecbcf302e; paper_58f209d0c9f3
+71,2,functions; infinite; subdifferentials; value; optimality; conditions,paper_0780dcf339fd; paper_a8756c0d47cf,paper_0780dcf339fd; paper_a8756c0d47cf
+72,2,general; model; matroids; greedy; algorithm; submodular,paper_d8d4c9ced936; paper_1f785d634104,paper_d8d4c9ced936; paper_1f785d634104
+73,2,games; totally; balanced; arising; controlled; programming,paper_68284fc78351; paper_8e39276c0a14,paper_68284fc78351; paper_8e39276c0a14
+74,2,revisiting; augmented; lagrangian; duals; epsilon; optimal,paper_2ab40b83c304; paper_e8f25283bad5,paper_2ab40b83c304; paper_e8f25283bad5
+75,2,programming; linear; transient; policies; discrete; dynamic,paper_42148e8ec6c5; paper_aed8471482bf,paper_42148e8ec6c5; paper_aed8471482bf
+76,2,convergence; theorem; rosen; gradient; projection; optimization,paper_6eaa71045909; paper_4b112595e2a9,paper_6eaa71045909; paper_4b112595e2a9
+77,2,vector; theorem; duality; optimization; alternative; key,paper_010c347aabba; paper_f40ec1a68b84,paper_010c347aabba; paper_f40ec1a68b84
+78,2,ellipsoid; programming; class; rank; two; algorithms,paper_f9976da70288; paper_ec74039d9a0f,paper_f9976da70288; paper_ec74039d9a0f
+79,2,programming; sensitivity; bounds; data; linear; tolerance,paper_1198ec414705; paper_050488965000,paper_1198ec414705; paper_050488965000
+80,2,duality; generalized; linear; fractional; programming; crouzeix,paper_db7c944246dc; paper_ebf8e451791a,paper_db7c944246dc; paper_ebf8e451791a
+81,2,mathematics; subject; classification; packing; partitioning; orbitopes,paper_f6e7b2269df0; paper_f690d2a3048e,paper_f6e7b2269df0; paper_f690d2a3048e
+82,2,stage; two; stochastic; hierarchical; multiple; risk,paper_db3453f57485; paper_c990a8d8ed31,paper_db3453f57485; paper_c990a8d8ed31
+83,2,median; large; class; facets; polytope; polyhedral,paper_486d6ab15e42; paper_bcb0815bb737,paper_486d6ab15e42; paper_bcb0815bb737
+84,2,data; robust; driven; optimization; solutions; linear,paper_552dfc0e51fc; paper_9fdaff1fe6a8,paper_552dfc0e51fc; paper_9fdaff1fe6a8
+85,2,optimization; robustification; unconstrained; quadratic; approximation; technique,paper_e359b9d2c17e; paper_4fddfc6ad7a6,paper_e359b9d2c17e; paper_4fddfc6ad7a6
+86,2,integer; programming; convex; intersection; cuts; outer,paper_8851ed2fc7a5; paper_bb2998f4594b,paper_8851ed2fc7a5; paper_bb2998f4594b
+87,2,matroid; intersection; algorithms; boolean; sublattices; connected,paper_97d463e36677; paper_be36f682f131,paper_97d463e36677; paper_be36f682f131
+88,2,efficient; barrier; functions; algorithm; minimizing; penalty,paper_ca82507c34ed; paper_268df604dec2,paper_ca82507c34ed; paper_268df604dec2
+89,2,polyhedral; annexation; mixedinteger; combinatorial; programming; results,paper_5adef7cc3627; paper_0d1b5d3c264b,paper_5adef7cc3627; paper_0d1b5d3c264b
+90,2,linear; pivot; probe; algorithm; solving; program,paper_369e089113ee; paper_e932b34303e6,paper_369e089113ee; paper_e932b34303e6
+91,2,ergodicity; symmetric; mathematical; programs; solving; optimization,paper_874b901cbde9; paper_72ecc6e64e75,paper_874b901cbde9; paper_72ecc6e64e75
+92,2,optimizing; functions; which; defined; process; part,paper_eee7709567d4; paper_771a0da3e9bb,paper_eee7709567d4; paper_771a0da3e9bb
+93,2,polytopes; least; distance; scheme; finding; simplicial,paper_5a6eb140442b; paper_3239f2e6d5a3,paper_5a6eb140442b; paper_3239f2e6d5a3
+94,2,problem; design; centering; computing; global; optimal,paper_74843792d0fa; paper_35a8b645bfcf,paper_74843792d0fa; paper_35a8b645bfcf
+95,2,partitions; into; odd; chains; generalized; edge,paper_dfb9f5356b61; paper_2f1e61a7d94f,paper_dfb9f5356b61; paper_2f1e61a7d94f
+96,2,least; element; property; center; location; tree,paper_e322a0563597; paper_4e2873de83f0,paper_e322a0563597; paper_4e2873de83f0
+97,2,knapsack; problem; resolution; comparison; algorithm,paper_f24e26b4f4b6; paper_b4334a4a01de,paper_f24e26b4f4b6; paper_b4334a4a01de
+98,2,programming; feasible; direction; stochastic; problems; nonlinear,paper_5fbdfa59b7d5; paper_85487e82d76c,paper_5fbdfa59b7d5; paper_85487e82d76c
+99,2,traveling; salesman; problem; pickup; delivery; polyhedral,paper_eda2f6ab3566; paper_318981d0c6f9,paper_eda2f6ab3566; paper_318981d0c6f9
+100,2,implicit; function; theorems; mathematical; programming; systems,paper_88b301375f53; paper_4f5e09337b48,paper_88b301375f53; paper_4f5e09337b48
+101,2,game; single; controller; stochastic; stationary; equilibria,paper_ac069a58e2f9; paper_150021dce0e0,paper_ac069a58e2f9; paper_150021dce0e0
+102,2,modified; secant; unconstrained; minimization; succession; column,paper_78fd7ced095f; paper_c3bf1209348a,paper_78fd7ced095f; paper_c3bf1209348a
+103,2,multicommodity; computational; experience; difficult; mixed; integer,paper_22abc30ce493; paper_b335810c7116,paper_22abc30ce493; paper_b335810c7116
+104,2,broyden; hilbert; space; approximate; quasi; newton,paper_2e97c322aa83; paper_cbe3af30509f,paper_2e97c322aa83; paper_cbe3af30509f
+105,2,optimal; wire; ordering; spacing; low; power,paper_442b5a918680; paper_6e644015def5,paper_442b5a918680; paper_6e644015def5
+106,2,various; definitions; derivative; mathematical; programming; short,paper_cc2a4e4fb3f8; paper_1a559f359321,paper_cc2a4e4fb3f8; paper_1a559f359321
+107,2,step; toward; probabilistic; simplex; convergence; solution,paper_aebdd4a07770; paper_ef7eb94dcb63,paper_aebdd4a07770; paper_ef7eb94dcb63
+108,1,two; stage; non; cooperative; games; risk,paper_796d2ee30c31,paper_796d2ee30c31
+109,1,visualizing; data; objects; difference; convex; optimization,paper_041ed5543f05,paper_041ed5543f05
+110,1,critical; multipliers; variational; systems; second; order,paper_f51c917321a3,paper_f51c917321a3
+111,1,integer; mixed; reformulations; programs; affine; dimension,paper_76bdbdc33292,paper_76bdbdc33292
+112,1,continuous; relaxation; discrete; programming,paper_18e0b8f04f4a,paper_18e0b8f04f4a
+113,1,comments; note; aggarwal,paper_da4e474e792a,paper_da4e474e792a
+114,1,consistent; learning; composite; proximal; thresholding,paper_fc395fcc961a,paper_fc395fcc961a
+115,1,saa; regularized; multiproduct; price; optimization; pure,paper_cdeb9275830e,paper_cdeb9275830e
+116,1,quadratic; two; stage; stochastic; optimization; coherent,paper_bee7864efa03,paper_bee7864efa03
+117,1,univariate; function; identification; problems,paper_a37365137dc1,paper_a37365137dc1
+118,1,structure; preserving; pivotal; affine; variational; inequalities,paper_daf92524af29,paper_daf92524af29
+119,1,round; robin; tournaments; generated; circle; have,paper_d0ebea365011,paper_d0ebea365011
+120,1,improved; algorithm; minimization; problem,paper_2e03703e6eac,paper_2e03703e6eac
+121,1,convex; ndsted; rockafellar; theorem; lower; semicontinuous,paper_b1527c522ef1,paper_b1527c522ef1
+122,1,capacities; quantum; channels; how; find; them,paper_9413a394a8a2,paper_9413a394a8a2
+123,1,classes; fast; lower; bounds; bin; packing,paper_69c5e3d12c23,paper_69c5e3d12c23
+124,1,optimization; forestry,paper_b497c998f389,paper_b497c998f389
+125,1,probabilistic; measure; combinatorial; complexity; central; curve,paper_aa0ebd9cc768,paper_aa0ebd9cc768
+126,1,models; algorithms; dimensional; cell; suppression; problem,paper_50fe225ce4e4,paper_50fe225ce4e4
+127,1,box; inequalities; quadratic; assignment; polytopes,paper_1ffa68dee0d6,paper_1ffa68dee0d6
+128,1,polynomial; case; unconstrained; zero; one; quadratic,paper_45d66ef4951b,paper_45d66ef4951b
+129,1,multi; exchange; neighborhood; structures; capacitated; minimum,paper_68d8708f6e87,paper_68d8708f6e87
+130,1,primal; dual; predicted; decrease; approximation,paper_bc47d702a10d,paper_bc47d702a10d
+131,1,condition; number; complexity; elementary; algorithm; computing,paper_1af4f2c436d1,paper_1af4f2c436d1
+132,1,valid; inequalities; problems; additive; variable; upper,paper_6b8853acd844,paper_6b8853acd844
+133,1,properties; moreau; yosida; regularization; piecewise; convex,paper_1c1eee765cd9,paper_1c1eee765cd9
+134,1,self; concordant; barriers; hyperbolic; means,paper_d15995c1e17b,paper_d15995c1e17b
+135,1,smooth; multipliers; complementarity; problems,paper_acfe1d90a549,paper_acfe1d90a549
+136,1,how; compute; volume; high; dimension,paper_597dfdbf7573,paper_597dfdbf7573
+137,1,necessary; conditions; optimal; control,paper_d3749a2799fa,paper_d3749a2799fa
+138,1,restricted; factor; polytopes,paper_f0b691db9dc8,paper_f0b691db9dc8
+139,1,mathematics; eigenvalue; optimization,paper_b42a194747c6,paper_b42a194747c6
+140,1,separation; maximally; violated; mod; cuts,paper_dffcc6b43358,paper_dffcc6b43358
+141,1,dual; conditions; characterizing; optimality; convex; multi,paper_674af8df5533,paper_674af8df5533
+142,1,approximation; schemes; hard; geometric; optimization; problems,paper_5427abd38eef,paper_5427abd38eef
+143,1,errata; semidefinite; linear; complementarity; problems,paper_2c189f818aa6,paper_2c189f818aa6
+144,1,deep; shallow; very; cuts; analytic; center,paper_6e6e9b3f5722,paper_6e6e9b3f5722
+145,1,entropic; proximal; decomposition; convex; programs; variational,paper_5872ec489397,paper_5872ec489397
+146,1,characterization; smoothness; curvature; marginal; function; trust,paper_ff9ef52e0aa3,paper_ff9ef52e0aa3
+147,1,non; interior; predictor; corrector; path; following,paper_cfed26503384,paper_cfed26503384
+148,1,implementing; dantzig; fulkerson; johnson; algorithm; large,paper_885b8d49237f,paper_885b8d49237f
+149,1,completeness; some; matrix; classification; problems,paper_1bffce9e4ac4,paper_1bffce9e4ac4
+150,1,look; smoothing; newton; nonlinear; complementarity; problems,paper_eb437301589c,paper_eb437301589c
+151,1,improving; robustness; descent; semismooth; equations; proximal,paper_397a955e71b4,paper_397a955e71b4
+152,1,trails; recognition; complexity; approximations,paper_63edfcf2c7f1,paper_63edfcf2c7f1
+153,1,outer; approximate; subdifferential; piecewise; affine; optimization,paper_ce72188821d4,paper_ce72188821d4
+154,1,unified; error; bounds; structured; convex; optimization,paper_a55637910031,paper_a55637910031
+155,1,nonlinear; programming; algorithms; trust; regions; augmented,paper_9493e2e89ee4,paper_9493e2e89ee4
+156,1,necessary; optimality; conditions; exact; penalization; non,paper_737830670d31,paper_737830670d31
+157,1,fresh; look; mixed; binary; qps; formulations,paper_e61b9c0fa12f,paper_e61b9c0fa12f
+158,1,bilinear; assignment; problem; complexity; polynomially; solvable,paper_f42baf0be89a,paper_f42baf0be89a
+159,1,abstract; model; branching; its; application; mixed,paper_20df283017af,paper_20df283017af
+160,1,semidefinite; programming; cross; intersection; problem; measures,paper_ab1ff3845c2e,paper_ab1ff3845c2e
+161,1,solving; conic; systems; projection; rescaling,paper_149f8f966b20,paper_149f8f966b20
+162,1,unbounded; sum; squares; hierarchy; integrality; gap,paper_f65616972a6a,paper_f65616972a6a
+163,1,existence; relaxation; subdifferential; inclusions; unbounded; perturbation,paper_e884a6ab3a69,paper_e884a6ab3a69
+164,1,matching; problem; has; small; symmetric; sdp,paper_59c57f8f2e75,paper_59c57f8f2e75
+165,1,revisiting; sum; optimization,paper_90077a85a4ed,paper_90077a85a4ed
+166,1,probably; certifiably; correct; means; clustering,paper_df6e38ce8e8d,paper_df6e38ce8e8d
+167,1,hirsch; polytopes; exponentially; long; combinatorial; segments,paper_38ad468e658e,paper_38ad468e658e
+168,1,spatial; branch; cut; nonconvex; qcqp; bounded,paper_34c8a8dfc317,paper_34c8a8dfc317
+169,1,extended; formulation; convex; recoloring; problem; tree,paper_62bc1da72033,paper_62bc1da72033
+170,1,variational; convexly; generated; spectral; max; functions,paper_87d465785272,paper_87d465785272
+171,1,optimal; control; infinite; dimensional; bilinear; systems,paper_1b03b8afb76c,paper_1b03b8afb76c
+172,1,geometric; random; edge,paper_7018988671d3,paper_7018988671d3
+173,1,polynomial; root; radius; optimization; affine; constraints,paper_cbb3a4f61231,paper_cbb3a4f61231
+174,1,integer; round; property; chromatic; number; some,paper_d9a85981b6a2,paper_d9a85981b6a2
+175,1,quadratic; convex; hull; two; conic; inequality,paper_6f44e147fe10,paper_6f44e147fe10
+176,1,convex; optimization; learning; faithful; euclidean; distance,paper_9924e2d2cd4d,paper_9924e2d2cd4d
+177,1,douglas; rachford; algorithm,paper_26b0200f1c2d,paper_26b0200f1c2d
+178,1,choquet; representability; submodular; functions,paper_de3937e3cb4d,paper_de3937e3cb4d
+179,1,variational; crouzeix; ratio,paper_8378813a6c03,paper_8378813a6c03
+180,1,tight; bounds; indefinite; separable; singly; constrained,paper_0dbdda0bd792,paper_0dbdda0bd792
+181,1,tight; mip; formulations; bounded; down; times,paper_3192ffe4cb5a,paper_3192ffe4cb5a
+182,1,polyhedral; aspects; score; equivalence; bayesian; network,paper_b52b22d355ab,paper_b52b22d355ab
+183,1,optimality; conditions; convex; multiobjective; sip,paper_2a4069f20841,paper_2a4069f20841
+184,1,variational; inequalities; polyhedral; sets,paper_e50add1ff538,paper_e50add1ff538
+185,1,constraint; strong; duality; kkt; conditions; nonconvex,paper_196a24a64718,paper_196a24a64718
+186,1,douglas; rachford; operators; that; fail; proximal,paper_f8598c6adf4c,paper_f8598c6adf4c
+187,1,quadratic; complexity; programming; two; constraints,paper_7d8d9ded0e91,paper_7d8d9ded0e91
+188,1,feasible; nonconvex; nonsmooth; problems; applications; green,paper_8d74b087215f,paper_8d74b087215f
+189,1,random; approximations; multiobjective; optimization,paper_2d5c1f12df7c,paper_2d5c1f12df7c
+190,1,sublevel; representations; epi; lipschitz; sets; other,paper_db270d6dca8e,paper_db270d6dca8e
+191,1,equivariant; perturbation; gomory; johnson; infinite; group,paper_4cf443585e36,paper_4cf443585e36
+192,1,linearly; convergent; away; step; conditional; gradient,paper_19c05b1b091d,paper_19c05b1b091d
+193,1,cutting; plane; large; scale; capacitated; multi,paper_62a620e0865b,paper_62a620e0865b
+194,1,truthful; mechanism; design; correlated; tree; rounding,paper_d49f5f8a1035,paper_d49f5f8a1035
+195,1,stabilized; sqp; superlinear; convergence,paper_9078245d3330,paper_9078245d3330
+196,1,robust; efficient; solving; point; distance; problems,paper_0d93cddc8e30,paper_0d93cddc8e30
+197,1,core; nucleolus; directed; acyclic; graph; games,paper_d1642c4e9761,paper_d1642c4e9761
+198,1,robust; screening; ambiguity,paper_79e184a6348b,paper_79e184a6348b
+199,1,parametric; simplex; algorithm; linear; vector; optimization,paper_0f2a12d69461,paper_0f2a12d69461
+200,1,stochastic; risk; multistep; mirror; descent; averse,paper_62d45d0705b2,paper_62d45d0705b2
+201,1,linear; conic; formulations; two; party; correlations,paper_5cf46cacb211,paper_5cf46cacb211
+202,1,primal; ergodic; convergence; dual; subgradient; schemes,paper_e396c2df06cb,paper_e396c2df06cb
+203,1,wait; judge; scenario; optimization,paper_a5175d7f1a88,paper_a5175d7f1a88
+204,1,axiomatic; duality; framework; theta; body; related,paper_0f337d5b828d,paper_0f337d5b828d
+205,1,min; max; robust; combinatorial; optimization,paper_7fea20f6bd48,paper_7fea20f6bd48
+206,1,worst; case; strong; knapsack; facets,paper_54131c16a328,paper_54131c16a328
+207,1,some; upper; lower; bounds; psd; rank,paper_dbc4053f9b2c,paper_dbc4053f9b2c
+208,1,individual; confidence; intervals; solutions; expected; value,paper_8bdbfe27a41c,paper_8bdbfe27a41c
+209,1,dynamic; linear; programming; games; risk; averse,paper_dc90f7cda365,paper_dc90f7cda365
+210,1,convergence; lasserre; measure; hierarchy; upper; bounds,paper_34fbd0b33590,paper_34fbd0b33590
+211,1,how; convexify; intersection; second; order; cone,paper_bf478bfdd113,paper_bf478bfdd113
+212,1,note; alternating; projections; ill; posed; semidefinite,paper_d241df83275a,paper_d241df83275a
+213,1,linear; convergence; alternating; direction; multipliers,paper_85a41f188ecd,paper_85a41f188ecd
+214,1,decomposition; loosely; coupled; integer; programs; multiobjective,paper_70c088e05a09,paper_70c088e05a09
+215,1,perturbed; fenchel; duality; first; order,paper_bb801dba8c68,paper_bb801dba8c68
+216,1,optimality; conditions; nonlinear; semidefinite; programming; squared,paper_a384068a1bad,paper_a384068a1bad
+217,1,finding; low; rank; basis; matrix; subspace,paper_346a38a2e273,paper_346a38a2e273
+218,1,adaptability; stochastic; optimization,paper_defdfffb558d,paper_defdfffb558d
+219,1,near; graphs; lovasz; schrijver; sdp; operator,paper_1bd8ef2b65cf,paper_1bd8ef2b65cf
+220,1,short; proof; sticky; face; lemma,paper_cef7bf412f0a,paper_cef7bf412f0a
+221,1,mixed; integer; quadratic; programming,paper_1bb64fcf5525,paper_1bb64fcf5525
+222,1,approximation; algorithms; generalized; incremental; knapsack; problem,paper_646f525df557,paper_646f525df557
+223,1,arboricity; games; core; nucleolus,paper_49c4946c5dee,paper_49c4946c5dee
+224,1,maximizing; class; submodular; utility; functions; constraints,paper_c117e4724f76,paper_c117e4724f76
+225,1,martin; anthony; endre; boros; yves; crama,paper_e39787720e24,paper_e39787720e24
+226,1,variance; reduction; root; finding; problems,paper_00776bf0443f,paper_00776bf0443f
+227,1,error; bounds; condition; number; absolute; value,paper_9623993b6aaa,paper_9623993b6aaa
+228,1,box; total; dual; integrality; edge; connectivity,paper_ff702f7e054b,paper_ff702f7e054b
+229,1,bounding; gap; between; mccormick; relaxation; convex,paper_40dd0fe85965,paper_40dd0fe85965
+230,1,infty; estimates; trajectories; confined; closed; subset,paper_2f530dd86f76,paper_2f530dd86f76
+231,1,bound; number; different; basic; solutions; generated,paper_c5addb7a1332,paper_c5addb7a1332
+232,1,stackelberg; game; distributed; spectrum; management,paper_25122cb7ea97,paper_25122cb7ea97
+233,1,effective; branch; bound; algorithm; convex; quadratic,paper_417088c099b8,paper_417088c099b8
+234,1,note; complexity; minimization,paper_c2fe057830ba,paper_c2fe057830ba
+235,1,complexity; computing; handicap; sufficient; matrix,paper_cf7dfcdc1867,paper_cf7dfcdc1867
+236,1,bilinear; optimality; constraints; cone; positive; polynomials,paper_db95b353423e,paper_db95b353423e
+237,1,numerical; block; diagonalization; matrix; algebras; application,paper_27830cfdcd23,paper_27830cfdcd23
+238,1,differential; equation; solvers; accelerated; first; order,paper_a620833a161e,paper_a620833a161e
+239,1,optimal; algorithm; superrelaxation; minimization; quadratic; function,paper_f1013a9a141b,paper_f1013a9a141b
+240,1,linear; semidefinite; programming; relaxations; hypergraph; matching,paper_0c8559534dfc,paper_0c8559534dfc
+241,1,static; stochastic; knapsack; problem; normally; distributed,paper_7109f1544773,paper_7109f1544773
+242,1,flow; model; polylinking; system,paper_25c05eb964bc,paper_25c05eb964bc
+243,1,infinite; subsmooth; semi; optimization; problems,paper_6d2d3f740d74,paper_6d2d3f740d74
+244,1,clique; facets; precedence; constrained; knapsack; problem,paper_f739fbf5c8c6,paper_f739fbf5c8c6
+245,1,set; hyperbolic; covering; problems; competing; ground,paper_2e0481056c93,paper_2e0481056c93
+246,1,nonconvergence; plain; newton; min; algorithm; linear,paper_23c6d60d5a5f,paper_23c6d60d5a5f
+247,1,optimal; stochastic; composite; optimization,paper_4028c43bcd21,paper_4028c43bcd21
+248,1,statistical; ranking; combinatorial; hodge; theory,paper_8ebe5c3dbef6,paper_8ebe5c3dbef6
+249,1,direct; searches; discontinuous; functions,paper_7b5f9bb06bd8,paper_7b5f9bb06bd8
+250,1,epsilon; first; order; algorithm; mathcal; convergence,paper_19cb23e4031a,paper_19cb23e4031a
+251,1,verifiable; conditions; ell; recovery; sparse; signals,paper_d52ead397063,paper_d52ead397063
+252,1,null; space; conditions; thresholds; rank; minimization,paper_25949a176749,paper_25949a176749
+253,1,line; search; exact; penalty; steering; rules,paper_ee1b65a0ea2b,paper_ee1b65a0ea2b
+254,1,ranking; model; greedy; algorithm; discrete; convexity,paper_3a74d4463bb1,paper_3a74d4463bb1
+255,1,counterexample; conjecture; gomory; johnson,paper_080e76fb6ead,paper_080e76fb6ead
+256,1,integer; approximation; error; mixed; optimal; control,paper_ea7ca91a28ff,paper_ea7ca91a28ff
+257,1,bin; packing; general; cost; structures,paper_01d6139435a1,paper_01d6139435a1
+258,1,approximation; accuracy; gradient; error; bound; structured,paper_c82a21d2b78a,paper_c82a21d2b78a
+259,1,holder; metric; regularity; set; valued; maps,paper_f806b0a4c07a,paper_f806b0a4c07a
+260,1,matrix; exploiting; sparsity; linear; nonlinear; inequalities,paper_cd82a7d9b3f4,paper_cd82a7d9b3f4
+261,1,results; windy; postman; problem,paper_a40f74bf61f4,paper_a40f74bf61f4
+262,1,enumerative; nature; gomory; dual; cutting; plane,paper_23069bbe8fa8,paper_23069bbe8fa8
+263,1,characterization; strong; stability; stationary; points; mpcc,paper_940f7a6180b4,paper_940f7a6180b4
+264,1,three; modeling; paradigms; mathematical; programming,paper_09a7885a3141,paper_09a7885a3141
+265,1,demand; allocation; latency; cost; functions,paper_45009b453c9a,paper_45009b453c9a
+266,1,risk; averse; dynamic; programming; markov; decision,paper_bece632c27f1,paper_bece632c27f1
+267,1,weighted; independent; even; factor; algorithm,paper_f1786040c24a,paper_f1786040c24a
+268,1,polyhedral; alldifferent; system,paper_8b7c14c1bb46,paper_8b7c14c1bb46
+269,1,worst; case; clique; mips,paper_5008479798d6,paper_5008479798d6
+270,1,constraint; augmentation; pseudo; singularly; perturbed; linear,paper_b363ee35ea25,paper_b363ee35ea25
+271,1,recognizing; binet; matrices,paper_9e7040d64020,paper_9e7040d64020
+272,1,newton; computing; normalized; equilibrium; generalized; nash,paper_d43b0d5c6aef,paper_d43b0d5c6aef
+273,1,minmax; distance; approximation; separation; problems; geometrical,paper_8eece324e500,paper_8eece324e500
+274,1,parametric; nonlinear; discrete; optimization; well; described,paper_a6ae542fff3c,paper_a6ae542fff3c
+275,1,dominant; cut; polytope; vertices; facets; adjacency,paper_726bb07af33b,paper_726bb07af33b
+276,1,small; chv; tal; rank,paper_970d8f32270e,paper_970d8f32270e
+277,1,max; flow; min; cut; bounded; length,paper_3b975b7218b0,paper_3b975b7218b0
+278,1,locating; leak; detecting; sensors; water; distribution,paper_183e943e57aa,paper_183e943e57aa
+279,1,orientation; models; survivable; network; design; theory,paper_f8fa2bddb026,paper_f8fa2bddb026
+280,1,efficient; fair; routing; mesh; networks,paper_ee39e441d546,paper_ee39e441d546
+281,1,price; design; mechanisms; network; resource; allocation,paper_218336a4bb63,paper_218336a4bb63
+282,1,reformulations; mathematical; programming; automatic; symmetry; detection,paper_ee6f93e09b38,paper_ee6f93e09b38
+283,1,graph; realizations; associated; minimizing; maximum; eigenvalue,paper_0431c122c0cb,paper_0431c122c0cb
+284,1,multicriteria; optimization; multiobjective; golden; section; line,paper_4606c2fe14f7,paper_4606c2fe14f7
+285,1,convex; set; characterizations; extensions; geometric; hull,paper_a757bcc56951,paper_a757bcc56951
+286,1,first; order; conditions; semidefinite; representations; convex,paper_91639e4489db,paper_91639e4489db
+287,1,maximal; monotonicity; criteria; composition; sum; weak,paper_f4e10d5d61c1,paper_f4e10d5d61c1
+288,1,geometrical; insight; pseudoconvexity; pseudomonotonicity,paper_3572c1878b09,paper_3572c1878b09
+289,1,processing; second; order; stochastic; dominance; models,paper_b7bfe37372cb,paper_b7bfe37372cb
+290,1,metric; towards; variational; spaces; regularity; fixed,paper_21b9de6dab39,paper_21b9de6dab39
+291,1,autoconjugate; representatives; linear; monotone; operators,paper_94dfc2f6ab82,paper_94dfc2f6ab82
+292,1,mixed; semicontinuous; perturbations; nonconvex; sweeping; processes,paper_3270d4b32b82,paper_3270d4b32b82
+293,1,totally; fenchel; unstable; functions; finite; dimensional,paper_c12fec0d778b,paper_c12fec0d778b
+294,1,note; approximate; lagrange; multiplier; rule,paper_c71701b9ac76,paper_c71701b9ac76
+295,1,local; stability; semidefinite; relaxations,paper_d4f075a940ef,paper_d4f075a940ef
+296,1,efficient; branch; bound; algorithms; weighted; max,paper_df636761aaa5,paper_df636761aaa5
+297,1,representing; simple; dimensional; polytopes; polynomials,paper_16a94f3b419c,paper_16a94f3b419c
+298,1,single; source; unsplittable; flows; arc; wise,paper_74a10359398a,paper_74a10359398a
+299,1,computational; robust; portfolio; selection; joint; ellipsoidal,paper_419d3f0a68a9,paper_419d3f0a68a9
+300,1,short; note; linear; convergence; steepest; descent,paper_e1b8fd759df5,paper_e1b8fd759df5
+301,1,separable; self; concordant; spectral; functions; conjecture,paper_ee5c307c0cbd,paper_ee5c307c0cbd
+302,1,multiobjective; bilevel; optimization,paper_f31e12f19fcc,paper_f31e12f19fcc
+303,1,cardinality; constrained; cycle; path; polytopes,paper_3fd65661e181,paper_3fd65661e181
+304,1,retrospective; trust; region; unconstrained; optimization,paper_21533e5a8d90,paper_21533e5a8d90
+305,1,computing; nucleolus; weighted; voting; games; pseudo,paper_74dca662449a,paper_74dca662449a
+306,1,inexact; newton; nonconvex; equality; constrained; optimization,paper_5dc9bf992aa4,paper_5dc9bf992aa4
+307,1,index; minimization; differential; algebraic; equations; hybrid,paper_ebf7e86fdddf,paper_ebf7e86fdddf
+308,1,weighted; restricted; matching,paper_96a9357119a7,paper_96a9357119a7
+309,1,one; commodity; pickup; delivery; traveling; salesman,paper_f376dd8c02b9,paper_f376dd8c02b9
+310,1,stochastic; gradient; type; algorithm; closed; loop,paper_9679e1419c5c,paper_9679e1419c5c
+311,1,robust; aptas; classical; bin; packing; problem,paper_19d4e175d200,paper_19d4e175d200
+312,1,duality; option; investment; strategies; hedge; funds,paper_738e3c9cb486,paper_738e3c9cb486
+313,1,note; regularity; reduced; models; obtained; nonlocal,paper_df188d614364,paper_df188d614364
+314,1,generalization; chv; tal; gomory; closure,paper_846eaf166ce2,paper_846eaf166ce2
+315,1,simplex; initial; basic; feasible; solution,paper_d700d5e89836,paper_d700d5e89836
+316,1,uncapacitated; lot; sizing; backlogging; convex; hull,paper_23df99c06b15,paper_23df99c06b15
+317,1,mathematical; formulation,paper_a5622cc404ad,paper_a5622cc404ad
+318,1,matrices; determinants,paper_bd090606b3fb,paper_bd090606b3fb
+319,1,bounded; variable; problems,paper_fd016eb47902,paper_fd016eb47902
+320,1,clique; circulants; stable; set; polytope; fuzzy,paper_15d6f8fcda10,paper_15d6f8fcda10
+321,1,regression,paper_867e21f5da00,paper_867e21f5da00
+322,1,hungarian,paper_58549512e7ba,paper_58549512e7ba
+323,1,basic; theory; sets; functions,paper_42535e0f2996,paper_42535e0f2996
+324,1,linear; transformations; rank,paper_b50c36f0c83b,paper_b50c36f0c83b
+325,1,quadratic; forms; eigenvalue; problems,paper_2c281754d86f,paper_2c281754d86f
+326,1,expected; volume; model,paper_a24427532cd5,paper_a24427532cd5
+327,1,unconstrained; optimization,paper_0629e4ac2a2a,paper_0629e4ac2a2a
+328,1,duality; linear; programming,paper_076985f21735,paper_076985f21735
+329,1,fptas; optimizing; polynomials; mixed; integer; points,paper_57f6f413e0d5,paper_57f6f413e0d5
+330,1,basic; features; dynamic; programming; problems; principle,paper_b7d9e7b1f112,paper_b7d9e7b1f112
+331,1,background; historical; sketch,paper_80ff93a381cf,paper_80ff93a381cf
+332,1,post; optimization; problems; sensitivity; parametric; programming,paper_d3bebc785e95,paper_d3bebc785e95
+333,1,variants; simplex,paper_45271d5a8da3,paper_45271d5a8da3
+334,1,simplex; theory; computation,paper_9c92d0a88d17,paper_9c92d0a88d17
+335,1,linear; programming; problems,paper_ac12f4f6b08b,paper_ac12f4f6b08b
+336,1,linear; systems; equations; inequalities,paper_86f9ac9a7686,paper_86f9ac9a7686
+337,1,some; special; topics; mathematical; programming,paper_0edfb2b12ea0,paper_0edfb2b12ea0
+338,1,convex; concave; functions,paper_4c40af79b44a,paper_4c40af79b44a
+339,1,degeneracy; linear; programming,paper_53de5c4a965a,paper_53de5c4a965a
+340,1,convex; sets; cones,paper_09eac21b0e9f,paper_09eac21b0e9f
+341,1,revised; simplex,paper_5a3e38a6a6e3,paper_5a3e38a6a6e3
+342,1,fields,paper_6e5c16327bc2,paper_6e5c16327bc2
+343,1,simple; gap; canceling; algorithm; generalized; maximum,paper_2e5bd557c20f,paper_2e5bd557c20f
+344,1,direct; maximal; lower; bound; mixed; integer,paper_2655dd9681a4,paper_2655dd9681a4
+345,1,necessity; moreau; rockafellar; robinson; qualification; condition,paper_c721b62c0a60,paper_c721b62c0a60
+346,1,convex; optimization; minimizing; ratio; indefinite; quadratic,paper_be3a401fd4d4,paper_be3a401fd4d4
+347,1,modified; cholesky; algorithms; catalog; approaches,paper_5600393ee6d4,paper_5600393ee6d4
+348,1,generalized; nash; equilibrium; problems; newton,paper_a4a2e21ab436,paper_a4a2e21ab436
+349,1,cellation; grassmann; manifold,paper_3276f79eba08,paper_3276f79eba08
+350,1,games; nucleon; cooperative; algorithm; matching,paper_542fc6871139,paper_542fc6871139
+351,1,variable; penalty; alternating; directions; convex; optimization,paper_ebb01d855f04,paper_ebb01d855f04
+352,1,finding; envy; free; pareto; optimal; division,paper_1842f8f07f05,paper_1842f8f07f05
+353,1,infeasible; interior; point; paths; sufficient; linear,paper_8fc97fee7f68,paper_8fc97fee7f68
+354,1,generalized; semi; infinite; optimization; first; order,paper_69f806a698ad,paper_69f806a698ad
+355,1,characterizing; bounding; imperfection; ratio; some; classes,paper_edaa2bd1b804,paper_edaa2bd1b804
+356,1,convergence; rate; block; coordinate; maximization; burer,paper_27bada6ede05,paper_27bada6ede05
+357,1,condition; measures; properties; central; trajectory; linear,paper_ef342fda0e83,paper_ef342fda0e83
+358,1,affine; scaling; algorithm; fails; semidefinite; programming,paper_20d17e79a977,paper_20d17e79a977
+359,1,global; convergence; sqp; without; boundedness; assumptions,paper_eb7c5b90e3ae,paper_eb7c5b90e3ae
+360,1,approximate; iterations; bregman; function; proximal; algorithms,paper_0af6d8916293,paper_0af6d8916293
+361,1,worst; case; analyses; linear; programming; bin,paper_6e352c6f7a3a,paper_6e352c6f7a3a
+362,1,theoretical; numerical; investigation; gap; function; box,paper_b392348bcf4b,paper_b392348bcf4b
+363,1,plant; location; minimum; inventory,paper_596361a40484,paper_596361a40484
+364,1,optimization; stability; inclusions; banach; spaces,paper_3aacaa0a47a2,paper_3aacaa0a47a2
+365,1,transformations; proper; symmetric; cones,paper_16b95360ef82,paper_16b95360ef82
+366,1,variable; number; sample; path; optimization,paper_4764e93ed17c,paper_4764e93ed17c
+367,1,control; gap; second; order; optimality; conditions,paper_c0a5b1c875cc,paper_c0a5b1c875cc
+368,1,tame; functions; semismooth,paper_5c3c048a950a,paper_5c3c048a950a
+369,1,multiobjective; optimization; problems; equilibrium; constraints,paper_1c3eefdeb1c3,paper_1c3eefdeb1c3
+370,1,dual; largest; ellipsoids; inscribed; cones,paper_dc84d6da8dc0,paper_dc84d6da8dc0
+371,1,path; strong; bound; integral; central; curvature,paper_0c3a8e1f5868,paper_0c3a8e1f5868
+372,1,weighted; even; factor; algorithm,paper_c75404b84a18,paper_c75404b84a18
+373,1,optimality; conditions; global; optimization; their; applications,paper_e9d25fd8acbe,paper_e9d25fd8acbe
+374,1,two; well; known; properties; subgradient; optimization,paper_d3ad1d1b63d7,paper_d3ad1d1b63d7
+375,1,how; does; stochastic; optimization; approximation; algorithm,paper_ce68c9c64c81,paper_ce68c9c64c81
+376,1,convex; can; helpful; asymptotic; monotone; operators,paper_ca580afa96c8,paper_ca580afa96c8
+377,1,extra; proximal; solving; two; person; nonzero,paper_f07071fd1848,paper_f07071fd1848
+378,1,non; projected; subgradient; euclidean; distances; differentiable,paper_87cd88119046,paper_87cd88119046
+379,1,characterizations; linear; suboptimality; mathematical; programs; equilibrium,paper_85e93c54a6c8,paper_85e93c54a6c8
+380,1,long; time; missions; fuel; optimal; attitude,paper_fd8994e5f69a,paper_fd8994e5f69a
+381,1,capacitated; max; cut; problem,paper_b1b5bea453dd,paper_b1b5bea453dd
+382,1,regularized; newton; unconstrained; convex; optimization,paper_2726e04e7ea6,paper_2726e04e7ea6
+383,1,analyticity; weighted; central; paths; error; bounds,paper_c03014b2ec4c,paper_c03014b2ec4c
+384,1,robust; efficient; optimization; control; constraints,paper_ad1fb7b9cef8,paper_ad1fb7b9cef8
+385,1,links; between; directional; derivatives; through; multidirectional,paper_6b1ae0a39330,paper_6b1ae0a39330
+386,1,gradient; heavy; ball; friction; dynamical; systems,paper_d0332cdfcf4f,paper_d0332cdfcf4f
+387,1,local; convergence; property; primal; dual; nonlinear,paper_8b86ff07a58f,paper_8b86ff07a58f
+388,1,approximation; algorithms; general; packing; problems; their,paper_4f8b94dcfab5,paper_4f8b94dcfab5
+389,1,self; concordant; barrier; functions; conic; hulls,paper_4e736bae767e,paper_4e736bae767e
+390,1,frac; chv; tal; gomory; cuts,paper_04f50e026975,paper_04f50e026975
+391,1,continuous; fully; polynomial; time; sigma; approximation,paper_9f8d65e6362c,paper_9f8d65e6362c
+392,1,logical; numerical; data,paper_a826295e4767,paper_a826295e4767
+393,1,infeasible; interior; point; algorithm; solving; primal,paper_1291fdc85994,paper_1291fdc85994
+394,1,fast; convergence; simplified; largest; step; path,paper_ac850d0ecab1,paper_ac850d0ecab1
+395,1,efficiently; solvable; special; cases; hard; combinatorial,paper_721c516b8a0c,paper_721c516b8a0c
+396,1,certain; conditions; existence; solutions; equilibrium; problems,paper_e21ad1634b84,paper_e21ad1634b84
+397,1,measure; concentration; optimization,paper_c6a07ed919a7,paper_c6a07ed919a7
+398,1,projective; solving; linear; matrix; inequalities,paper_68d0093cc423,paper_68d0093cc423
+399,1,steiner; tree; packing; problem; vlsi; design,paper_94b2bff6d98d,paper_94b2bff6d98d
+400,1,sup; preconditioning; proximal; newton; nondifferentiable; convex,paper_0b900e8ebdcb,paper_0b900e8ebdcb
+401,1,tradeoff; directions; multiobjective; optimization; problems,paper_3e188eee437d,paper_3e188eee437d
+402,1,convergence; variational; bivariate; functions; lopsided,paper_e5881e809a0f,paper_e5881e809a0f
+403,1,polynomiality; primal; dual; affine; scaling; algorithms,paper_2bc8bccaead0,paper_2bc8bccaead0
+404,1,separating; plane; algorithms; convex; optimization,paper_5f0cb0f64bdc,paper_5f0cb0f64bdc
+405,1,minimum; perimeter; domain; assignment,paper_9d137af3d2d5,paper_9d137af3d2d5
+406,1,monotonization; polyhedra,paper_bf072985d2f8,paper_bf072985d2f8
+407,1,trust; region; minimization; nonsmooth; functions; linear,paper_96437f0087d9,paper_96437f0087d9
+408,1,pseudomonotone; variational; inequality; problems; existence; solutions,paper_fe0c03adf856,paper_fe0c03adf856
+409,1,informationally; optimal; correlation,paper_a53af066756c,paper_a53af066756c
+410,1,sup; class; polynomial; variable; metric; algorithms,paper_7a28d939bee4,paper_7a28d939bee4
+411,1,implicit; multifunction; theorems; sensitivity; variational; conditions,paper_e14756b06a56,paper_e14756b06a56
+412,1,stability; perturbations; some; condition; numbers; optimization,paper_a16c1ef2b8eb,paper_a16c1ef2b8eb
+413,1,symbolic; fenchel; conjugation,paper_5501e8d0f8ac,paper_5501e8d0f8ac
+414,1,newton; linear; complementarity; problems,paper_619724479f05,paper_619724479f05
+415,1,clarification; certain; alpha; beta; polarity; results,paper_9a574313c84c,paper_9a574313c84c
+416,1,solution; set; homotopy; equation; between; polynomials,paper_fceac6f8fdc9,paper_fceac6f8fdc9
+417,1,rational; solutions; graphsack; problem,paper_02890b551eb6,paper_02890b551eb6
+418,1,exponential; weight; algorithm; continuous; time,paper_df80c717f6b8,paper_df80c717f6b8
+419,1,regularization; parameterized; trust; region; subproblem,paper_366dda1b4a53,paper_366dda1b4a53
+420,1,linearization; heuristic; single; machine; scheduling; maximize,paper_c97cb242c0e5,paper_c97cb242c0e5
+421,1,complexity; exchange; algorithm; minimax; optimization; problems,paper_f3cfec9f939c,paper_f3cfec9f939c
+422,1,range; efficient; frontier; multiple; objective; linear,paper_965c8d997e85,paper_965c8d997e85
+423,1,two; kinds; normality; vector; optimization,paper_26697e86f81e,paper_26697e86f81e
+424,1,cost; computing; roots; polynomials,paper_eedf74a07d14,paper_eedf74a07d14
+425,1,subdifferential; characterization; approximate; convexity; lower; semicontinuous,paper_3cffd8e4b530,paper_3cffd8e4b530
+426,1,bundle; filter; nonsmooth; convex; constrained; optimization,paper_83f18512e75d,paper_83f18512e75d
+427,1,piecewise; linear; upper; bound; network; recoourse,paper_dedd05440168,paper_dedd05440168
+428,1,primal; dual; stability; continuous; linear; optimization,paper_8e4874f63d46,paper_8e4874f63d46
+429,1,solving; linear; programs; sign; patterns,paper_9b7550ce7975,paper_9b7550ce7975
+430,1,stackelberg; pricing; games; congestion; effects,paper_fd2813d61716,paper_fd2813d61716
+431,1,worst; case; greedy; algorithms; subset; sum,paper_cf44e742b8c4,paper_cf44e742b8c4
+432,1,unifying; model; retraction; fixed; point; algorithms,paper_11fa386e466e,paper_11fa386e466e
+433,1,linesearch; algorithm; nonlinear; least; squares; problems,paper_10d72f5b2b57,paper_10d72f5b2b57
+434,1,cutting; plane; capacitated; lot; sizing; start,paper_7f1ba62885af,paper_7f1ba62885af
+435,1,input; optimization; optimal; realizations; mathematical; models,paper_41e90a8a19e0,paper_41e90a8a19e0
+436,1,criteria; differentiable; generalized; monotone; maps,paper_f331eafb4eb4,paper_f331eafb4eb4
+437,1,distributed; asynchronous; computation; fixed; points,paper_7b2537fe5eb4,paper_7b2537fe5eb4
+438,1,active; set; solving; linearly; constrained; nonsmooth,paper_8ecc967584a8,paper_8ecc967584a8
+439,1,binary; integer; programs; two; variables; per,paper_0102a0093533,paper_0102a0093533
+440,1,slp; ior; interactive; model; management; system,paper_7b94cec273da,paper_7b94cec273da
+441,1,global; convergence; path; following; determine; all,paper_4c5d42ffc5e3,paper_4c5d42ffc5e3
+442,1,global; convergence; partitioned; bfgs; algorithm; convex,paper_f64faf78baee,paper_f64faf78baee
+443,1,complexity; discrete; tchebycheff; approximation; exact; arithmetic,paper_b2806cc62b1a,paper_b2806cc62b1a
+444,1,improved; disaggregation; transportation; problems,paper_dc2e033591f2,paper_dc2e033591f2
+445,1,numerical; experiments; lancelot; package; release; large,paper_0406784ce773,paper_0406784ce773
+446,1,conjugacy; quasi; convex; programming,paper_be7b9b40c631,paper_be7b9b40c631
+447,1,optimization; unconstrained; functions; sparse; hessian; matrices,paper_b8897ebb70fc,paper_b8897ebb70fc
+448,1,algorithm; ray; simplicial; compute; economic; equilibria,paper_85d39d3d696d,paper_85d39d3d696d
+449,1,integral; approximation; sequences,paper_ae212ea35e40,paper_ae212ea35e40
+450,1,revisions; constraint; approximations; sucessive; nonlinear; programming,paper_406ccac46eb4,paper_406ccac46eb4
+451,1,algorithm; generalized; fractional; programs,paper_2bfb4321c81a,paper_2bfb4321c81a
+452,1,fat; triangulations; solving; certain; nonconvex; matrix,paper_b5dd2e0d7422,paper_b5dd2e0d7422
+453,1,increase; computational; efficiency; certain; quadratic; programming,paper_0da866d0178e,paper_0da866d0178e
+454,1,computational; complexity; van; der; heyden; variable,paper_3efa4fec7bbe,paper_3efa4fec7bbe
+455,1,epsilon; penalty; functions; programming; minimax; problems,paper_f6ca5c7c5bf5,paper_f6ca5c7c5bf5
+456,1,strongly; polynomial; algorithm; concave; production; transportation,paper_6a69dda6887e,paper_6a69dda6887e
+457,1,duality; theorem; semi; infinite; convex; programs,paper_65d324d3053d,paper_65d324d3053d
+458,1,maximal; flow; through; domain,paper_1ae81ba577d6,paper_1ae81ba577d6
+459,1,implementing; bounds; approximations; convex; concave; two,paper_fd9d2394052c,paper_fd9d2394052c
+460,1,maximum; throughput; dynamic; network; flows,paper_d348b43c2839,paper_d348b43c2839
+461,1,shortest; paths; algorithms; theory; experimental; evaluation,paper_7f61150e771c,paper_7f61150e771c
+462,1,directional; derivatives; value; function; semi; infinite,paper_6339d04fc253,paper_6339d04fc253
+463,1,solving; generalized; equations; homotopies,paper_87dc83d0c3f8,paper_87dc83d0c3f8
+464,1,necessary; sufficient; conditions; constrained; optimization,paper_f6604554e3d7,paper_f6604554e3d7
+465,1,economic; planning; institutional; price; constraints; decentralized,paper_5d6b3e6c62dd,paper_5d6b3e6c62dd
+466,1,polyhedral; extension; some; theorems,paper_37e0c08cda7d,paper_37e0c08cda7d
+467,1,vector; maximisation; lagrange; multipliers,paper_f27ee1b658b7,paper_f27ee1b658b7
+468,1,subgradient; optimization; applied; discrete; nonlinear; problem,paper_87a17b35352d,paper_87a17b35352d
+469,1,extended; formulations; cut; problem,paper_6b57e7a2df6e,paper_6b57e7a2df6e
+470,1,greedy; algorithm; random; costs,paper_8279b027bb09,paper_8279b027bb09
+471,1,resolution; integrality; satisfiability; problems,paper_94239b16b217,paper_94239b16b217
+472,1,partial; order; polytope; digraph,paper_444b33f3d09a,paper_444b33f3d09a
+473,1,consistency; finite; systems; convex; inequalities,paper_24af566b42dd,paper_24af566b42dd
+474,1,generalized; convexity; concavity; optimal; value; function,paper_be2a90d51df6,paper_be2a90d51df6
+475,1,quadratic; geometric; programming; application; machining; economics,paper_882be14ca112,paper_882be14ca112
+476,1,forcing; sparsity; projecting; respect; non; diagonally,paper_b6e192c76a89,paper_b6e192c76a89
+477,1,generalized; equations; newton,paper_66fe2c249eca,paper_66fe2c249eca
+478,1,primal; dual; inexact; subgradient,paper_857d3b325c16,paper_857d3b325c16
+479,1,induced; duality; its; applications,paper_8061ee871be7,paper_8061ee871be7
+480,1,primal; dual; algorithm; fermat; weber; problem,paper_0a6660f84779,paper_0a6660f84779
+481,1,triangulations; tilings; certain; block; triangular; matrices,paper_9b90864fd07d,paper_9b90864fd07d
+482,1,note; limiting; infisup; theorems,paper_b816cc9b5a2c,paper_b816cc9b5a2c
+483,1,characterizing; optimal; input; perturbed; convex; programming,paper_f16ae896cc04,paper_f16ae896cc04
+484,1,finite; algorithm; continuous; center; location; problem,paper_874976911503,paper_874976911503
+485,1,counting; almost; minimum; cutsets; reliability; applications,paper_0ce1c37631ce,paper_0ce1c37631ce
+486,1,extended; linear; complementarity; problem,paper_57b338223188,paper_57b338223188
+487,1,worst; case; differencing; partition; problem,paper_b1e0ab1c3f5a,paper_b1e0ab1c3f5a
+488,1,permutahedron; sparse; posets,paper_6c060d02e7af,paper_6c060d02e7af
+489,1,halin; graphs; travelling; salesman; problem,paper_38e33650e520,paper_38e33650e520
+490,1,convergence; variable; metric; matrices; unconstrained; optimization,paper_38d17f38d727,paper_38d17f38d727
+491,1,stability; concept; matrix; game; optimal; strategies,paper_7002015c9e9d,paper_7002015c9e9d
+492,1,generalization; polyak; convergence; result; subgradient; optimization,paper_0eb50c15a607,paper_0eb50c15a607
+493,1,long; vectors; quasi; newton; updates,paper_a55392633e26,paper_a55392633e26
+494,1,generalized; surrogate; duality; mixed; integer; nonlinear,paper_7788bf496e2f,paper_7788bf496e2f
+495,1,sparse; graphs; augmentation; problem,paper_9cce27ca24a0,paper_9cce27ca24a0
+496,1,cost; scaling; algorithm; minimum; node; capacitated,paper_ffe16c993807,paper_ffe16c993807
+497,1,mathematical; programs; vanishing; constraints; optimality; conditions,paper_64d54eb22cfe,paper_64d54eb22cfe
+498,1,incomplete; oblique; projections; solving; large; inconsistent,paper_24d228014b2d,paper_24d228014b2d
+499,1,extreme; optics; search; earth; like; planets,paper_f3fbbf41abec,paper_f3fbbf41abec
+500,1,smoothed; integer; programming,paper_7cc912b4a664,paper_7cc912b4a664
+501,1,necessary; optimality; conditions; constrained; optimization; problems,paper_63bb178ccc4d,paper_63bb178ccc4d
+502,1,approximating; complex; quadratic; optimization; problems; semidefinite,paper_2d6cb322c77e,paper_2d6cb322c77e
+503,1,machine; scheduling; resource; dependent; processing; times,paper_58e559e08f4a,paper_58e559e08f4a
+504,1,markovian; traffic; equilibrium,paper_2edb9ce3ab90,paper_2edb9ce3ab90
+505,1,dual; versus; primal; interior; point; linear,paper_c0d556eab566,paper_c0d556eab566
+506,1,computing; inertia; sign; patterns,paper_62e5f9df11b2,paper_62e5f9df11b2
+507,1,geometry; interpolation; sets; derivative; free; optimization,paper_6b779235bd57,paper_6b779235bd57
+508,1,path; arrow; debreu; competitive; market; equilibrium,paper_12eb6d44720f,paper_12eb6d44720f
+509,1,mathbf; infty; norm; extreme; points; crossing,paper_09ebf5346c8d,paper_09ebf5346c8d
+510,1,computing; radius; pointedness; convex; cone,paper_cb001179dc93,paper_cb001179dc93
+511,1,graphical; relaxation; symmetric; traveling; salesman; polytope,paper_280ae6ab8798,paper_280ae6ab8798
+512,1,corrector; predictor; monotone; linear; complementarity; problems,paper_3dd09ef24e03,paper_3dd09ef24e03
+513,1,power; optimization; connectivity; problems,paper_e6789f310cc9,paper_e6789f310cc9
+514,1,factors; combinatorial; algorithms; matchings; even; square,paper_659295fe2b0e,paper_659295fe2b0e
+515,1,modified; nearly; exact; solving; low; rank,paper_44ac416efd0e,paper_44ac416efd0e
+516,1,traveling; salesman; path; problems,paper_28e31df24f02,paper_28e31df24f02
+517,1,how; good; interior; point; klee; minty,paper_0c721b83ee9b,paper_0c721b83ee9b
+518,1,polyhedral; properties; intersection; two; knapsacks,paper_a693c26e8e63,paper_a693c26e8e63
+519,1,aggregation; discretization; multistage; stochastic; programming,paper_14097d986b32,paper_14097d986b32
+520,1,optimal; jacobian; accumulation; complete,paper_4028fd994695,paper_4028fd994695
+521,1,strengthened; semidefinite; programming; bounds; codes,paper_ec0b19169e81,paper_ec0b19169e81
+522,1,adaptive; sampling; line; search; local; stochastic,paper_ed934a5a265d,paper_ed934a5a265d
+523,1,sums; random; symmetric; matrices; quadratic; optimization,paper_ad18210dbfc9,paper_ad18210dbfc9
+524,1,solution; large; scale; sdp; problems; modified,paper_99b62d34ace8,paper_99b62d34ace8
+525,1,asymptotic; behavior; expected; optimal; value; multidimensional,paper_4a3ba66b6350,paper_4a3ba66b6350
+526,1,dual; multilevel; optimization,paper_2396237c90cc,paper_2396237c90cc
+527,1,solving; large; scale; semidefinite; programs; parallel,paper_3e2f92aacc5e,paper_3e2f92aacc5e
+528,1,solving; maximum; entropy; sampling; problems; factored,paper_56efcbddee6e,paper_56efcbddee6e
+529,1,large; scale; semidefinite; programs; electronic; structure,paper_f16fe04cbcd5,paper_f16fe04cbcd5
+530,1,newton; iterates; can; converge; non; stationary,paper_9644c8fea374,paper_9644c8fea374
+531,1,superlinearly; convergent; predictor; corrector; degenerate; lcp,paper_55e367df9df2,paper_55e367df9df2
+532,1,random; correction; exact; semidefinite; formulations; class,paper_e25f01546ce0,paper_e25f01546ce0
+533,1,complexity; general; matrix; scaling; entropy; minimization,paper_37a05eb90d22,paper_37a05eb90d22
+534,1,convergence; multiplier; trust; region; application; decomposition,paper_a08b9b8a281d,paper_a08b9b8a281d
+535,1,sparse; proximal; implementation; dual; active; set,paper_47030af37ed4,paper_47030af37ed4
+536,1,understanding; acceleration; phenomenon; high; resolution; differential,paper_ff6a30f08b4d,paper_ff6a30f08b4d
+537,1,constraint; incorporation; optimization,paper_425cbc3b1953,paper_425cbc3b1953
+538,1,domino; parity; inequalities; stsp,paper_fc992c41189b,paper_fc992c41189b
+539,1,generating; facets; cut; polytope; graph; triangular,paper_f211ab1cfa19,paper_f211ab1cfa19
+540,1,quadratic; sdp; quality; bounds; convex; relaxations,paper_f8ae401311dc,paper_f8ae401311dc
+541,1,mesh; shape; quality; optimization; inverse; mean,paper_47113106a264,paper_47113106a264
+542,1,equilibria; networks; malicious; users,paper_359fdb561450,paper_359fdb561450
+543,1,underlying; paths; interior; point; monotone; semidefinite,paper_2afef638d628,paper_2afef638d628
+544,1,lower; bound; equivalence; max; min; transportation,paper_f3fd8ec5240c,paper_f3fd8ec5240c
+545,1,active; constraint; variable; ordering; faster; feasibility,paper_39e13492ab12,paper_39e13492ab12
+546,1,population; hard; global; optimization; problems; dissimilarity,paper_3429defbcfba,paper_3429defbcfba
+547,1,error; bounds; regularized; gap; functions; nonsmooth,paper_e74ff6396850,paper_e74ff6396850
+548,1,extension; sums; squares; relaxations; polynomial; optimization,paper_925274f524cd,paper_925274f524cd
+549,1,universal; duality; conic; convex; optimization,paper_a5078a59f125,paper_a5078a59f125
+550,1,computational; large; scale; median; problems,paper_6ff58109e4ea,paper_6ff58109e4ea
+551,1,restricted; robust; uniform; matroid; maximization; interval,paper_1ed821e09fff,paper_1ed821e09fff
+552,1,mean; variance; waiting; time; their; optimization,paper_1655c4e26bc3,paper_1655c4e26bc3
+553,1,convergence; proximal; solutions; evolution; inclusions; time,paper_954b4aecefd7,paper_954b4aecefd7
+554,1,solving; multistage; asset; investment; problems; sample,paper_ac943e0cf1ac,paper_ac943e0cf1ac
+555,1,alain; billionnet; cdot; sourour; elloumi,paper_8112589cb1f9,paper_8112589cb1f9
+556,1,packing; convex; quadratic; constraints,paper_eaa2ad22d622,paper_eaa2ad22d622
+557,1,fair; colorful; center; clustering,paper_ad99cd43ca61,paper_ad99cd43ca61
+558,1,tight; approximation; bounds; maximum; multi; coverage,paper_4f2b592b5bf9,paper_4f2b592b5bf9
+559,1,andy; philpott; cdot; diger; schultz,paper_1c52e704f046,paper_1c52e704f046
+560,1,global; optima; results; kauffman; model; handling,paper_21ec5bcdee53,paper_21ec5bcdee53
+561,1,assessing; solution; quality; stochastic; programs,paper_815c3f1a0652,paper_815c3f1a0652
+562,1,resolution; ode; framework; understanding; discrete; time,paper_afef8688042c,paper_afef8688042c
+563,1,persistence; discrete; optimization; data; uncertainty,paper_913f788e1edd,paper_913f788e1edd
+564,1,alejandro; jofre; cdot; jorge; rivera; cayupi,paper_4a846f589cc5,paper_4a846f589cc5
+565,1,optimal; crashing; activity; network; disruptions,paper_dd48456050e5,paper_dd48456050e5
+566,1,globally; convergent; limited; memory; bundle; large,paper_b3d229787811,paper_b3d229787811
+567,1,alper; atamt,paper_0ecf31c13701,paper_0ecf31c13701
+568,1,solving; class; stochastic; mixed; integer; programs,paper_d23a23c7fa80,paper_d23a23c7fa80
+569,1,matrix; generation; eigenvalue; optimization; star,paper_e95a53d4d688,paper_e95a53d4d688
+570,1,quadratic; optimization; switching; variables; convex; hull,paper_6b2745818a7c,paper_6b2745818a7c
+571,1,simple; integer; recourse; models; convexity; convex,paper_8db75d1a09aa,paper_8db75d1a09aa
+572,1,fast; frac; approximation; algorithm; capacitated; cycle,paper_c549d5352750,paper_c549d5352750
+573,1,core; nucleolus; games; note; paper; lundgren,paper_572503bc64f1,paper_572503bc64f1
+574,1,stephen; wright,paper_ee991404e607,paper_ee991404e607
+575,1,programming; sensitivity; linear; semidefinite; interior; point,paper_78064cc9eaf9,paper_78064cc9eaf9
+576,1,characterization; convexity; preserving; maps; davidon; collinear,paper_a7552fbb4513,paper_a7552fbb4513
+577,1,optimality; conditions; nonconvex; semidefinite; programming,paper_390b9b66e0d6,paper_390b9b66e0d6
+578,1,computing; nucleolus; some; combinatorially; structured; games,paper_68204312af65,paper_68204312af65
+579,1,pierre; mar; chal,paper_7cbf99d49f29,paper_7cbf99d49f29
+580,1,pasquale; avella; cdot; antonio; sassano,paper_524f67c12f46,paper_524f67c12f46
+581,1,solitaire; cone; its; relationship; multi; commodity,paper_86f5773fa3ef,paper_86f5773fa3ef
+582,1,stability; solutions; quadratic; programming; problems,paper_330e08a426b9,paper_330e08a426b9
+583,1,bootstrap; robust; prescriptive; analytics,paper_1f65e28b9e4e,paper_1f65e28b9e4e
+584,1,generalized; assignment; problem; special; ordered; sets,paper_ddf9e059f966,paper_ddf9e059f966
+585,1,first; order; characterization; generalized; monotonicity,paper_fa67c7daa8ae,paper_fa67c7daa8ae
+586,1,approximating; two; level; facility; location; problem,paper_3595610c427e,paper_3595610c427e
+587,1,bounds; linear; pdes; semidefinite; optimization,paper_3f1488940949,paper_3f1488940949
+588,1,sturm; cdot; zhang,paper_2f5298e02b4b,paper_2f5298e02b4b
+589,1,stochastic; programming; model; endogenously; determined; worst,paper_9ed85b3527e1,paper_9ed85b3527e1
+590,1,modeling; languages; condor; metacomputing; optimization,paper_adeb3c1424fa,paper_adeb3c1424fa
+591,1,transaction; portfolio; optimization; problem; concave; costs,paper_0732900238fb,paper_0732900238fb
+592,1,convergence; efficiency; subgradient; quasiconvex; minimization,paper_28bd84f11de0,paper_28bd84f11de0
+593,1,quadratic; convergence; potential; reduction; degenerate; problems,paper_87612a9bac1c,paper_87612a9bac1c
+594,1,hesitant; adaptive; search; distribution; number; iterations,paper_6b8411802fe7,paper_6b8411802fe7
+595,1,way; fast; algorithm; computing; minimum; cuts,paper_61183466b26a,paper_61183466b26a
+596,1,seetharama; gowda; cdot; yoon; song,paper_2b741c9f698c,paper_2b741c9f698c
+597,1,characterizations; bounds; probabilistic; two; complexity; measures,paper_101989ff24b8,paper_101989ff24b8
+598,1,integrated; simulation; optimization; models; tracking; international,paper_b637c4c6b46c,paper_b637c4c6b46c
+599,1,fran; ois; oustry,paper_4ba0384fd8a6,paper_4ba0384fd8a6
+600,1,uncapacitated; lot; sizing; problem; sales; safety,paper_9b7ad14a6c1a,paper_9b7ad14a6c1a
+601,1,modified; weiszfeld; algorithm; fermat; weber; location,paper_d1dcef275ce0,paper_d1dcef275ce0
+602,1,quadratic; bound; assignment; problem; convex; programming,paper_c186727a3e97,paper_c186727a3e97
+603,1,epsilon; relaxation; separable; convex; cost; generalized,paper_1615f7af8555,paper_1615f7af8555
+604,1,penalized; fischer; burmeister; ncp; function,paper_dd6953c10f1a,paper_dd6953c10f1a
+605,1,consistency; stochastic; dominance; mean; semideviation; models,paper_1a2a51786743,paper_1a2a51786743
+606,1,burke; maijian; qian,paper_ba11f439596e,paper_ba11f439596e
+607,1,lemarechal; cdot; renaud,paper_2a700ac6551c,paper_2a700ac6551c
+608,1,change; generalized; indices; stationary; solutions; multiparametric,paper_5079a4136b0e,paper_5079a4136b0e
+609,1,conditions; ensuring; applicability; cutting; plane; solving,paper_907035c12212,paper_907035c12212
+610,1,log; barrier; benders; decomposition; solving; two,paper_f9e354b4cabf,paper_f9e354b4cabf
+611,1,strong; inequalities; capacitated; survivable; network; design,paper_7bd52a7c0e54,paper_7bd52a7c0e54
+612,1,set; packing; relaxations; some; integer; programs,paper_28527e3165b8,paper_28527e3165b8
+613,1,discretization; localization; successive; convex; relaxation; nonconvex,paper_729d33b28262,paper_729d33b28262
+614,1,combinatorial; relaxation; algorithm; mixed; polynomial; matrices,paper_d3d45446407a,paper_d3d45446407a
+615,1,solving; asymmetric; travelling; salesman; problem; time,paper_486dfe95b41b,paper_486dfe95b41b
+616,1,risk; credit; optimization; conditional; value; criterion,paper_90f94bd4e8eb,paper_90f94bd4e8eb
+617,1,concavity; cuts; disjoint; bilinear; programming,paper_7633a3aa9f9d,paper_7633a3aa9f9d
+618,1,parallel; machine; scheduling; high; multiplicity,paper_ba9d943eff0d,paper_ba9d943eff0d
+619,1,szl; lipt; cdot; lov,paper_18bb4340136a,paper_18bb4340136a
+620,1,cdot; rard; cornu; jols; bertrand; guenin,paper_d00b03278c99,paper_d00b03278c99
+621,1,pflug,paper_ca02c71f48cd,paper_ca02c71f48cd
+622,1,single; period; financial; optimization; models,paper_cdb9e45400d9,paper_cdb9e45400d9
+623,1,vertex; disjoint; packing; two; steiner; trees,paper_9f6d4125be7a,paper_9f6d4125be7a
+624,1,two; homogeneous; self; dual; approaches; linear,paper_02011a6031d2,paper_02011a6031d2
+625,1,michele; aghassi; cdot; dimitris; bertsimas,paper_2eaafcfa564a,paper_2eaafcfa564a
+626,1,mathieu; van; vyve,paper_3dc694dd2e8c,paper_3dc694dd2e8c
+627,1,inequalities; zigzag; class; facet; inducing; arc,paper_90adc1315cbc,paper_90adc1315cbc
+628,1,varepsilon; approximation; algorithm; mst; problem,paper_07de12d41c60,paper_07de12d41c60
+629,1,erdo; cdot; iyengar,paper_770c64ac0697,paper_770c64ac0697
+630,1,constrained; minimum; weighted; sum; job; completion,paper_95171155d449,paper_95171155d449
+631,1,gap; between; quadratic; integer; programming; problem,paper_7e388fb117e4,paper_7e388fb117e4
+632,1,robust; mean; squared; error; estimation; multiple,paper_6a6ec70b920b,paper_6a6ec70b920b
+633,1,convergence; rate; newton; spectral; estimation,paper_39977f27f970,paper_39977f27f970
+634,1,robust; global; optimization; polynomials,paper_a9edabdbba1c,paper_a9edabdbba1c
+635,1,note; lipschitz; continuity; gradient; squared; norm,paper_0ba32cc3e56f,paper_0ba32cc3e56f
+636,1,ravi; amitabh; sinha,paper_54bf122053b2,paper_54bf122053b2
+637,1,robust; optimization; dynamic; pricing; inventory; control,paper_cc3a10fd5380,paper_cc3a10fd5380
+638,1,robust; optimization; contaminant; sensor; placement; community,paper_56f7a9d5b055,paper_56f7a9d5b055
+639,1,optimization; flag; manifolds,paper_52778da9ce70,paper_52778da9ce70
+640,1,solving; discrete; zero; point; problems,paper_0f1c31351cad,paper_0f1c31351cad
+641,1,competitive; multi; period; pricing; perishable; products,paper_4135ab8dd735,paper_4135ab8dd735
+642,1,martin; dyer; cdot; leen; stougie,paper_90f98e05d469,paper_90f98e05d469
+643,1,laurence; wolsey,paper_c1a320f8e52d,paper_c1a320f8e52d
+644,1,maximum; network; flows; concave; gains,paper_df52feac3d8e,paper_df52feac3d8e
+645,1,asymptotic; behaviour; family; gradient; algorithms; mathbb,paper_82d65a997d93,paper_82d65a997d93
+646,1,olga; kostyukova; cdot; ekaterina; kostina,paper_d50e301a9478,paper_d50e301a9478
+647,1,cdot; rin; marcotte; savard,paper_97041d701597,paper_97041d701597
+648,1,teresa; chu,paper_dc98036aea4d,paper_dc98036aea4d
+649,1,optimal; terminal; cuts; linear; programming,paper_05048a4b483f,paper_05048a4b483f
+650,1,cornu; jols; cdot; lemar; chal,paper_efd18dc78a6f,paper_efd18dc78a6f
+651,1,linear; programming; formulation; maximum; complete; multipartite,paper_f66b919fb108,paper_f66b919fb108
+652,1,conditional; value; risk; stochastic; programs; mixed,paper_ca2e9137db58,paper_ca2e9137db58
+653,1,approximation; algorithm; general; max; min; resource,paper_4a9589698367,paper_4a9589698367
+654,1,robert; freund,paper_334fa6b5c5ad,paper_334fa6b5c5ad
+655,1,polyhedral; generalized; vertex; packing; problem,paper_18c493893e0f,paper_18c493893e0f
+656,1,kathie; cameron; cdot; pavol; hell,paper_9e392797df44,paper_9e392797df44
+657,1,critical; extreme; points; edge; connected; spanning,paper_0fa4379e9366,paper_0fa4379e9366
+658,1,testing; strength,paper_e3d2675964f9,paper_e3d2675964f9
+659,1,ilp; refinement; heuristic; vehicle; routing; problems,paper_9edb1092bce8,paper_9edb1092bce8
+660,1,fptas; single; item; capacitated; economic; lot,paper_db3838fb0282,paper_db3838fb0282
+661,1,convexity; decomposition; mean; risk; stochastic; programs,paper_eff7ffb18925,paper_eff7ffb18925
+662,1,shebalov; cdot; klabjan,paper_7fecf58e3beb,paper_7fecf58e3beb
+663,1,controlled; rounding; cell; perturbation; statistical; disclosure,paper_f1d5592d24fc,paper_f1d5592d24fc
+664,1,polyhedra; related; integer; convex; polynomial; systems,paper_1d10e1c3ac8c,paper_1d10e1c3ac8c
+665,1,complexity; planar; directed; edge; disjoint; paths,paper_6e96d08b44b9,paper_6e96d08b44b9
+666,1,almost; all; webs; not; rank; perfect,paper_d1fb092da6bd,paper_d1fb092da6bd
+667,1,algorithms; singly; linearly; constrained; quadratic; programs,paper_442c6eb408d1,paper_442c6eb408d1
+668,1,static; arbitrage; bounds; basket; option; prices,paper_3d784165a1b4,paper_3d784165a1b4
+669,1,status; determination; interior; point; convex; optimization,paper_a2a22464c03f,paper_a2a22464c03f
+670,1,note; undirected; rural; postman; problem; polytope,paper_b4b6e80b130f,paper_b4b6e80b130f
+671,1,combinatorial; algorithm; computing; rank; generic; partitioned,paper_36f20609e175,paper_36f20609e175
+672,1,linear; optimization; wasserstein; balls,paper_36e6a3048fad,paper_36e6a3048fad
+673,1,spectral; bundle; non; convex; maximum; eigenvalue,paper_ce1b434986d6,paper_ce1b434986d6
+674,1,typical; convex; program; very; well; posed,paper_026cadf525b7,paper_026cadf525b7
+675,1,calmness; constraint; systems; applications,paper_63d42b460c03,paper_63d42b460c03
+676,1,error; bounds; eigenvalue; semidefinite; matrix; inequality,paper_9b405525cc53,paper_9b405525cc53
+677,1,sufficient; matrices; belong; mathbf,paper_72cbe9f1eba3,paper_72cbe9f1eba3
+678,1,decomposition; dynamic; cut; generation; integer; linear,paper_f160cf22958a,paper_f160cf22958a
+679,1,hans; jakob; thi; cdot; doege,paper_425edadbd87c,paper_425edadbd87c
+680,1,improved; complexity; results; solving; real; number,paper_14f40ff419da,paper_14f40ff419da
+681,1,geometric; condition; fenchel; duality; infinite; dimensional,paper_2a99afbebcb5,paper_2a99afbebcb5
+682,1,local; minimax; characterization; computing; multiple; nonsmooth,paper_ac18fecdd757,paper_ac18fecdd757
+683,1,interval; constrained; global; optimization,paper_3660ae306051,paper_3660ae306051
+684,1,subgradient; distance; functions; applications; lipschitzian; stability,paper_27edebf456d1,paper_27edebf456d1
+685,1,collusive; game; solutions; optimization,paper_35c00899e8c2,paper_35c00899e8c2
+686,1,variational; functions; roots; polynomials,paper_ed0202cb3754,paper_ed0202cb3754
+687,1,dominikus; noll; cdot; pierre; apkarian,paper_0affa3795e02,paper_0affa3795e02
+688,1,global; optima; results; kauffman; model,paper_045db5fbe0be,paper_045db5fbe0be
+689,1,relaxation; optimal; control; problem; involving; perturbed,paper_5e092805dbcc,paper_5e092805dbcc
+690,1,jein; shan; chen; cdot; paul; tseng,paper_1a691953d8d0,paper_1a691953d8d0
+691,1,newton; nonsmooth; convex; minimization; connections; among,paper_e0cfe2edbea9,paper_e0cfe2edbea9
+692,1,mathcal; algorithm; convex; minimization,paper_3ff679ad0aaf,paper_3ff679ad0aaf
+693,1,lexicographic; differentiation; nonsmooth; functions,paper_e8e787cfb69c,paper_e8e787cfb69c
+694,1,ric; bonnans; cdot; ctor; ram; rez,paper_a556d13fce62,paper_a556d13fce62
+695,1,enumerative; inequalities; integer; programming,paper_a436f1452970,paper_a436f1452970
+696,1,ranking; convex; functions,paper_96b1f5708b86,paper_96b1f5708b86
+697,1,language; nonlinear; programming; problems,paper_a2a7f876a0a6,paper_a2a7f876a0a6
+698,1,balanced; hypergraphs,paper_e8430890b5d0,paper_e8430890b5d0
+699,1,extremization; functions; equality; constraints,paper_7b71b406ec73,paper_7b71b406ec73
+700,1,xin; chen; cdot; houduo,paper_967ce8941221,paper_967ce8941221
+701,1,primal; dual; nonlinear; rescaling; dynamic; scaling,paper_b20de006ed41,paper_b20de006ed41
+702,1,optimized; relative; step; size; random; searches,paper_cc81eb679960,paper_cc81eb679960
+703,1,note; complementary; variant; lemke,paper_1e7d495d5090,paper_1e7d495d5090
+704,1,analytical; solution; dynamic; transaction; flow; problem,paper_cd9f74c18aed,paper_cd9f74c18aed
+705,1,eclectic; primal; algorithm; cutting; plane; that,paper_51c02ddecd91,paper_51c02ddecd91
+706,1,theorem; fixed; point; including; last; poincare,paper_a505493af18b,paper_a505493af18b
+707,1,procedure; rank; bases; probability; being; optimal,paper_396bbdb00a1c,paper_396bbdb00a1c
+708,1,specialised; versus; general; purpose; algorithms; minimising,paper_aeb7cbe0342f,paper_aeb7cbe0342f
+709,1,algorithm; determination; longest; distances; graph,paper_b242f2355879,paper_b242f2355879
+710,1,extension; curry; theorem; steepest; descent; normed,paper_93054cb9afb2,paper_93054cb9afb2
+711,1,general; saddle; point; condition; normed; spaces,paper_9c61993d2da6,paper_9c61993d2da6
+712,1,convergence; conditions; restated; conjugate; gradient; inaccurate,paper_a8b2f0daecf2,paper_a8b2f0daecf2
+713,1,quadratic; duality; convex; cone; domains,paper_5e7c0445913e,paper_5e7c0445913e
+714,1,some; computationally; relevant; group; theoretic; structures,paper_3f34cffb4229,paper_3f34cffb4229
+715,1,number; solutions; linear; complementary; problem,paper_e901dd4c8a3b,paper_e901dd4c8a3b
+716,1,practical; convergence; conditions; davidon; fletcher; powell,paper_b80d43262ccc,paper_b80d43262ccc
+717,1,projections; minimax; algebra,paper_9799dd664cf9,paper_9799dd664cf9
+718,1,some; theoretical; implications; local; optimization,paper_a572b02f70ee,paper_a572b02f70ee
+719,1,quasi; balanced; matrices; addendum,paper_74291d9f71d3,paper_74291d9f71d3
+720,1,fractional; programming; without; differentiability,paper_16b2055aca75,paper_16b2055aca75
+721,1,strongly; degenerate; complementary; cones; solution; rays,paper_4b5f39b89177,paper_4b5f39b89177
+722,1,readily; implementable; conjugate; gradient,paper_4fede7c0665b,paper_4fede7c0665b
+723,1,computational; complexity; inner; outer; radii; polytopes,paper_e8a62af58f87,paper_e8a62af58f87
+724,1,class; convergent; primal; dual; subgradient; algorithms,paper_de1803107ef2,paper_de1803107ef2
+725,1,integer; cutting; planes; programs; general; variables,paper_92e422d38fc8,paper_92e422d38fc8
+726,1,integer; programming; class; combinatorial; problems,paper_e29400396cf7,paper_e29400396cf7
+727,1,second; order; necessary; optimality; conditions; minimizing,paper_e51bd38e43a1,paper_e51bd38e43a1
+728,1,concavity; quasi; pseudo; cubic; functions,paper_44c76897ae8f,paper_44c76897ae8f
+729,1,optimization; approximate; lagrangian,paper_82b2b482b57e,paper_82b2b482b57e
+730,1,copositive; mathbf; matrix; which; not,paper_294dcea9121e,paper_294dcea9121e
+731,1,improved; penalty; calculations; mixed; integer; branch,paper_bea169f42721,paper_bea169f42721
+732,1,exchange; price; equilibria; variational; inequalities,paper_82d57736816a,paper_82d57736816a
+733,1,unified; one; parametric; general; quadratic; programming,paper_abd97cd335f6,paper_abd97cd335f6
+734,1,pure; adaptive; search; global; optimization,paper_aed6189cac10,paper_aed6189cac10
+735,1,self; scaling; quasi; newton,paper_94a0129578c6,paper_94a0129578c6
+736,1,cyclical; games; prohibitions,paper_0e0a1647b470,paper_0e0a1647b470
+737,1,cuts; polyhedron; all; vertices; adjacency,paper_44dfb91ec7a6,paper_44dfb91ec7a6
+738,1,tensor; large; sparse; systems; nonlinear; equations,paper_37b4268fde63,paper_37b4268fde63
+739,1,hesitant; adaptive; search; global; optimisation,paper_fa1d7c5a9f30,paper_fa1d7c5a9f30
+740,1,persistence; quadratic; optimization,paper_bcaa4c06c612,paper_bcaa4c06c612
+741,1,fenchel; type; duality; matroid; valuations,paper_1d8d82845d78,paper_1d8d82845d78
+742,1,examples; max; flow; min; cut; problems,paper_18b6aab498be,paper_18b6aab498be
+743,1,implementing; efficient; minimum; capacity; cut; algorithm,paper_a498b9283ddd,paper_a498b9283ddd
+744,1,hybrid; programs; linear; least; distance,paper_99bc3bdc9bb2,paper_99bc3bdc9bb2
+745,1,global; minimum; test; problem; construction,paper_3f81bafa93b1,paper_3f81bafa93b1
+746,1,homotopy; finding; all; roots; polynomial,paper_59b330b33f68,paper_59b330b33f68
+747,1,european; assembly; constituencies; wales; comparing; solving,paper_7aa00af96b5c,paper_7aa00af96b5c
+748,1,cutting; stock; problem; integer; rounded,paper_05c495959e78,paper_05c495959e78
+749,1,forest; covers; polyhedral; intersection; theorem,paper_13c262b9241d,paper_13c262b9241d
+750,1,mathrm; adaptive; path; following; algorithm; linear,paper_d118c2cea883,paper_d118c2cea883
+751,1,systems; finding; all; solutions; polynomial; other,paper_f692385b70ba,paper_f692385b70ba
+752,1,bounded; linear; regularity; convex; sets; banach,paper_f3ed1231f479,paper_f3ed1231f479
+753,1,plane; sections; simplices,paper_2c8dd72dc9d2,paper_2c8dd72dc9d2
+754,1,linear; complementarity; problems; multiple; objective; programming,paper_e7a361ffb907,paper_e7a361ffb907
+755,1,testing; balancedness; perfection; linear; matrices,paper_60afeb7edaf6,paper_60afeb7edaf6
+756,1,matrices,paper_28b375647c8f,paper_28b375647c8f
+757,1,computation; equilibria; economy; increasing; returns; scale,paper_c843a4ef20b1,paper_c843a4ef20b1
+758,1,generalized; knapsack; problem; variable; coefficients,paper_fa17c28745cd,paper_fa17c28745cd
+759,1,solvable; case; traveling; salesman; problem,paper_9255a280af78,paper_9255a280af78
+760,1,random; inequality; constraint; systems; few; variables,paper_dacc8dfb251c,paper_dacc8dfb251c
+761,1,second; order; derivative; connections; between; approximate,paper_1a5581d31b34,paper_1a5581d31b34
+762,1,unification; two; classes; matrices,paper_cf186d2bd515,paper_cf186d2bd515
+763,1,property; continuous; unbounded; algorithms,paper_72039cc72908,paper_72039cc72908
+764,1,pin; redistribution; problem; multi; chip; modules,paper_cad8752d45eb,paper_cad8752d45eb
+765,1,random; linear; programs; many; variables; few,paper_a0c56a6ec932,paper_a0c56a6ec932
+766,1,conditions; discovery; solution; horizons,paper_593ce8c8b61c,paper_593ce8c8b61c
+767,1,monotonic; passy; like; algorithm; modular; design,paper_914a117f0747,paper_914a117f0747
+768,1,recession; cones; domination; property; vector; optimization,paper_fb59b44236ef,paper_fb59b44236ef
+769,1,pivoting; normalize; basic; matrix,paper_eb3239559e5d,paper_eb3239559e5d
+770,1,mathematical; programming; oberwolfach,paper_76d4b7b74d37,paper_76d4b7b74d37
+771,1,value; functions; domination; cones; proper; efficiency,paper_6a8402e2d24d,paper_6a8402e2d24d
+772,1,another; note; bimatrix; games,paper_4f5b93609785,paper_4f5b93609785
+773,1,structural; properties; decomposition; linear; balanced; matrices,paper_95488307dd6d,paper_95488307dd6d
+774,1,optimal; expansion; existing; network,paper_5c09170608b0,paper_5c09170608b0
+775,1,note; necessary; conditions; exact; aggregation; linear,paper_d599caa57d8f,paper_d599caa57d8f
+776,1,hierarchical; partition; optimal; pivoting; algorithm,paper_7fdb994e4cef,paper_7fdb994e4cef
+777,1,efficient; algorithm; minimum; covers; weighted; graphs,paper_aff94c53bf81,paper_aff94c53bf81
+778,1,contingent; derivatives; set; valued; maps; applications,paper_4b055e909a45,paper_4b055e909a45
+779,1,algorithm; piecewise; linear; model; trade; production,paper_26feb39918b0,paper_26feb39918b0
+780,1,matrix; factorizations; optimization; nonlinear; functions; subject,paper_767a6695424a,paper_767a6695424a
+781,1,area; efficient; drawings; rectangular; duals; vlsi,paper_1fdfe59e4339,paper_1fdfe59e4339
+782,1,fractional; knapsack; problems,paper_abc56d74606d,paper_abc56d74606d
+783,1,formulating; objective; economy,paper_8074679ebd19,paper_8074679ebd19
+784,1,scheduling; positional; completion; times; two; stage,paper_a453897d9511,paper_a453897d9511
+785,1,hybrid; discrete; mathematical; programming,paper_ea4614706590,paper_ea4614706590
+786,1,pure; adaptive; search; monte; carlo; optimization,paper_7ed8d422f9e4,paper_7ed8d422f9e4
+787,1,hierarchical; decomposition; symmetric; discrete; systems; matroid,paper_f5313c298a13,paper_f5313c298a13
+788,1,deforming; subdivisions,paper_7afaf096d4a2,paper_7afaf096d4a2
+789,1,worst; case; greedy; related; heuristics; some,paper_7f10268da74b,paper_7f10268da74b
+790,1,some; recent; results; person; game; theory,paper_0c4d2eb5784e,paper_0c4d2eb5784e
+791,1,experiments; mixed; integer; linear; programming,paper_871c55beb56b,paper_871c55beb56b
+792,1,cyclic; subgradient; projections,paper_4d63bbcb8c2e,paper_4d63bbcb8c2e
+793,1,algorithms; generalized; fractional; programming,paper_8a45bd078dfd,paper_8a45bd078dfd
+794,1,class; linear; variational; inequalities,paper_f693c745d55e,paper_f693c745d55e
+795,1,solution; behavior; parametric; implicit; complementarity; problems,paper_830934b8adff,paper_830934b8adff
+796,1,note; theorem; browder,paper_9e535ce47703,paper_9e535ce47703
+797,1,triangulation; simplicial; homotopy; algorithms; computing; solutions,paper_932981c3e2fa,paper_932981c3e2fa
+798,1,relaxation; reconstructing; objects; noisy; rays,paper_76713b988a0b,paper_76713b988a0b
+799,1,rank; maximum; matchings; graph,paper_35d7a780ec50,paper_35d7a780ec50
+800,1,patching; algorithms; random; asymmetric; travelling; salesman,paper_c0dbe283bb48,paper_c0dbe283bb48
+801,1,duality; disjunctive; programming; vector; optimization,paper_d4a55de7d4f7,paper_d4a55de7d4f7
+802,1,optimality; transient; markov; chains; linear; programming,paper_243694d9a48d,paper_243694d9a48d
+803,1,parallel; branch; bound; algorithm; solving; large,paper_e3fc922c054d,paper_e3fc922c054d
+804,1,formulation; problem,paper_cfbe6dd8b20d,paper_cfbe6dd8b20d
+805,1,entropy; linear; programs,paper_c2b102342a7a,paper_c2b102342a7a
+806,1,stochastic; line; knapsack; problems,paper_5f0fc0d298ab,paper_5f0fc0d298ab
+807,1,gale; transforms; computational; geometry,paper_54af1c75fa7b,paper_54af1c75fa7b
+808,1,characterization; stable; matchings; extreme; points; polytope,paper_84a993964811,paper_84a993964811
+809,1,relaxation; algorithms; minimax; optimization; problems; resource,paper_ce8e8973e8c4,paper_ce8e8973e8c4
+810,1,property; polyhedral; sets,paper_c5e8039c7bb7,paper_c5e8039c7bb7
+811,1,four; problems; graphs; excused; minors,paper_1c6e0df76c67,paper_1c6e0df76c67
+812,1,unconstrained; optimization; homogeneous; models,paper_bad66217cda3,paper_bad66217cda3
+813,1,result; surrogate; duality; certain; integer; programming,paper_56f10e0be887,paper_56f10e0be887
+814,1,note; quasi; newton; formulae; sparse; second,paper_14a4dd2dcb2a,paper_14a4dd2dcb2a
+815,1,games; corresponding; sequencing; situations; ready; times,paper_182f532bc1f0,paper_182f532bc1f0
+816,1,staircase; transportation; problems; superadditive; rewards; cumulative,paper_a5b13d8da84f,paper_a5b13d8da84f
+817,1,distance; constrained; facility; location; problem; real,paper_d087470e49bf,paper_d087470e49bf
+818,1,existence; characterization; efficient; decisions; respect; cones,paper_71d0f9c57b29,paper_71d0f9c57b29
+819,1,worst; case; class; set; covering; heuristics,paper_2f2ec51d27ef,paper_2f2ec51d27ef
+820,1,problems; equivalence; nonlinear; complementarity; least; element,paper_830f975a2452,paper_830f975a2452
+821,1,weak; majorization; polyhedra,paper_fb3edeceb59d,paper_fb3edeceb59d
+822,1,nonsingularity; symmetry; linear; normal; maps,paper_428c36563484,paper_428c36563484
+823,1,polynomial; time; algorithm; computing; yolk; fixed,paper_3b6535828f65,paper_3b6535828f65
+824,1,complexity; piecewise; linear; algorithm; approximating; roots,paper_406c0a0d3d26,paper_406c0a0d3d26
+825,1,eliminating; extraneus; edges; greenberg; algorithm,paper_92618ff3202b,paper_92618ff3202b
+826,1,generating; conjugate; directions; without; line; searches,paper_6c0a5d345609,paper_6c0a5d345609
+827,1,lipschitz; constant; associated; lemke; closest; point,paper_1f88928fd38a,paper_1f88928fd38a
+828,1,mathematical; programming; complementarity; fixed; point; problems,paper_af16090d0ce5,paper_af16090d0ce5
+829,1,fully; copositive; matrices,paper_3b0b89481512,paper_3b0b89481512
+830,1,convergence; iteration; sequence; primal; dual; interior,paper_dbb6b64590c2,paper_dbb6b64590c2
+831,1,positive; semi; monotone; matrices,paper_23af10a033d6,paper_23af10a033d6
+832,1,associated; maximization; problem; separable; games,paper_19a0cef17d28,paper_19a0cef17d28
+833,1,lower; subdifferentiability; quadratic; functions,paper_574a0fff187e,paper_574a0fff187e
+834,1,optimal; design; membrane; separation; process; signomial,paper_145b4b535fd2,paper_145b4b535fd2
+835,1,successive; quadratic; programming; algorithm; global; superlinear,paper_c23afc7db7fe,paper_c23afc7db7fe
+836,1,concave; extensions; nonlinear; maximization; problems,paper_6be24a707199,paper_6be24a707199
+837,1,mixed; integer; programming; special; logic; constrained,paper_4a949da4848b,paper_4a949da4848b
+838,1,degeneracy; infinite; horizon; optimization,paper_73334684cd00,paper_73334684cd00
+839,1,note; frank; tardos; truncation; algorithm; crossing,paper_2e6ee3561701,paper_2e6ee3561701
+840,1,upper; lower; second; order; directional; derivatives,paper_dc353f0cfa84,paper_dc353f0cfa84
+841,1,optimization; polyhedron; determined; submodular; function; intersecting,paper_1910013df408,paper_1910013df408
+842,1,additively; decomposed; quasiconvex; functions,paper_9e3a6108142b,paper_9e3a6108142b
+843,1,unifying; geometric; solution; framework; complexity; variational,paper_f7a5af90489f,paper_f7a5af90489f
+844,1,algorithm; solution; multi; state; dynamic; programming,paper_3a5e7208a312,paper_3a5e7208a312
+845,1,partition; problem,paper_3ba011219283,paper_3ba011219283
+846,1,convex; optimization; lagrange; multipliers,paper_86983d73515b,paper_86983d73515b
+847,1,stochastic; value; solution; linear; programs; fixed,paper_1f3801491e73,paper_1f3801491e73
+848,1,implicit; function; theorems; generalized; equations,paper_c8fe256261e9,paper_c8fe256261e9
+849,1,contributions; theory; stochastic; programming,paper_bed0361d91e1,paper_bed0361d91e1
+850,1,windy; postman; problem; eulerian; graphs,paper_df75ca058c33,paper_df75ca058c33
+851,1,series; parallel; composition; greedy; linear; programming,paper_b629c8592c58,paper_b629c8592c58
+852,1,inexact; subgradient; applications; stochastic; programming,paper_dc510e4d1b54,paper_dc510e4d1b54
+853,1,exterior; point; algorithms; nearest; points; convex,paper_b353cd09b7e3,paper_b353cd09b7e3
+854,1,axiomatic; statistical; models; their; use; multimodal,paper_bde677a9ee8c,paper_bde677a9ee8c
+855,1,max; horn; sat; minimum; cut; problem,paper_572908fa7f73,paper_572908fa7f73
+856,1,constraint; classification; mathematical; programming,paper_5cef2d4a0981,paper_5cef2d4a0981
+857,1,relationship; between; integer; real; solutions; constrained,paper_4f185144bbcb,paper_4f185144bbcb
+858,1,mathbf; chebyshev; estimation,paper_5262b4ff2f2c,paper_5262b4ff2f2c
+859,1,efficient; cost; scaling; algorithm; assignment; problem,paper_2841470576f2,paper_2841470576f2
+860,1,note; about; sparsity; exploiting; quasi; newton,paper_b26b5fbab064,paper_b26b5fbab064
+861,1,normal; conical; algorithm; concave; minimization; polytopes,paper_3899146a32af,paper_3899146a32af
+862,1,parametric; linear; complementarity; problem; involving; derivatives,paper_fa77cdd66e84,paper_fa77cdd66e84
+863,1,polyhedra; related; lattice,paper_7205ddf44c30,paper_7205ddf44c30
+864,1,dual; bin; packing; items; random; sizes,paper_712f9d13b30c,paper_712f9d13b30c
+865,1,probabilistic; switching; algorithm; euclidean; tsp,paper_778cd97b5be5,paper_778cd97b5be5
+866,1,decomposition; algorithms; locating; minimal; cuts; network,paper_4af322c46725,paper_4af322c46725
+867,1,convex; hull; two; core; capacitated; network,paper_1105d15a8bd8,paper_1105d15a8bd8
+868,1,min; solving; combinatorial; problems; combined; max,paper_130d013117db,paper_130d013117db
+869,1,parallel; quasi; newton; unconstrained; optimization,paper_3bf412094e17,paper_3bf412094e17
+870,1,lifting; procedure; asymmetric; traveling; salesman; polytope,paper_03d2b82d33bf,paper_03d2b82d33bf
+871,1,globally; quadratically; convergent; affine; scaling; linear,paper_21539a0d3eb6,paper_21539a0d3eb6
+872,1,principal; pivoting; revisited,paper_e6ab1e6dcc73,paper_e6ab1e6dcc73
+873,1,local; convergence; tensor; nonlinear; equations,paper_55ec50249988,paper_55ec50249988
+874,1,decomposition; general; mathematical; programming,paper_be45b763af46,paper_be45b763af46
+875,1,average; complexity; global; optimization; problems,paper_9455d46d62b2,paper_9455d46d62b2
+876,1,balinski; tucker; simplex; tableaus; dimensions; degeneracy,paper_269bd32b63c3,paper_269bd32b63c3
+877,1,class; onto; multifunctions,paper_73dc6a5a236f,paper_73dc6a5a236f
+878,1,properties; representation; basis; null; space,paper_fdb785b88d5d,paper_fdb785b88d5d
+879,1,characterization; weakly; efficient; points,paper_768c32c5250e,paper_768c32c5250e
+880,1,euclidean; semi; matchings; random; samples,paper_a55632c27466,paper_a55632c27466
+881,1,constructive; proof; permutation; generalization; sperner; lemma,paper_684d94c3b773,paper_684d94c3b773
+882,1,combining; path; parametric; linear; programming; computation,paper_82e56b7d2755,paper_82e56b7d2755
+883,1,note; continuity; solutions; parametric; linear; programs,paper_bae7548a0f84,paper_bae7548a0f84
+884,1,numerical; investigation; rank; two; ellipsoid; algorithms,paper_939b60303dfe,paper_939b60303dfe
+885,1,collinear; scaling; algorithms; deriving; extensions; quasi,paper_7e947fc907ca,paper_7e947fc907ca
+886,1,note; exploiting; structure; when; slack; variables,paper_7fdc4a4c17e4,paper_7fdc4a4c17e4
+887,1,varepsilon; optimality; criteria; convex; programming; problems,paper_a3eaa1e7e449,paper_a3eaa1e7e449
+888,1,restricted; simplicial; decomposition; convex; constrained; problems,paper_e8d59916de51,paper_e8d59916de51
+889,1,convex; algorithm; solving; programs; additional; concave,paper_b356ae4b406c,paper_b356ae4b406c
+890,1,effort; associated; class; random; optimization,paper_89164f984414,paper_89164f984414
+891,1,cutting; plane; algorithm; windy; postman; problem,paper_3f3f01c6cb60,paper_3f3f01c6cb60
+892,1,column; generation; algorithm; nonlinear; programming,paper_edf257295c1f,paper_edf257295c1f
+893,1,numerically; stable; optimization; homogeneous; function,paper_32dcac4d645f,paper_32dcac4d645f
+894,1,fast; robust; unconstrained; optimization; requiring; minimum,paper_134592bac54a,paper_134592bac54a
+895,1,remarks; generalized; newton,paper_7fe97be4cfcb,paper_7fe97be4cfcb
+896,1,crashing; maximum; weight; complementary; basis,paper_52748dc5da61,paper_52748dc5da61
+897,1,primal; dual; linear; programming,paper_93b658f52f1e,paper_93b658f52f1e
+898,1,nonlinear; programming; stationary; equilibria; stochastic; games,paper_579f1d14a9dd,paper_579f1d14a9dd
+899,1,solving; large; scale; matching; problems; combinatorially,paper_2856b27a8ddf,paper_2856b27a8ddf
+900,1,rudiments; average; case; complexity; theory; piecewise,paper_94eeb1e01a58,paper_94eeb1e01a58
+901,1,extremal; points; quasiconvex; functions,paper_1199932190f2,paper_1199932190f2
+902,1,hamiltonian; path; symmetric; travelling; salesman; polytopes,paper_6d0145159e9a,paper_6d0145159e9a
+903,1,efficiency; multiple; objective; optimization; problems,paper_f62b594f1682,paper_f62b594f1682
+904,1,cut; search; integer; programming,paper_f879dec2722a,paper_f879dec2722a
+905,1,bounded; knapsack; sharing,paper_7f9a6c2b090f,paper_7f9a6c2b090f
+906,1,algorithms; non; convex; games,paper_32e009cac678,paper_32e009cac678
+907,1,simplex; algorithm; piecewise; linear; programming; iii,paper_f6d5c5c3da5b,paper_f6d5c5c3da5b
+908,1,solving; knapsack; sharing; problems; general; tradeoff,paper_86935e51a5cf,paper_86935e51a5cf
+909,1,influence; curve; data; envelopment,paper_b2ce6808324e,paper_b2ce6808324e
+910,1,greedy; algorithm; solving; class; convex; programming,paper_c057109cbc1e,paper_c057109cbc1e
+911,1,homotopy; continuation; solving; normal; equations,paper_46e0757cf217,paper_46e0757cf217
+912,1,efficient; group; cuts; integer; programs,paper_8d8a03323371,paper_8d8a03323371
+913,1,geometric; structure; independence; systems,paper_56ccdf6c0297,paper_56ccdf6c0297
+914,1,load; balancing; parallel; optimization; block; angular,paper_c5993d118c44,paper_c5993d118c44
+915,1,factorized; quasi; newton; nonlinear; least; squares,paper_b03bda74e5f4,paper_b03bda74e5f4
+916,1,some; computational; results; ahrens; finke; handling,paper_7baf6834c799,paper_7baf6834c799
+917,1,simplex; pivots; set; packing; polytope,paper_53b42ce567e3,paper_53b42ce567e3
+918,1,comments; note; frieze,paper_7dcfcb98f5c9,paper_7dcfcb98f5c9
+919,1,some; problems; discrete; optimization,paper_f97f3dd59a6f,paper_f97f3dd59a6f
+920,1,parallel; newton; nonlinear; complementarity; problem,paper_33221e6a0981,paper_33221e6a0981
+921,1,almost; matrices; class,paper_24dbe33ddb88,paper_24dbe33ddb88
+922,1,directional; derivative; estimates; optimal; value; function,paper_216512dec5e6,paper_216512dec5e6
+923,1,determination; optimal; vertices; feasible; solutions; unimodular,paper_ffacef238362,paper_ffacef238362
+924,1,optimal; sub; stopping; rules; multistart; algorithm,paper_9da69b72fe30,paper_9da69b72fe30
+925,1,facets; lifting; procedures; set; covering; polytope,paper_991bd1786d36,paper_991bd1786d36
+926,1,infeasible; exterior; point; simplex; algorithm; assignment,paper_cf2bf837280f,paper_cf2bf837280f
+927,1,conjugate; direction; variable; storage,paper_fd642b874a58,paper_fd642b874a58
+928,1,sup; gauss; newton; convex; composite; optimization,paper_96a0a21428be,paper_96a0a21428be
+929,1,complexity; linear; complementarity; algorithm; lyapunov; function,paper_e3be8e813386,paper_e3be8e813386
+930,1,optimal; conditioning; convex; class; rank; two,paper_fc64bc9f2fee,paper_fc64bc9f2fee
+931,1,differential; equation; nonlinear; programming,paper_33158366e768,paper_33158366e768
+932,1,lagrange; multiplier; rule; small; convex; valued,paper_ef62eb086c78,paper_ef62eb086c78
+933,1,computational; utility; posynomial; geometric; programming; solution,paper_990a7d20882c,paper_990a7d20882c
+934,1,constrained; min; max; algorithm; rival; models,paper_db5fc9fb0929,paper_db5fc9fb0929
+935,1,homeomorphisms; triangulations; applications; computing; fixed; points,paper_6bbf137d1b2e,paper_6bbf137d1b2e
+936,1,technique; speeding; solution; lagrangean; dual,paper_48f0c1d012ab,paper_48f0c1d012ab
+937,1,programming; generalized; dynamic; integer,paper_4c49d1ff83c2,paper_4c49d1ff83c2
+938,1,box; totally; dual; integral; polyhedra,paper_44dfa74f9ced,paper_44dfa74f9ced
+939,1,asymptotic; exponential; penalty; trajectory; linear; programming,paper_aadcb76ad1f9,paper_aadcb76ad1f9
+940,1,matrices,paper_3bc61ca886c8,paper_3bc61ca886c8
+941,1,characterization; barrier; parameter; homogeneous; convex; cones,paper_0317e22d61c1,paper_0317e22d61c1
+942,1,braess; paradox,paper_50899b5e216a,paper_50899b5e216a
+943,1,interior; point; generalized; linear; fractional; programming,paper_81c551fd0a5b,paper_81c551fd0a5b
+944,1,penalty; computing; points; that; satisfy; second,paper_9f2ffa0201b0,paper_9f2ffa0201b0
+945,1,critical; index; algorithm; nearest; point; problems,paper_986576e64c63,paper_986576e64c63
+946,1,technique; generating; quadratic; programming; test; problems,paper_5b4f6b22d9cd,paper_5b4f6b22d9cd
+947,1,one; way; solve; parametric; quadratic; programming,paper_21d6876596cc,paper_21d6876596cc
+948,1,shadow; prices; nonconvex; mathematical; programming,paper_f7b31a80d005,paper_f7b31a80d005
+949,1,pairwise; reactive; sor; algorithm; quadratic; programming,paper_41ce902a8999,paper_41ce902a8999
+950,1,model; generalized; linear; production; unifying,paper_8362f2c074ca,paper_8362f2c074ca
+951,1,linearizations; linearly; constrained; nonconvex; nonsmooth; minimization,paper_cf3619713834,paper_cf3619713834
+952,1,matroid; algorithms; linear; intersection; parity; problems,paper_a6299e90bfbb,paper_a6299e90bfbb
+953,1,regular; systems,paper_135ab802bd89,paper_135ab802bd89
+954,1,manne; chao; wilson; algorithm; computing; competitive,paper_0ad49886e6e7,paper_0ad49886e6e7
+955,1,improved; integer; programming; bounds; intersections; corner,paper_bb5cf8b906d8,paper_bb5cf8b906d8
+956,1,approximability; flow; shop; scheduling,paper_2c32de892b2f,paper_2c32de892b2f
+957,1,odd; cycles; matrices; integrality; properties,paper_e8ecdd218e5d,paper_e8ecdd218e5d
+958,1,note; characterization; matrices,paper_10f03d176136,paper_10f03d176136
+959,1,network; problems; equivalence; some; generalized; pure,paper_ecbaf6c34752,paper_ecbaf6c34752
+960,1,scheduling; uniform; machines; line; requires; nondecreasing,paper_2d1fb25cd165,paper_2d1fb25cd165
+961,1,lower; bound; updates; primal; potential; reduction,paper_502f23f50d1a,paper_502f23f50d1a
+962,1,cutting; plane; proofs; polynomial; space,paper_0a86609cc348,paper_0a86609cc348
+963,1,blocking; antiblocking; sets,paper_e633a065fb82,paper_e633a065fb82
+964,1,row; action; convex; programming,paper_193f31f5dff7,paper_193f31f5dff7
+965,1,applications; general; convergence; theory; outer; approximation,paper_ab8b013f71c9,paper_ab8b013f71c9
+966,1,polynomial; time; simplex; maximum; flow; problem,paper_33da49af01e5,paper_33da49af01e5
+967,1,stage; two; linear; programming; uncertainty; integer,paper_3f4b98890cb5,paper_3f4b98890cb5
+968,1,solution; two; ball; trust; region; subproblem,paper_475a65570e83,paper_475a65570e83
+969,1,differentiability; respect; parameters; solutions; convex; programming,paper_45f63b2888b7,paper_45f63b2888b7
+970,1,trust; region; algorithm; nonsmooth; optimization,paper_66082db2510e,paper_66082db2510e
+971,1,least; index; resolution; degeneracy; quadratic; programming,paper_d62def5fde24,paper_d62def5fde24
+972,1,convergence; interval; type; algorithms; generalized; fractional,paper_0586d5c36901,paper_0586d5c36901
+973,1,nonlinear; programming; stationary; strategies; stochastic; games,paper_6993e4c43834,paper_6993e4c43834
+974,1,fan; matrices; linear; complementarity; problems,paper_0881afe6e466,paper_0881afe6e466
+975,1,steiner; problem; fagnano; result; sphere,paper_f5f807bfecf9,paper_f5f807bfecf9
+976,1,class; gap; functions; variational; inequalities,paper_0413b819e42a,paper_0413b819e42a
+977,1,continuity; lagrangian; multiplier; function; input; optimization,paper_2ef021fb2188,paper_2ef021fb2188
+978,1,note; solvability; class; linear; complementarity; problems,paper_2c9c2c43d1d7,paper_2c9c2c43d1d7
+979,1,example; ill; conditioned; nlp; problem,paper_3b22f77c63a5,paper_3b22f77c63a5
+980,1,use; penumbras; blocking; antiblocking; theory,paper_dd6377937fed,paper_dd6377937fed
+981,1,quasi; balanced; matrices,paper_7e31bfc6415f,paper_7e31bfc6415f
+982,1,generalized; linear; complementarity; problem; algorithm; find,paper_c07791daa7c6,paper_c07791daa7c6
+983,1,recognition; problems; special; classes; polynomials; variables,paper_8ea858a42f13,paper_8ea858a42f13
+984,1,quasidifferentials; maximal; normal; operators,paper_60e28c17cf0e,paper_60e28c17cf0e
+985,1,optimal; objective; function; approximation; separable; convex,paper_e2158087d509,paper_e2158087d509
+986,1,problem; maximum; matching; arising; median; location,paper_4553769ad15b,paper_4553769ad15b
+987,1,piecewise; convex; programs,paper_e5ffdac8f78c,paper_e5ffdac8f78c
+988,1,numerical; class; continuous; concave; programming; problems,paper_9d4a4771f42e,paper_9d4a4771f42e
+989,1,utilization; mathematical; programming; public; systems; application,paper_1c9bf450632a,paper_1c9bf450632a
+990,1,upper; bound; expectation; simplicial; functions; multivariate,paper_5f4ec9cb9216,paper_5f4ec9cb9216
+991,1,convergence; annealing; algorithm,paper_60ec38c7d5e3,paper_60ec38c7d5e3
+992,1,short; communication; note; open; problem; linear,paper_d5ad1bb82f05,paper_d5ad1bb82f05
+993,1,towards; equitable; distribution; proportional; equity; constraints,paper_573c892ff566,paper_573c892ff566
+994,1,programming; multicriteria; integer; hybrid; dynamic; recursive,paper_cca51cd90f36,paper_cca51cd90f36
+995,1,algebraic; optimization; fermat; weber; location; problem,paper_88568a365aa0,paper_88568a365aa0
+996,1,interior; point; rank; updates; linear; programming,paper_42cf9f4fdd8a,paper_42cf9f4fdd8a
+997,1,inverse; programming; theory; examples,paper_72db47a081f0,paper_72db47a081f0
+998,1,theory; algorithms; linear; multiple; objective; programs,paper_b301027541db,paper_b301027541db
+999,1,algorithm; optimization,paper_475b4a6b2f0d,paper_475b4a6b2f0d
+1000,1,makespan; minimization; open; shops; polynomial; time,paper_f4359d558c0d,paper_f4359d558c0d
+1001,1,descent; linear; programming; subproblems; nondifferentiable; convex,paper_eb03cbf09a62,paper_eb03cbf09a62
+1002,1,about; minimax; theorem; matthies; strang; christiansen,paper_016fc9d40713,paper_016fc9d40713
+1003,1,mathematical; programming; stochastic; systems; modeling; identification,paper_c8c8f1ba6c90,paper_c8c8f1ba6c90
+1004,1,superfluous; matrices; linear; complementarity,paper_fc196cef72b8,paper_fc196cef72b8
+1005,1,global; quadratic; algorithm; solving; system; mixed,paper_9c4a707cad7f,paper_9c4a707cad7f
+1006,1,computational; results; algorithm; finding; all; vertices,paper_421b39425c86,paper_421b39425c86
+1007,1,investigation; some; branch; bound; strategies; solution,paper_a8df5671ba5b,paper_a8df5671ba5b
+1008,1,mathematical; programming; system; preference; compatibility; maximized,paper_db27fb5e0288,paper_db27fb5e0288
+1009,1,cut; subgraph; polytope,paper_7174f0fd6572,paper_7174f0fd6572
+1010,1,cost; approximating; all; roots; complex; polynomial,paper_3c87c3691ce4,paper_3c87c3691ce4
+1011,1,function; filled; finding; global; minimizer; several,paper_28f63dbda484,paper_28f63dbda484
+1012,1,linearization; mixed; integer; products,paper_71e99f64a528,paper_71e99f64a528
+1013,1,pseudopower; expansion; solutions; generalized; equations; constrained,paper_c2152beb36a3,paper_c2152beb36a3
+1014,1,optimization; simulation; nonsmooth; rigid; multibody; dynamics,paper_1aa7433701fc,paper_1aa7433701fc
+1015,1,shortest; path; algorithms; knapsack; type; problems,paper_b371ae816489,paper_b371ae816489
+1016,1,general; quadratic; optimization; problem,paper_60e3a2318840,paper_60e3a2318840
+1017,1,primal; proximal; heuristic; applied; french; unit,paper_1f6f34a76dd5,paper_1f6f34a76dd5
+1018,1,parallel; application; block; iterative; medical; imaging,paper_fcd032f9d2ed,paper_fcd032f9d2ed
+1019,1,minimax; sharing,paper_501d6d375155,paper_501d6d375155
+1020,1,marginal; values; mixed; integer; linear; programming,paper_2b91fbcfb672,paper_2b91fbcfb672
+1021,1,note; stability; convex; programs; limiting; lagrangians,paper_6e01cda3957e,paper_6e01cda3957e
+1022,1,theorem; alternative,paper_35c5a140948a,paper_35c5a140948a
+1023,1,comparative; computer; results; complementary; pivot; algorithm,paper_4674693c2fda,paper_4674693c2fda
+1024,1,minquantile; maxcovering; optimisation,paper_5c59446fdcbd,paper_5c59446fdcbd
+1025,1,general; cone; decomposition; theory; efficiency,paper_ea3ba7ad5941,paper_ea3ba7ad5941
+1026,1,dual; primal; degeneracy,paper_05ae8daf3038,paper_05ae8daf3038
+1027,1,kappa; quadratically; convergent; mathrm; sqrt; iteration,paper_b3e5d8980685,paper_b3e5d8980685
+1028,1,numerical; comparisons; nonlinear; programming; algorithms; serial,paper_7b09e2c1c19a,paper_7b09e2c1c19a
+1029,1,complementary; variant; lemke; linear; problem,paper_9e79fd8e0cc3,paper_9e79fd8e0cc3
+1030,1,deciding; uniqueness; norm; maximization,paper_90468e707a1f,paper_90468e707a1f
+1031,1,successive; quadratic; programming; class; constrained; nonsmooth,paper_80e8818e99bb,paper_80e8818e99bb
+1032,1,direct; active; set; algorithm; large; sparse,paper_64662b7b5b1d,paper_64662b7b5b1d
+1033,1,construction; parametric; programming,paper_289a219eb999,paper_289a219eb999
+1034,1,global; optimization; molecular; replacement; problem; ray,paper_05d576a4db4a,paper_05d576a4db4a
+1035,1,example; nonregular; semimonotone; matrix,paper_70777ff51159,paper_70777ff51159
+1036,1,refinement; bounds; heuristic; algorithms; traveling; salesman,paper_ca3cae38f916,paper_ca3cae38f916
+1037,1,extension; simplex; algorithm; semi; infinite; linear,paper_3fde27206147,paper_3fde27206147
+1038,1,solving; large; scale; minimax; problems; primal,paper_18f45d0a8e1e,paper_18f45d0a8e1e
+1039,1,rays; simplicial; cones,paper_b9ebd638236f,paper_b9ebd638236f
+1040,1,successive; affine; reduction; nonlinear; minimization,paper_b96cb69716ad,paper_b96cb69716ad
+1041,1,quadratic; termination; properties; davidon; variable; metric,paper_2f5038974e51,paper_2f5038974e51
+1042,1,zero; pivot; phenomenon; transportation; assignment; problems,paper_b603f164057c,paper_b603f164057c
+1043,1,geometric; programming; van; der; waerden; conjecture,paper_322870d323a5,paper_322870d323a5
+1044,1,elimination; bounds; optimization; problems; transforming; variables,paper_b315a08286e2,paper_b315a08286e2
+1045,1,algorithms; generalized; network; flows,paper_96a1d214e2ce,paper_96a1d214e2ce
+1046,1,function; differential; properties; support; epsilon; subdifferential,paper_8d38700a62c9,paper_8d38700a62c9
+1047,1,example; stability; minima; sequence; functions; homogenization,paper_13b6e6085683,paper_13b6e6085683
+1048,1,economic; interpretation; stochastic; programs,paper_39cbb858c182,paper_39cbb858c182
+1049,1,combinatorial; interior; point; network; flow; problems,paper_aedb02afae85,paper_aedb02afae85
+1050,1,computation; general; equilibrium; public; goods; economy,paper_085cef80ea40,paper_085cef80ea40
+1051,1,metrics; undirected; cuts,paper_d143afdebe63,paper_d143afdebe63
+1052,1,accelerated; convergence; powell; hestenes; multiplier,paper_74783d045172,paper_74783d045172
+1053,1,nonlinear; programming; very; large; hydroelectric; system,paper_cbbc7cdefbd9,paper_cbbc7cdefbd9
+1054,1,bifurcation; nonlinear; parametric; programming; problem,paper_0c31df7c6608,paper_0c31df7c6608
+1055,1,generalized; inverse; asymptotic; linear; programming,paper_3337d7a87326,paper_3337d7a87326
+1056,1,hyperbolic; programming; query; optimization; information; retrieval,paper_6b49531c1983,paper_6b49531c1983
+1057,1,algorithm; maximizing; entropy; subject; simple; bounds,paper_49259d80c26f,paper_49259d80c26f
+1058,1,discrete; optimization; multivariable; boolean; lattice,paper_20e429fb56c0,paper_20e429fb56c0
+1059,1,some; continuous; functions; related; corner; polyhedra,paper_83ca94a9ae04,paper_83ca94a9ae04
+1060,1,computational; graph; partitioning,paper_c553525799f5,paper_c553525799f5
+1061,1,approximation; algorithms; two; machine; flow; shop,paper_f1e47f8ef06a,paper_f1e47f8ef06a
+1062,1,hybrid; computation; mathematical; programming,paper_c0632fd66847,paper_c0632fd66847
+1063,1,better; heuristics; steiner; minimum; trees,paper_64b53d2b6154,paper_64b53d2b6154
+1064,1,application; mathematical; programming; oil; gas; field,paper_3f63ec1d7126,paper_3f63ec1d7126
+1065,1,duality; minimax; results; quasi; saddle; functions,paper_961c988c294f,paper_961c988c294f
+1066,1,degeneracy; fixed; cost; transportation; problems,paper_219c4351546a,paper_219c4351546a
+1067,1,problems; pseudo; duality; mathematical; programming; unconstrained,paper_33de85c37655,paper_33de85c37655
+1068,1,sequencing; jobs; that; require; common; resources,paper_d2393a702f92,paper_d2393a702f92
+1069,1,solution; linear; least; squares; abs; algorithm,paper_e8a35c976988,paper_e8a35c976988
+1070,1,generation; all; integer; points; given; sets,paper_04552060ef51,paper_04552060ef51
+1071,1,solving; multiple; criteria; problems; interactive; decomposition,paper_b49372f5be4b,paper_b49372f5be4b
+1072,1,ratios; affine; functions,paper_9e29139f15b4,paper_9e29139f15b4
+1073,1,modifying; bfgs; update; column; scaling; technique,paper_5cd9db90e899,paper_5cd9db90e899
+1074,1,computation; weighted; analytic; centers; dual; ellipsoids,paper_48657584760a,paper_48657584760a
+1075,1,testing; large; scale; network; optimization; program,paper_93409c0e3a76,paper_93409c0e3a76
+1076,1,relaxation; monotropic; programs,paper_2d18a693bc70,paper_2d18a693bc70
+1077,1,convergence; cross; decomposition,paper_a1aeffc4af74,paper_a1aeffc4af74
+1078,1,convergence; class; algorithms; linearly; independent; search,paper_ab29b63f8682,paper_ab29b63f8682
+1079,1,multivalued; convexity; optimization; unified; inequality; equality,paper_e77646d90c9a,paper_e77646d90c9a
+1080,1,finite; convergence; constraint; identification; subgradient; projection,paper_8976fddb49b4,paper_8976fddb49b4
+1081,1,some; comments; wolfe; away; step,paper_38c2e757e2d8,paper_38c2e757e2d8
+1082,1,dines; fourier; motzkin; quantifier; elimination; application,paper_b04001b59057,paper_b04001b59057
+1083,1,solving; mixed; integer; nonlinear; programs; outer,paper_6e43efe915ed,paper_6e43efe915ed
+1084,1,matroid; solving; linear; parity; problem; sequence,paper_b38ca58a5b1e,paper_b38ca58a5b1e
+1085,1,fixed; point; theorems; discontinuous; mapping,paper_37844c9d58e2,paper_37844c9d58e2
+1086,1,lattice; basis; reduction; improved; practical; algorithms,paper_9c5301db568e,paper_9c5301db568e
+1087,1,probabilistic; generalised; assignment; problem,paper_06cd7cc9fd5b,paper_06cd7cc9fd5b
+1088,1,correlation; polytopes; their; geometry; complexity,paper_eedd9f5ae3c2,paper_eedd9f5ae3c2
+1089,1,big; mathcal; affine; scaling; algorithm,paper_f0bb5e5c6c10,paper_f0bb5e5c6c10
+1090,1,ternary; problems,paper_0ad799ba8fc6,paper_0ad799ba8fc6
+1091,1,approximate; cutting; planes; nonlinear; programming,paper_74674a9a0155,paper_74674a9a0155
+1092,1,matrix; problem; complete,paper_5ec24e4376a8,paper_5ec24e4376a8
+1093,1,ellipsoids; that; contain; all; solutions; positive,paper_5d6a57851ad6,paper_5d6a57851ad6
+1094,1,constraint; sets; infinite; linear; programs; ordered,paper_1a03533b7ec4,paper_1a03533b7ec4
+1095,1,random; quadratic; bottleneck; assignment; problems,paper_bc915ee57599,paper_bc915ee57599
+1096,1,mathrm; primal; dual; potential; reduction; algorithm,paper_50a84580123b,paper_50a84580123b
+1097,1,maximizing; minimum; source; sink; path; subject,paper_1f11b8cd2290,paper_1f11b8cd2290
+1098,1,random; sampling; greedy; sparsification; matroid; optimization,paper_21da8aa011cf,paper_21da8aa011cf
+1099,1,algorithm; capacity; rounding; minimum; cost; circulation,paper_77837622ef37,paper_77837622ef37
+1100,1,weighted; multiway; cuts; trees,paper_8165cdac7909,paper_8165cdac7909
+1101,1,computational; experience; group; theoretic; integer; programming,paper_5f4f0be78d0b,paper_5f4f0be78d0b
+1102,1,strategy; array; management; local; memory,paper_465a0943aa8b,paper_465a0943aa8b
+1103,1,optimal; schedule; cancer; chemotherapy,paper_1d7ef6577e12,paper_1d7ef6577e12
+1104,1,generalization; some; duality; theorems; nonlinear; programming,paper_0f43fa0361f6,paper_0f43fa0361f6
+1105,1,rectilinear; class; steiner; tree; problem; intervals,paper_bc93951d5cf3,paper_bc93951d5cf3
+1106,1,examples; non; convergence; conjugate; descent; algorithms,paper_1a24d0beb323,paper_1a24d0beb323
+1107,1,two; commodity; network; flows; linear; programming,paper_3028fef409e3,paper_3028fef409e3
+1108,1,linear; programming; spheres; hemispheres; objective; vectors,paper_2d99939f73bf,paper_2d99939f73bf
+1109,1,optimization; pipe; networks,paper_dab1095b3581,paper_dab1095b3581
+1110,1,algebraic; assignment; problems,paper_10a77b45fdcf,paper_10a77b45fdcf
+1111,1,characterizing; optimal; input; perturbed; convex; programming,paper_6888c8a1a4a8,paper_6888c8a1a4a8
+1112,1,uses; abuses; statistical; simulation,paper_3b64903b74e3,paper_3b64903b74e3
+1113,1,local; convergence; quasi; newton; differentiable; equations,paper_98dd3b6face2,paper_98dd3b6face2
+1114,1,optimal; partitions; having; disjoint; convex; conic,paper_e7e5e0e3b9c0,paper_e7e5e0e3b9c0
+1115,1,randomized; algorithm; fixed; dimensional; linear; programming,paper_7786b1545a19,paper_7786b1545a19
+1116,1,global; superlinear; convergence; algorithm; one; dimensional,paper_7e090b5230ef,paper_7e090b5230ef
+1117,1,sequential; location; allocation; public; facilities; one,paper_ecf45ddfc8ce,paper_ecf45ddfc8ce
+1118,1,note; existence; subgradients,paper_a91201dab287,paper_a91201dab287
+1119,1,use; jacobi; lemma; unimodularity; theory,paper_4bda01daf0fa,paper_4bda01daf0fa
+1120,1,concave; duality; application; problems; dealing; difference,paper_e338dcee1b04,paper_e338dcee1b04
+1121,1,regression; curvature; weighted; least; squares,paper_19e16603b7a6,paper_19e16603b7a6
+1122,1,stability; invariant; capital; stock; two; dimensional,paper_26d3900773bc,paper_26d3900773bc
+1123,1,algorithm; computing; equilibria; linear; monetary; economy,paper_da3704ef4ad0,paper_da3704ef4ad0
+1124,1,borsuk; theorem; through; complementary; pivoting,paper_b64513197d50,paper_b64513197d50
+1125,1,performance; evaluation; nonlinear; optimization; pairwise; comparison,paper_d67cf357e258,paper_d67cf357e258
+1126,1,penalization; non; classical; convex; programming; variational,paper_359f370d18d0,paper_359f370d18d0
+1127,1,accelerated; covering; relaxation; algorithm; solving; positive,paper_ed8c8cb6181a,paper_ed8c8cb6181a
+1128,1,model; assessment; objectives,paper_71543500f072,paper_71543500f072
+1129,1,greedy; algorithms; series; parallel; graphs,paper_e2dc422b10de,paper_e2dc422b10de
+1130,1,solving; cone; constrained; convex; programs; differential,paper_9246df836bfd,paper_9246df836bfd
+1131,1,analogue; hoffman; circulation; conditions; max; balanced,paper_59c90711881a,paper_59c90711881a
+1132,1,win; probabilities; simple; majorities; probabilistic; voting,paper_4cc2bf1dfbf8,paper_4cc2bf1dfbf8
+1133,1,fitting; maps; plane; experimental; data,paper_cdf3a51feacb,paper_cdf3a51feacb
+1134,1,fan; minimax; theorem,paper_90e9093ed08b,paper_90e9093ed08b
+1135,1,tight; bounds; approximation; algorithms; integer; programs,paper_a7b527b381f2,paper_a7b527b381f2
+1136,1,convergence; sumt,paper_40b5ded93c6b,paper_40b5ded93c6b
+1137,1,separating; hyperplane,paper_98ea472798c8,paper_98ea472798c8
+1138,1,second; order; conditions; exact; penalty; function,paper_5d92fc0ea7fa,paper_5d92fc0ea7fa
+1139,1,quadratically; constrained; minimum; cross; entropy,paper_58d7e2f227ac,paper_58d7e2f227ac
+1140,1,bundle; decomposition; large; scale; convex; optimization,paper_380f49c36171,paper_380f49c36171
+1141,1,combining; feasibility; descent; superlinear; convergence; inequality,paper_be0257013a89,paper_be0257013a89
+1142,1,asynchronous; parallel; newton,paper_2fe6ff52e345,paper_2fe6ff52e345
+1143,1,application; optimal; control; methodology; nonlinear; programming,paper_fb98ccd2353c,paper_fb98ccd2353c
+1144,1,formulation; linear; problems; solution; universal; machine,paper_17aa1ddb93d8,paper_17aa1ddb93d8
+1145,1,glass; cutting; small; firm,paper_5ac3642ca3a3,paper_5ac3642ca3a3
+1146,1,solving; large; scale; mixed; integer; programs,paper_6307e9a14297,paper_6307e9a14297
+1147,1,choice; parameters; power; series; interior; point,paper_8beeed85cfb3,paper_8beeed85cfb3
+1148,1,results; equivalent; integer; programming; formulations,paper_73c93235c6ef,paper_73c93235c6ef
+1149,1,modified; reduced; gradient; class; nondifferentiable; problems,paper_9c8652fec0db,paper_9c8652fec0db
+1150,1,facets; two; steiner; arborescence; polyhedra,paper_0eec07ac6ec0,paper_0eec07ac6ec0
+1151,1,one; third; integrality; max; cut; problem,paper_0e7f747b1bd9,paper_0e7f747b1bd9
+1152,1,lagrangean; decomposition; integer; nonlinear; programming; linear,paper_b1ba9446c49b,paper_b1ba9446c49b
+1153,1,corrigenda; local; structure; feasible; sets; nonlinear,paper_97c05134caa2,paper_97c05134caa2
+1154,1,some; continuous; functions; related; corner; polyhedra,paper_f6b2201c280b,paper_f6b2201c280b
+1155,1,linear; multiple; objective; programs; zero; one,paper_5f1bfb159fe7,paper_5f1bfb159fe7
+1156,1,multilevel; iterative; optimization; problems,paper_eb7e325331d8,paper_eb7e325331d8
+1157,1,convex; like; duality; scheme; quasi; programs,paper_78d2c5975e1a,paper_78d2c5975e1a
+1158,1,exact; penalty; functions; nonlinear; programming,paper_ac086b83c8b7,paper_ac086b83c8b7
+1159,1,applications; symmetric; derivatives; mathematical; programming,paper_2b91f7da0d68,paper_2b91f7da0d68
+1160,1,signature; classes; transportation; polytopes,paper_742897aa40eb,paper_742897aa40eb
+1161,1,tolerant; algorithm; linearly; constrained; optimization; calculations,paper_6afcc7665761,paper_6afcc7665761
+1162,1,cost; operator; algorithms; transportation; problem,paper_fb89caa36b79,paper_fb89caa36b79
+1163,1,extremal; points; optimal; solutions; general; capacity,paper_291cd5ceb821,paper_291cd5ceb821
+1164,1,linear; complementarity; problems; invariant; number; solutions,paper_99d843eebc6b,paper_99d843eebc6b
+1165,1,proximal; decomposition; convex; minimization; problems,paper_8073c631e0c6,paper_8073c631e0c6
+1166,1,solving; subproblem; lagrangian; dual; separable; discrete,paper_f72c8b2190ad,paper_f72c8b2190ad
+1167,1,out; kilter; algorithm; solving; minimum; cost,paper_5c881a23a892,paper_5c881a23a892
+1168,1,facets; balanced; acyclic; induced; subgraph; polytope,paper_3378523c6f2b,paper_3378523c6f2b
+1169,1,block; truncated; newton; parallel; optimization,paper_0fa16783520b,paper_0fa16783520b
+1170,1,farkas; lemma; difference; sublinear; systems; quasidifferentiable,paper_f7b3b4ee3d9b,paper_f7b3b4ee3d9b
+1171,1,facets; cut; cone; clique; web; inequalities,paper_19d0b4645a2e,paper_19d0b4645a2e
+1172,1,results,paper_95f4380e84dc,paper_95f4380e84dc
+1173,1,equivalence; strict; convexity; injectivity; gradient; bounded,paper_3916453078d8,paper_3916453078d8
+1174,1,optimal; mapping; direct; mapped; cache; environments,paper_8519b1b5e171,paper_8519b1b5e171
+1175,1,scheduling; activities; among; conflicting; facilities; minimize,paper_49650b1a2fe9,paper_49650b1a2fe9
+1176,1,power; prices; incomes; voting; systems,paper_6106e24b9d71,paper_6106e24b9d71
+1177,1,large; scale; nonlinear; deterministic; stochastic; optimization,paper_be054031ed8f,paper_be054031ed8f
+1178,1,sup; balanced; matrices; bicoloring; total; dual,paper_b7a01278f1ba,paper_b7a01278f1ba
+1179,1,complementary; unboundedness; dual; feasible; solution; sets,paper_4253a5bf6d64,paper_4253a5bf6d64
+1180,1,improved; asymptotic; average; number; steps; performed,paper_8243be626677,paper_8243be626677
+1181,1,minimax; optimization; problems,paper_f57d7c02f619,paper_f57d7c02f619
+1182,1,average; speed; lemke; algorithm; quadratic; programming,paper_c545de9a1045,paper_c545de9a1045
+1183,1,parallel; variable; metric; algorithms; unconstrained; optimization,paper_1a22109f8e58,paper_1a22109f8e58
+1184,1,tree; polytope; trees,paper_cde90a62e282,paper_cde90a62e282
+1185,1,failure; maximum; entropy; reconstruction; fredholm; equations,paper_e8035d27a77a,paper_e8035d27a77a
+1186,1,facets; polyhedral; set; determined; gale; hoffman,paper_bd858af8ca75,paper_bd858af8ca75
+1187,1,properties; balanced; perfect; matrices,paper_2848c1706ecc,paper_2848c1706ecc
+1188,1,sequential; quadratic; programming; certain; parameter; identification,paper_e4b0bb7e2d45,paper_e4b0bb7e2d45
+1189,1,use; inverse; shortest; paths; algorithm; recovering,paper_16ce187d84ff,paper_16ce187d84ff
+1190,1,analytical; comparison; different; formulations; travelling; salesman,paper_3a8a686614f0,paper_3a8a686614f0
+1191,1,paths; polymatroids,paper_6c99149e1957,paper_6c99149e1957
+1192,1,global; convergence; partitioned; bfgs; problems; convex,paper_db803886deed,paper_db803886deed
+1193,1,computation; lagrange; multiplier; estimates; constrained; minimization,paper_0c65f2bf8359,paper_0c65f2bf8359
+1194,1,nonlinear; mappings; associated; generalized; linear; complementarity,paper_557e129c1c4a,paper_557e129c1c4a
+1195,1,global; optimization; simulated; annealing,paper_f4ffa36bf40b,paper_f4ffa36bf40b
+1196,1,frenk; cdot; kassay,paper_7ad2945121ed,paper_7ad2945121ed
+1197,1,generalizations; slater; constraint; qualification; infinite; convex,paper_1ab3aa462ebd,paper_1ab3aa462ebd
+1198,1,characterization; optimality; convex; programming,paper_f509e768df88,paper_f509e768df88
+1199,1,polynomially; bounded; algorithms; locating; centers; tree,paper_2b150530b27a,paper_2b150530b27a
+1200,1,base; polytopes; series; parallel; posets; linear,paper_49e53b8a2384,paper_49e53b8a2384
+1201,1,projection; uncapacitated; facility; location; problem,paper_6ce7e0cc05ef,paper_6ce7e0cc05ef
+1202,1,convergence; rates; global; optimization; algorithm,paper_888496186634,paper_888496186634
+1203,1,karmarkar; implementation; algorithm; linear; programming; adler,paper_d25745e440b8,paper_d25745e440b8
+1204,1,sup; combined; relaxation; variational; inequalities; nonlinear,paper_7cde1e51e47f,paper_7cde1e51e47f
+1205,1,general; constraint; qualifications; nondifferentible; programming,paper_faa3b6a363ae,paper_faa3b6a363ae
+1206,1,example; cycling; feasible; point; algorithm,paper_ce7028b5f0e3,paper_ce7028b5f0e3
+1207,1,one; phase; algorithm; semi; infinite; linear,paper_774fa66b9650,paper_774fa66b9650
+1208,1,dimensional; finite; approximation; infinite; mathematical; programming,paper_e85519f65c13,paper_e85519f65c13
+1209,1,use; augmented; lagrangian; functions; sensitivity; nonlinear,paper_b4f5cf8fc1f4,paper_b4f5cf8fc1f4
+1210,1,deep; cut; ellipsoid; algorithm; convex; programming,paper_b4d30e1e2407,paper_b4d30e1e2407
+1211,1,optimization; flow; through; networks; gains,paper_ca70eb561fd8,paper_ca70eb561fd8
+1212,1,equivalence; between; strong; solvability; strict; semimonotonicity,paper_2bc800414970,paper_2bc800414970
+1213,1,cofferdam; design; optimization,paper_46388d37f1f4,paper_46388d37f1f4
+1214,1,accelerating; continuation; algorithms; predictor; corrector,paper_91dca081736f,paper_91dca081736f
+1215,1,some; properties; hessian; logarithmic; barrier; function,paper_da4406674106,paper_da4406674106
+1216,1,trust; region; algorithm; minimization; locally; lipschitzian,paper_83a131759aa4,paper_83a131759aa4
+1217,1,core; network; synthesis; games,paper_bc65985c7055,paper_bc65985c7055
+1218,1,velocity; inversion; case; infinite; dimensional; optimization,paper_47fe7f95aaf2,paper_47fe7f95aaf2
+1219,1,branch; bound; estimation; pseudo; shadow; prices,paper_967834b38cbe,paper_967834b38cbe
+1220,1,solution; bounding; linearly; constrained; optimization; problem,paper_27df637f3107,paper_27df637f3107
+1221,1,improving; rate; convergence; interior; point; linear,paper_6e7f1390797e,paper_6e7f1390797e
+1222,1,recursive; algorithm; finding; minimum; norm; point,paper_ed75bf5e2b59,paper_ed75bf5e2b59
+1223,1,primal; dual; algorithm; constraint; set; manipulation,paper_dcf3f9391f7a,paper_dcf3f9391f7a
+1224,1,reformulation; two; mixed; integer; programming; problems,paper_4986bdc71ba0,paper_4986bdc71ba0
+1225,1,criterion; time; aggregation; intertemporal; dynamic; models,paper_aa9ecbca9ad1,paper_aa9ecbca9ad1
+1226,1,randomized; scheme; speeding; algorithms; linear; convex,paper_07935940c2f2,paper_07935940c2f2
+1227,1,dual; coordinate; ascent; non; strictly; convex,paper_62c8bf5e60c1,paper_62c8bf5e60c1
