@@ -1,0 +1,91 @@
+final_domain_id,l2_label
+0,"中文名称：非凸优化复杂度分析  
+英文名称：Complexity Analysis of Nonconvex Optimization  
+核心研究对象：聚焦非凸优化算法在无导数、不精确评估及约束条件下的最坏情况求解复杂度理论与性能边界研究。"
+1,"中文名称：非凸优化算法设计  
+英文名称：Nonconvex Optimization Algorithm Design  
+核心研究对象：面向半代数与可 tame 函数结构的非凸优化问题，研究无罚函数、无滤子的高效迭代算法及其收敛性理论。"
+2,"中文名称：非线性优化与数据驱动决策  
+英文名称：Nonlinear Optimization and Data-Driven Decision Making  
+核心研究对象：面向具有非线性结构目标函数的优化问题，融合数据驱动方法与鲁棒优化框架，解决复杂系统中的决策优化难题。"
+3,"中文名称：广义极值分析与优化  
+英文名称：Generalized Extremal Analysis and Optimization  
+核心研究对象：以广义映射、拟凸结构及随机集值系统为核心，研究极值问题的统一建模框架与收敛性理论。"
+4,"中文名称：变分不等式的广义微分分析  
+英文名称：Generalized Differentiation Analysis for Variational Inequalities  
+核心研究对象：聚焦于变分不等式系统中基于二阶广义微分的临界乘子、M-平稳性条件及误差界扰动等核心问题的理论建模与结构性解析。"
+5,"中文名称：混合整数规划强建模  
+英文名称：Strong Formulations for Mixed Integer Programming  
+核心研究对象：面向混合整数规划问题的紧凑型、可强化的数学模型构建方法，聚焦于有效不等式、扩展形式与结构约束的理论刻画与应用。"
+6,"中文名称：基于概率模型的优化收敛分析  
+英文名称：Convergence Analysis of Optimization Methods Based on Probabilistic Models  
+核心研究对象：针对基于概率模型的无约束优化方法，系统研究其全局收敛速率与局部解性质，涵盖算法设计、理论保证及实际计算中的近似处理。"
+7,"中文名称：割平面方法与分解优化  
+英文名称：Cutting Plane Methods and Decomposition Optimization  
+核心研究对象：面向大规模混合整数非线性规划问题，融合割平面生成、分解策略与高效求解算法的协同优化机制。"
+8,"中文名称：凸分析与优化建模  
+英文名称：Convex Analysis and Optimization Modeling  
+核心研究对象：聚焦于凸函数、凸集及优化问题的理论构建与应用建模，涵盖凸包推导、正则化方法与差分凸优化等核心方向。"
+9,"中文名称：动态决策优化  
+英文名称：Dynamic Decision Optimization  
+核心研究对象：面向复杂不确定性环境下的最优策略设计与性能分析，涵盖拍卖机制、库存管理、马尔可夫决策过程近似及最优停止等问题。"
+10,"中文名称：矩阵优化与组合复杂性  
+英文名称：Matrix Optimization and Combinatorial Complexity  
+核心研究对象：聚焦于对称矩阵结构化优化问题与组合几何对象在算法复杂性分析中的理论建模与求解机制。"
+11,"中文名称：约束二次优化  
+英文名称：Constrained Quadratic Optimization  
+核心研究对象：针对具有各类约束条件的二次规划问题，研究其精确解法、近似算法与紧界构造的理论与方法。"
+12,"中文名称：图结构博弈分析  
+英文名称：Graph-Structured Game Analysis  
+核心研究对象：基于图论与组合优化的博弈模型中核心解与核仁的结构性质研究"
+13,"中文名称：非凸多面体优化  
+英文名称：Nonconvex Polyhedral Optimization  
+核心研究对象：聚焦于非凸多项式、离散结构与锥线性规划中的精确对偶、可行性分析及高效算法设计，融合代数方法与优化理论以解决复杂优化问题。"
+14,"中文名称：鲁棒优化与复杂性分析  
+英文名称：Robust Optimization and Complexity Analysis  
+核心研究对象：聚焦于鲁棒优化中的策略数量边界、多面体直径复杂性及强有效不等式构造，结合组合优化与实际应用问题求解的理论与算法研究。"
+15,"中文名称：多面体结构与优化  
+英文名称：Polyhedral Structures and Optimization  
+核心研究对象：聚焦多面体的几何性质、复杂性分析及其在组合优化与非线性规划中的应用。"
+16,"中文名称：多目标非线性优化近似  
+英文名称：Approximation in Multi-Objective Nonlinear Optimization  
+核心研究对象：面向多目标、非线性、复杂约束下的优化问题，研究高效近似算法的设计与性能分析。"
+17,"中文名称：非凸正则优化与计算分析  
+英文名称：Nonconvex Regularization and Computational Analysis  
+核心研究对象：聚焦于带非凸正则项的约束优化问题的最优性理论、计算复杂性及高效算法设计。"
+18,"中文名称：随机优化中的自适应决策  
+英文名称：Adaptive Decision-Making in Stochastic Optimization  
+核心研究对象：面向不确定性环境下的多阶段优化问题，研究基于随机模型与可调策略的自适应决策机制。"
+19,"中文名称：线性规划算法优化  
+英文名称：Optimization of Linear Programming Algorithms  
+核心研究对象：面向线性及非线性规划问题的高效、稳定与强多项式算法设计与分析。"
+20,"中文名称：非光滑优化的广义逼近方法  
+英文名称：Generalized Approximation Methods in Nonsmooth Optimization  
+核心研究对象：基于凸对偶、惩罚与光滑化技术的非光滑及半无限优化问题的渐近解法与算法构造。"
+21,"中文名称：约束结构优化  
+英文名称：Constrained Structural Optimization  
+核心研究对象：聚焦于在复杂约束条件下（如链约束、携带效应、打包限制等）的组合优化问题建模与高效求解方法。"
+22,"中文名称：随机互补问题优化  
+英文名称：Stochastic Complementarity Optimization  
+核心研究对象：聚焦于随机环境下约束互补问题的建模、求解与复杂性分析，涵盖期望残差最小化、光滑算法设计及矩阵分类复杂性等关键方向。"
+23,"中文名称：分布鲁棒优化与算法设计  
+英文名称：Distributionally Robust Optimization and Algorithm Design  
+核心研究对象：面向不确定性建模的分布鲁棒优化问题及其高效求解算法的理论与方法研究"
+24,"中文名称：变分不等式与双层优化  
+英文名称：Variational Inequalities and Bilevel Optimization  
+核心研究对象：聚焦于凸与非凸可行问题、双层优化及前向后向型算法的收敛性分析，涵盖广义投影、预解序与活动集识别等关键理论机制。"
+25,"中文名称：非凸优化算法与理论  
+英文名称：Non-Convex Optimization Algorithms and Theory  
+核心研究对象：针对非凸、混合整数及含均衡约束的优化问题，研究高效算法的设计、收敛性分析与松弛逼近机制。"
+26,"中文名称：格多面体非内点投影  
+英文名称：Projection of Lattice Polytopes Without Interior Lattices  
+核心研究对象：研究无内部格点的格多面体在整数规划中的投影性质与切割生成机制。"
+27,"中文名称：非光滑优化算法设计  
+英文名称：Non-Smooth Optimization Algorithm Design  
+核心研究对象：面向非光滑、非凸优化问题的高效迭代算法及其收敛性分析与改进。"
+28,"中文名称：不确定信息下的鲁棒优化  
+英文名称：Robust Optimization under Imperfect Information  
+核心研究对象：面向部分可观测与不确定性环境的鲁棒决策建模与求解方法，聚焦于风险敏感、随机支配约束及不完全信息下的优化稳定性与算法设计。"
+29,"中文名称：博弈均衡与优化算法  
+英文名称：Game Equilibrium and Optimization Algorithms  
+核心研究对象：聚焦于多主体决策中的均衡求解、非合作博弈建模及高效算法设计，涵盖风险规避、图结构博弈、非局部相关性与分布式资源管理等关键问题。"
