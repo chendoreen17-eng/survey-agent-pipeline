@@ -1,0 +1,31 @@
+paper_id,title,year,journal,in_degree,out_degree,pagerank,betweenness
+paper_c1f777eb3eca,ON PROJECTED NEWTON BARRIER METHODS FOR LINEAR PROGRAMMING AND AN EQUIVALENCE TO KARMARKAR'S PROJECTIVE METHOD,1986,group2,15,6,0.0018253411,0.0001796814
+paper_9a1255ad83a3,"SOLVING STAIRCASE LINEAR PROGRAMS BY THE SIMPLEX METHOD, 1: INVERSION",1981,group2,5,9,0.0007292135,0.0001341114
+paper_5c877d373ff8,Exact penalization and stationarity conditions of mathematical programs with equilibrium constraints,1996,group2,3,9,0.0008347158,8.0701e-05
+paper_e90a218d202c,INTERIOR PATH FOLLOWING PRIMAL-DUAL ALGORITHMS. PART I: LINEAR PROGRAMMING,1988,group3,24,4,0.00127257,6.00752e-05
+paper_8946e0f034da,Error bounds in mathematical programming,1997,group1,6,21,0.0007554285,5.96893e-05
+paper_28b509d4b6b5,LARGE-SCALE LINEARLY CONSTRAINED OPTIMIZATION*,1977,group3,10,8,0.0013120022,5.72625e-05
+paper_fe39d1eaf07b,A lift-and-project cutting plane algorithm for mixed 0-1 programs,1993,group3,19,2,0.0026434757,4.44547e-05
+paper_b2b05d086490,A RELAXED VERSION OF KARMARKAR'S METHOD,1987,group4,7,9,0.0007223586,4.35514e-05
+paper_9ca3d6cfdf69,"Linear programming, complexity theory and elementary functional analysis",1994,group3,6,9,0.0006547123,3.62976e-05
+paper_11a63aedb908,A REGULARIZED DECOMPOSITION METHOD FOR MINIMIZING A SUM OF POLYHEDRAL FUNCTIONS,1986,group4,7,9,0.0008969939,3.57645e-05
+paper_21c963a83c40,On the finite convergence of interior-point algorithms for linear programming,1992,group3,5,10,0.0005350485,3.56374e-05
+paper_b4dd5c02a427,An $\mathrm{O}(\sqrt{n} L)$ iteration potential reduction algorithm for linear complementarity problems,1989,group2,14,13,0.0006813853,3.37927e-05
+paper_742456c5035d,An additive bounding procedure for the asymmetric travelling salesman problem,1981,group3,2,4,0.0015222221,3.27444e-05
+paper_93c51058bd14,AN IMPLEMENTATION OF KARMARKAR'S ALGORITHM FOR LINEAR PROGRAMMING,1989,group3,16,5,0.0009781715,3.26618e-05
+paper_494e850adf56,Directional derivatives of the solution of a parametric nonlinear program,1994,group4,2,5,0.0004252957,3.01123e-05
+paper_be873156e6a7,"Solving Staircase Linear Programs by the Simplex Method, 2: Pricing",1982,group2,3,8,0.0004441138,2.88153e-05
+paper_1b0feea93f8e,A VARIATION ON KARMARKAR'S ALGORITHM FOR SOLVING LINEAR PROGRAMMING PROBLEMS,1986,group2,17,2,0.0011814196,2.49062e-05
+paper_dde28a86bb5a,ON THE BARTELS-GOLUB DECOMPOSITION FOR LINEAR PROGRAMMING BASES,1977,group3,5,5,0.0008266971,2.33806e-05
+paper_c4428044ed2c,Interior-point algorithms for semi-infinite programming,1993,group3,1,21,0.0003301015,2.2524e-05
+paper_6055343c39b6,UNIQUENESS AND DIFFERENTIABILITY OF SOLUTIONS OF PARAMETRIC NONLINEAR COMPLEMENTARITY PROBLEMS,1986,group2,2,4,0.000372908,2.22162e-05
+paper_13142626a067,Exact and inexact penalty methods for the generalized bilevel programming problem,1995,group2,2,3,0.0004252957,2.14132e-05
+paper_66cc3d1acbb2,Nonlinear complementarity as unconstrained and constrained minimization,1993,group4,5,7,0.000529121,2.13463e-05
+paper_f3e5f27eff9c,Complementarity formulations and existence of solutions of dynamic multi-rigid-body contact problems with Coulomb friction,1994,group2,2,1,0.0005687135,2.04095e-05
+paper_6183d42a2131,ITERATIVE METHODS FOR VARIATIONAL AND COMPLEMENTARITY PROBLEMS*,1981,group4,7,4,0.0010227117,1.95396e-05
+paper_3c39274b6aac,Long steps in an O(n^3 L) algorithm for linear programming,1992,group3,5,13,0.0004913227,1.91091e-05
+paper_b09181416b4b,Parallel decomposition of multistage stochastic programming problems,1991,group4,4,7,0.0006151133,1.8712e-05
+paper_d53570830cd9,A smoothing method for mathematical programs with equilibrium constraints,1999,group1,2,10,0.0006204786,1.71975e-05
+paper_fa19f14b031d,A NEW ALGORITHM FOR SOLVING VARIATIONAL INEQUALITIES WITH APPLICATION TO THE TRAFFIC ASSIGNMENT PROBLEM,1985,group2,2,2,0.0004169481,1.65952e-05
+paper_aa3e4f16a0dd,Error bounds for analytic systems and their applications,1993,group3,4,4,0.0004540042,1.63276e-05
+paper_778d3392dc43,A primal-dual interior point method whose running time depends only on the constraint matrix,1995,group2,1,9,0.0003301015,1.55803e-05
