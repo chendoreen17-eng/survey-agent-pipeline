@@ -1,0 +1,31 @@
+paper_id,title,year,journal,in_degree,out_degree,pagerank,betweenness
+paper_8946e0f034da,Error bounds in mathematical programming,1997,group1,6,21,0.0007554285,5.96893e-05
+paper_c4428044ed2c,Interior-point algorithms for semi-infinite programming,1993,group3,1,21,0.0003301015,2.2524e-05
+paper_54a574aa39b9,Potential-reduction methods in mathematical programming,1995,group1,0,19,0.0002681842,0.0
+paper_b4dd5c02a427,An $\mathrm{O}(\sqrt{n} L)$ iteration potential reduction algorithm for linear complementarity problems,1989,group2,14,13,0.0006813853,3.37927e-05
+paper_3c39274b6aac,Long steps in an O(n^3 L) algorithm for linear programming,1992,group3,5,13,0.0004913227,1.91091e-05
+paper_7011783c3fb8,Two-stage quadratic integer programs with stochastic right-hand sides,2010,group1,0,13,0.0002681842,0.0
+paper_49e318984798,An interior point potential reduction method for constrained equations,1996,group2,0,13,0.0002681842,0.0
+paper_266b5dd85ce0,Worst-case comparison of valid inequalities for the TSP,1995,group3,2,12,0.0004308838,8.7437e-06
+paper_4f80ddef4f02,A little theorem of the big $\mathcal{M}$ in interior point algorithms,1991,group3,0,12,0.0002681842,0.0
+paper_bb5b6e5690af,A polynomial method of approximate centers for linear programming,1990,group3,3,11,0.0004144859,1.20672e-05
+paper_6fb102a7ae08,A primal-dual affine-scaling potential-reduction algorithm for linear programming,1993,group4,3,11,0.000386135,9.3906e-06
+paper_b185de6f64d7,A globally convergent primal-dual interior point algorithm for convex programming,1993,group3,1,11,0.0002857159,7.138e-07
+paper_9959f9c19665,An O(sqrt(n) L) iteration bound primal-dual cone affine scaling algorithm for linear programming,1996,group2,0,11,0.0002681842,0.0
+paper_d53570830cd9,A smoothing method for mathematical programs with equilibrium constraints,1999,group1,2,10,0.0006204786,1.71975e-05
+paper_21c963a83c40,On the finite convergence of interior-point algorithms for linear programming,1992,group3,5,10,0.0005350485,3.56374e-05
+paper_6c1b435e17ae,Theoretical convergence of large-step primal-dual interior point algorithms for linear programming,1991,group3,3,10,0.0003615888,5.0053e-06
+paper_54c32e36fa46,Simplicial approximation of solutions to the nonlinear complementarity problem with lower and upper bounds,1987,group2,1,10,0.0003137667,1.7398e-06
+paper_761d39826857,Comparative analysis of affine scaling algorithms based on simplifying assumptions,1992,group3,1,10,0.0003061696,5.0856e-06
+paper_e41cdae21650,A quasi-second-order proximal bundle algorithm,1995,group2,1,10,0.0003038169,2.3644e-06
+paper_11a63aedb908,A REGULARIZED DECOMPOSITION METHOD FOR MINIMIZING A SUM OF POLYHEDRAL FUNCTIONS,1986,group4,7,9,0.0008969939,3.57645e-05
+paper_5c877d373ff8,Exact penalization and stationarity conditions of mathematical programs with equilibrium constraints,1996,group2,3,9,0.0008347158,8.0701e-05
+paper_9a1255ad83a3,"SOLVING STAIRCASE LINEAR PROGRAMS BY THE SIMPLEX METHOD, 1: INVERSION",1981,group2,5,9,0.0007292135,0.0001341114
+paper_b2b05d086490,A RELAXED VERSION OF KARMARKAR'S METHOD,1987,group4,7,9,0.0007223586,4.35514e-05
+paper_9ca3d6cfdf69,"Linear programming, complexity theory and elementary functional analysis",1994,group3,6,9,0.0006547123,3.62976e-05
+paper_254d08e62478,"Large-Scale Linear Programming: Geometry, Working Bases and Factorizations",1983,group2,3,9,0.0004020375,6.4017e-06
+paper_b03e50721653,"Projective transformations for interior-point algorithms, and a superlinearly convergent algorithm for the w-center problem",1994,group3,1,9,0.0003821404,3.7473e-06
+paper_6c5132530ecc,An analytical approach to global optimization,1989,group3,1,9,0.0003821404,1.606e-06
+paper_0b21c0526bf1,Limiting behavior of weighted central paths in linear programming,1993,group3,1,9,0.0003821404,6.424e-06
+paper_a1874abf1597,Smoothened analysis of termination of linear programming algorithms,2003,group1,1,9,0.000344155,4.247e-06
+paper_778d3392dc43,A primal-dual interior point method whose running time depends only on the constraint matrix,1995,group2,1,9,0.0003301015,1.55803e-05
