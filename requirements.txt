@@ -1,0 +1,10 @@
+﻿pandas
+numpy
+scipy
+scikit-learn
+networkx
+requests
+openai
+tqdm
+python-igraph
+leidenalg
