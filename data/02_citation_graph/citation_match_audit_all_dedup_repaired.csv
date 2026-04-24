@@ -1,0 +1,451 @@
+match_status,source_paper_id,ref_idx,parsed_title,parsed_year,parsed_doi,matched_target_paper_id,match_method,match_score,qa_reason_hint
+matched,paper_auto_c3935b182698,20,Robust conjugate duality for convex optimization under uncertainty with application to data classification,2011,,paper_0e103349921a,author_year,0.78,check_target_correctness
+matched,paper_5adba208276e,4,Sparse sum-of-squares certificates on finite abelian groups,2016,,paper_812d5e22f3e9,author_year,0.78,check_target_correctness
+matched,paper_1280a01e335e,11,Vector equilibrium problems on dense sets,2016,,paper_1280a01e335e,author_year,0.78,check_target_correctness
+matched,paper_auto_f3c95ae77460,16,Submodular function minimization,2008,,paper_22ab9db71d9e,title_fuzzy,1.0,check_target_correctness
+matched,paper_f29bda86335d,7,Interior-point $\ell_2$ -penalty methods for nonlinear programming with strong global convergence properties,2006,,paper_2ec10d173b2d,title_fuzzy,1.0,check_target_correctness
+matched,paper_auto_0a8f9595cf6c,8,Tight integral duality gap in the Chinese Postman problem,1985,,paper_90b78518a4fc,title_fuzzy,1.0,check_target_correctness
+matched,paper_af98df943f46,11,Convex Analysis and Monotone Operator Theory in Hilbert Spaces,2011,,paper_2d2851705fd9,author_year,0.78,check_target_correctness
+matched,paper_6b8baac8eb8c,7,Characterization of the robust isolated calmness for a class of conic programming problems,2017,,paper_1d9e953a2ec0,title_exact,0.95,check_target_correctness
+matched,paper_8a9219ba2951,33,"A class of methods for solving large, convex quadratic programs subject to box constraints",1991,,paper_fde22664ebd8,title_fuzzy,1.0,check_target_correctness
+matched,paper_50b9835684cb,13,Penalty methods for the solution of generalized Nash equilibrium problems,2010,10.1137/090749499,paper_4491ac76a804,doi_exact,1.0,check_target_correctness
+matched,paper_ef9f6089b945,7,An aggregate subgradient method for nonsmooth convex minimization,1983,,paper_fb6f5f6bb787,title_fuzzy,1.0,check_target_correctness
+matched,paper_auto_f395d8541abf,37,A proximal-based decomposition method for convex minimization problems,1994,,paper_8073c631e0c6,title_fuzzy,1.0,check_target_correctness
+matched,paper_9679e1419c5c,2,Hilbert-valued perturbed subgradient algorithms,2007,,paper_87ca7188543a,author_year,0.78,check_target_correctness
+matched,paper_438103fc6728,42,Multistage stochastic decomposition: A bridge between stochastic programming and approximate dynamic programming,2014,,paper_fd85d93b2722,title_exact,0.95,check_target_correctness
+matched,paper_ee9a17fb65ce,43,Stability of error bounds for convex constraint systems in Banach spaces,2010,10.1137/100782206,paper_52ff65a87fc5,doi_exact,1.0,check_target_correctness
+matched,paper_ef60708656bd,7,"Adaptive cubic regularization methods for unconstrained optimization. Part I: motivation, convergence and numerical results",2011,10.1007/s10107-010-0399-5,paper_f088cb2ec234,title_fuzzy,0.9917,check_target_correctness
+matched,paper_181899eb032c,36,Pareto solutions of polyhedral-valued vector optimization problems in Banach spaces,2009,,paper_70403916b893,author_year,0.78,check_target_correctness
+matched,paper_15ab6f622190,18,Continuous characterizations of the maximum clique problem,1997,,paper_b63bcdfe5aac,title_exact,0.95,check_target_correctness
+matched,paper_4a3893c2c63d,7,Trust Region Methods,2000,10.1137/1.9780898719857,paper_16debbcc7d13,author_year,0.78,check_target_correctness
+matched,paper_abebbf4aae10,25,Characterization of strong stability for C-stationary points in MPCC,2010,,paper_940f7a6180b4,author_year,0.78,check_target_correctness
+matched,paper_auto_03a3a632d90a,4,The structure of the infinite models in integer programming,2017,,paper_20f76ef85ec2,author_year,0.78,check_target_correctness
+matched,paper_2002f9be40d0,9,On the power and limitations of affine policies in two-stage adaptive optimization,2012,,paper_c84095f81840,title_fuzzy,1.0,check_target_correctness
+matched,paper_auto_b1e86973e8ac,2,Homotopies for computation of fixed points on unbounded regions,1972,,paper_1142458d1253,title_fuzzy,1.0,check_target_correctness
+matched,paper_13e67e8bd709,4,On the Uncapacitated Plant Location Problem II: Facets and Lifting Theorems,1983,,paper_13e67e8bd709,author_year,0.78,check_target_correctness
+matched,paper_0e2dfca6d749,5,Blocking and anti-blocking pairs of polyhedra,1971,,paper_9becb780c96e,title_fuzzy,1.0,check_target_correctness
+matched,paper_9af6d26eec08,10,Adaptive cubic regularisation methods for unconstrained optimization. Part II: Worst-case function- and derivative-evaluation complexity,2011,,paper_144f7bc12cca,title_exact,0.95,check_target_correctness
+matched,paper_0cf3f5e5c8b4,31,A method of conjugate subgradients for minimizing nondifferentiable functions,1975,,paper_44631d5be4d4,title_fuzzy,0.9506,check_target_correctness
+matched,paper_auto_c7e5ed3936f6,24,An exact penalty function method with global convergence properties for nonlinear programming problems.,1986,,paper_81f3b11ddec7,title_fuzzy,1.0,check_target_correctness
+matched,paper_auto_e03853b8ec81,35,A polyhedral study on chance constrained program with random right-hand side.,2017,,paper_9248148acc0e,title_fuzzy,1.0,check_target_correctness
+matched,paper_auto_98191fa38313,22,On the acyclic subgraph polytope,1985,,paper_64b994a676b5,title_fuzzy,1.0,check_target_correctness
+matched,paper_auto_5e69b1aaa4ae,3,On the convergence of the proximal algorithm for nonsmooth functions involving analytic features,2009,,paper_5e3284308bc9,title_fuzzy,1.0,check_target_correctness
+matched,paper_ade29e417de4,9,On the Douglas-Rachford splitting method and the proximal point algorithm for maximal monotone operators,1992,,paper_9bc3f6c7c2ad,author_year,0.78,check_target_correctness
+matched,paper_auto_6c65a157ae5e,13,Condition measures and properties of the central trajectory of a linear program,1998,,paper_ef342fda0e83,title_fuzzy,1.0,check_target_correctness
+matched,paper_47dcea3d2485,9,The travelling salesman problem on a graph and some related integer polyhedra,1985,,paper_b2e735173e22,title_fuzzy,0.9935,check_target_correctness
+matched,paper_6ebbe03ad015,52,On structure and stability in stochastic programs with random technology matrix and complete integer recourse,1995,,paper_e71c8e8d20d7,title_fuzzy,1.0,check_target_correctness
+matched,paper_c95fa54c098b,27,The Computation of Fixed Points and Applications,1976,,paper_1e2d89f97437,author_year,0.78,check_target_correctness
+matched,paper_fc4454ef1d1e,4,"Strong conical hull intersection property, bounded linear regularity, Jameson's property (G), and error bounds in convex optimization",1999,,paper_d305d6410b5e,title_exact,0.95,check_target_correctness
+matched,paper_04844b8e51ae,4,Optimal Dissection of Simplices,1978,,paper_4c347a77dd57,author_year,0.78,check_target_correctness
+matched,paper_auto_fbe6c38317dc,13,Theoretical and numerical investigation of the D-gap function for box constrained variational inequalities.,1998,,paper_b392348bcf4b,title_fuzzy,1.0,check_target_correctness
+matched,paper_c833d7c716cb,2,The use of quadratic regularization with a cubic descent condition for unconstrained optimization,2017,,paper_4a3893c2c63d,title_exact,0.95,check_target_correctness
+matched,paper_776d0c2416ff,5,Faster algorithms for the quickest transshipment problem,2001,,paper_cb97ab73645e,author_year,0.78,check_target_correctness
+matched,paper_bd3bebe54e6f,6,Convergence of some algorithms for convex minimization,1993,,paper_0af3fd6046bb,title_fuzzy,1.0,check_target_correctness
+matched,paper_auto_607add54f415,25,Cubic regularization of Newton method and its global performance,2006,,paper_c05d80ac6a74,title_fuzzy,1.0,check_target_correctness
+matched,paper_fb6f5f6bb787,14,A method of conjugate subgradients for minimizing nondifferentiable functions,1975,,paper_44631d5be4d4,title_fuzzy,0.9506,check_target_correctness
+matched,paper_6ebbe03ad015,33,Stochastic programming with simple integer recourse,1993,,paper_458ab367ab8c,title_fuzzy,1.0,check_target_correctness
+matched,paper_74879ef279e1,31,Nonconvex notions of regularity and convergence of fundamental algorithms for feasibility problems,2013,,paper_7431b3be1f9a,title_exact,0.95,check_target_correctness
+matched,paper_a97e10ecee1d,8,Private Information and Pure-Strategy Equilibria,1982,,paper_5eee8217fc22,title_exact,0.95,check_target_correctness
+matched,paper_auto_fd4cd3acad0f,11,Second order necessary optimality conditions for minimizing a sup-type function.,1991,,paper_e51bd38e43a1,title_fuzzy,1.0,check_target_correctness
+matched,paper_71653ef8f1e1,22,Classes of functions and feasibility conditions in nonlinear complementarity problems,1974,,paper_c8eba6e1bfcf,title_fuzzy,1.0,check_target_correctness
+matched,paper_50893c9cd259,12,Portfolio-Selection with Transactions Costs,1976,,paper_1b2eea6c93e1,title_fuzzy,0.9882,check_target_correctness
+matched,paper_4a2086d371c0,5,"Eigenvalue techniques for convex objective, nonconvex optimization problems",2010,,paper_a6469ae0ded2,author_year,0.78,check_target_correctness
+matched,paper_47296abb35d5,4,A method for globally minimizing concave functions over convex sets,1981,,paper_3b42d5101216,title_fuzzy,1.0,check_target_correctness
+matched,paper_4bec607b3f10,3,Optimal investment policies for a firm with a random risk process: Exponential utility and minimizing the probability of ruin,1995,,paper_2d80e5e716b7,title_exact,0.95,check_target_correctness
+matched,paper_e6527f6ebf07,11,"A simplex algorithm for piecewise-linear programming, I: Derivation and proof",1985,,paper_1227f06cc606,title_fuzzy,0.9867,check_target_correctness
+matched,paper_ec2ba7b510e7,50,New fractional error bounds for polynomial systems with applications to Hölderian stability in optimization and spectral theory of tensors,2015,,paper_de600dc5135f,author_year,0.78,check_target_correctness
+matched,paper_cead9ee541be,5,Bounds for aggregating nodes in network problems,1980,,paper_ea5f1f001dce,title_fuzzy,0.9897,check_target_correctness
+matched,paper_522c428460ba,22,An outer-approximation algorithm for a class of mixed-integer nonlinear programs,1986,,paper_265ac7cb27a1,title_fuzzy,1.0,check_target_correctness
+matched,paper_auto_11215b6de309,12,Interior path following primal-dual algorithms. Part II: Convex quadratic programming,1989,,paper_154758068109,title_fuzzy,1.0,check_target_correctness
+matched,paper_c85084b1a210,11,Convergence rate analysis for averaged fixed point iterations in common fixed point problems,2017,,paper_0139bfdec5e8,title_exact,0.95,check_target_correctness
+matched,paper_1e58ce856b91,19,Exploiting group symmetry in semidefinite programming relaxations of the quadratic assignment problem,2010,,paper_cef548905462,title_exact,0.95,check_target_correctness
+matched,paper_auto_eee419f6b9b1,22,Signal recovery on graphs: fundamental limits of sampling strategies.,2016,,paper_4d666de4c015,author_year,0.78,check_target_correctness
+matched,paper_8def76e53117,1,Homotopies for computation of fixed points,1972,,paper_fc06e2d40f48,title_fuzzy,1.0,check_target_correctness
+matched,paper_2f7f4633e863,15,Validation of subgradient optimization,1974,,paper_0ebdc3b1b83a,title_fuzzy,1.0,check_target_correctness
+matched,paper_62e28605c4d5,45,A semismooth Newton method with multidimensional filter globalization for $l_{1}$ -optimization,2014,10.1137/120892167,paper_ea78f86372e0,doi_exact,1.0,check_target_correctness
+matched,paper_feaaa4b7e713,5,On the cut polytope.,1986,,paper_b53c398a4bde,title_fuzzy,1.0,check_target_correctness
+matched,paper_3d03a16bbf8a,12,Optimal stopping of linear diffusions with random discounting,2008,,paper_60d227353221,title_exact,0.95,check_target_correctness
+matched,paper_92789cdacb3c,1,Computable representations for convex hulls of low-dimensional quadratic forms,2010,,paper_696cff87738d,title_exact,0.95,check_target_correctness
+matched,paper_c8e7f991328f,6,Homotopies for computation of fixed points on unbounded regions,1972,,paper_1142458d1253,title_fuzzy,1.0,check_target_correctness
+matched,paper_dfbeadb12362,5,Incentive-based surgery scheduling: Determining optimal number of surgeries,2011,,paper_dfbeadb12362,author_year,0.78,check_target_correctness
+matched,paper_b03e50721653,11,A variant of Karmarkar's linear programming algorithm for problems in standard form,1987,,paper_fef45fa00662,title_fuzzy,1.0,check_target_correctness
+matched,paper_e2c7eead0231,12,A trust region algorithm for equality constrained optimization,1986,,paper_9a3307fd57d4,title_fuzzy,1.0,check_target_correctness
+matched,paper_f76be04e7021,6,Theory and applications of robust optimization,2011,10.1137/080734510,paper_4d434ee0325c,author_year,0.78,check_target_correctness
+matched,paper_0cf6adf38baa,5,Sample-path optimization of convex stochastic performance functions,1996,,paper_2f7f4633e863,title_fuzzy,1.0,check_target_correctness
+matched,paper_0fee95b78706,21,Sum-of-squares hierarchy lower bounds for symmetric formulations,2016,,paper_a4369b533c28,author_year,0.78,check_target_correctness
+matched,paper_970456310ecf,33,Multi-stage convex relaxation for learning with sparse regularization,2009,,paper_732440c1a8ff,author_year,0.78,check_target_correctness
+matched,paper_bb5b6e5690af,14,A polynomial-time algorithm for a class of linear complementarity problems,1989,,paper_2635bcfaf7c2,title_fuzzy,1.0,check_target_correctness
+matched,paper_34767246b029,9,An inexact Newton method for nonconvex equality constrained optimization,2009,10.1007/s10107-008-0248-3,paper_5dc9bf992aa4,doi_exact,1.0,check_target_correctness
+matched,paper_201af008e80b,31,Singular continuation: Generating piecewise linear approximations to Pareto sets via global analysis,2011,,paper_def6fa367703,title_exact,0.95,check_target_correctness
+matched,paper_auto_cd566a85e7ee,7,Directional differentiability of optimal solutions under Slater's condition,1993,,paper_55a58ef45d81,title_fuzzy,1.0,check_target_correctness
+matched,paper_auto_00e04a960d5b,12,Feasible methods for nonconvex nonsmooth problems with applications in green communications,2016,,paper_8d74b087215f,title_fuzzy,1.0,check_target_correctness
+matched,paper_b30ff3955a12,29,On stochastic subgradient mirror-descent algorithm with weighted averaging,2014,,paper_407a35e5c423,title_exact,0.95,check_target_correctness
+matched,paper_48b4c6f9246c,13,The factorization approach to large-scale linear programming,1976,,paper_7fa19c9443fa,title_fuzzy,1.0,check_target_correctness
+matched,paper_3d590686b242,10,Adaptive Scalarization Methods in Multiobjective Optimization,2008,,paper_b13bceeaa4a2,author_year,0.78,check_target_correctness
+matched,paper_f2e2e23171ab,9,Optimizing venture capital investments in a jump diffusion model,2008,,paper_e1d5a67babfc,author_year,0.78,check_target_correctness
+matched,paper_24f9766c35f3,6,Approximate fixed-rank closures of covering problems,2006,,paper_44eba3c05124,title_fuzzy,1.0,check_target_correctness
+matched,paper_faef2addf762,10,Generalized power method for sparse principal component analysis,2010,,paper_8d7f4bca3567,author_year,0.78,check_target_correctness
+matched,paper_508568698de7,3,Worst-case evaluation complexity for unconstrained nonlinear optimization using high-order regularized models,2017,,paper_49eafc8a02bf,author_year,0.78,check_target_correctness
+matched,paper_47296abb35d5,10,Global minimization of large scale constrained concave quadratic problems by separable programming,1986,,paper_fd37d1a561b2,title_fuzzy,1.0,check_target_correctness
+matched,paper_6ebbe03ad015,49,A regularized decomposition method for minimizing a sum of polyhedral functions,1986,,paper_11a63aedb908,title_fuzzy,1.0,check_target_correctness
+matched,paper_7307c2e6ad91,3,Facets of the knapsack polytope,1975,,paper_c85fc7439560,title_fuzzy,1.0,check_target_correctness
+matched,paper_auto_c28000e92273,35,Primal and dual linear decision rules in stochastic and robust optimization,2011,,paper_ce92e9669dc6,title_exact,0.95,check_target_correctness
+matched,paper_e49d6d93c367,16,Distributed economic dispatch for smart grids with random wind power,2016,,paper_8a252d162b6d,author_year,0.78,check_target_correctness
+matched,paper_b8cbcc753b4f,12,Computing nonlinear network equilibria,1985,,paper_81da0a715772,title_fuzzy,1.0,check_target_correctness
+matched,paper_7b53f2e7dc1f,13,Strongly stable stationary solutions in nonlinear programs,1980,,paper_846f5b900ed7,author_year,0.78,check_target_correctness
+matched,paper_auto_448034f87b31,66,Riemannian SVRG: fast stochastic optimization on Riemannian manifolds,2016,,paper_62277f6a2610,author_year,0.78,check_target_correctness
+matched,paper_auto_3c3bf9fe1639,17,A relaxed version of Karmarkar's method,1988,,paper_b2b05d086490,title_fuzzy,1.0,check_target_correctness
+matched,paper_a3eda89cd1b6,26,A Two-Person Game with Lack of Information on $1^{ rac{1}{2}}$ Sides,1985,,paper_5df681d08b5f,title_fuzzy,0.9667,check_target_correctness
+matched,paper_auto_d1864ad74ae9,5,Comparison of bundle and classical column generation,2008,,paper_caf57c0f2525,title_fuzzy,1.0,check_target_correctness
+matched,paper_1ad8603852c5,53,On affine scaling algorithms for nonconvex quadratic programming,1992,,paper_942a9d5f60e7,title_fuzzy,1.0,check_target_correctness
+matched,paper_c3d9bed931a0,23,Characterizations of optimal scalings of matrices,1980,10.1007/bf01581675,paper_cbd17f98c2be,title_fuzzy,1.0,check_target_correctness
+matched,paper_49e318984798,30,The extended linear complementarity problem,,,paper_6696a8cf888e,title_fuzzy,1.0,check_target_correctness
+matched,paper_669607b0a008,16,Linear max-min programming,1981,,paper_d60a69174d37,title_fuzzy,1.0,check_target_correctness
+matched,paper_34ab0b06d468,81,A proximal point algorithm for log-determinant optimization with group Lasso regularization,2013,10.1137/120864192,paper_720e0cb641e5,doi_exact,1.0,check_target_correctness
+matched,paper_054f35464f11,12,An envelope-like effect of infinitely many inequality constraints on second order necessary conditions for minimization problems,1988,,paper_e390e89dc3ce,title_fuzzy,1.0,check_target_correctness
+matched,paper_auto_c28000e92273,10,A parallel implementation of the nested decomposition algorithm for multistage stochastic linear programs,1996,,paper_3dbad985f6d1,title_fuzzy,1.0,check_target_correctness
+matched,paper_829c2f438284,4,Solving large quadratic assignment problems on computational grids,2002,,paper_93654da3faf5,title_exact,0.95,check_target_correctness
+matched,paper_657b54438aca,10,A modification to Todd's triangulation $J_3$,1978,,paper_0b9f2ffd43ca,title_fuzzy,0.9762,check_target_correctness
+matched,paper_3f559f38759b,12,Exploiting sparsity in primal-dual interior-point method for semidefinite programming,1997,,paper_a45b65d10152,title_fuzzy,0.9942,check_target_correctness
+matched,paper_auto_0a8f9595cf6c,4,"Matching, Euler tours and the Chinese Postman",1973,,paper_55d60bef8f1f,title_fuzzy,1.0,check_target_correctness
+matched,paper_7bb4e0de44d1,9,Homotopy Continuation.jl: A Package for Homotopy Continuation in Julia,2017,,paper_a739c17bd4f5,author_year,0.78,check_target_correctness
+matched,paper_2500eb2cecec,15,Iterative methods for variational and complementarity problems,1982,,paper_6183d42a2131,title_fuzzy,1.0,check_target_correctness
+matched,paper_feaaa4b7e713,24,Methods of nonlinear 0-1 programming,1979,,paper_35d0ab65068f,title_fuzzy,0.9412,check_target_correctness
+matched,paper_auto_14cde4f82fe5,12,Sparse solutions of linear complementarity problems,2016,,paper_4d666de4c015,author_year,0.78,check_target_correctness
+matched,paper_18e90ee2daba,11,An elementary survey of general duality theory in mathematical programming,1981,,paper_9d74a0c0e7b7,title_fuzzy,1.0,check_target_correctness
+matched,paper_auto_da932060131f,14,A new look at nonnegativity on closed sets and polynomial optimization,2011,,paper_bc5b81f9944f,title_exact,0.95,check_target_correctness
+matched,paper_c663b3282357,3,Multi-item lot-sizing with joint set-up cost,2005,,paper_c663b3282357,title_fuzzy,0.9888,check_target_correctness
+matched,paper_ac323eebc418,22,Strong duality in robust convex programming: Complete characterizations,2010,,paper_f23cbeac9661,title_exact,0.95,check_target_correctness
+matched,paper_8435dd6ccab6,16,Efficient enumeration of the vertices of polyhedra associated with network LPs,1991,,paper_86b3b69cfe44,title_fuzzy,0.9936,check_target_correctness
+matched,paper_db4d1c02e589,4,Notes on L-/M-convex functions and the separation theorems,2000,,paper_e006d20e80a3,title_fuzzy,1.0,check_target_correctness
+matched,paper_e993a75a29d3,22,An integer programming approach for linear programs with probabilistic constraints,2010,,paper_33cd6223040d,title_exact,0.95,check_target_correctness
+matched,paper_auto_ff8d37b44ae9,21,Exploiting group symmetry in semidefinite programming relaxations of the quadratic assignment problem,2010,,paper_cef548905462,title_exact,0.95,check_target_correctness
+matched,paper_b50424a38a69,1,A superlinearly convergent sequential quadratically constrained quadratic programming algorithm for degenerate nonlinear programming,2002,,paper_b5c7f1620590,author_year,0.78,check_target_correctness
+matched,paper_2c4a67e261e8,4,"Tilt stability, uniform quadratic growth, and strong metric regularity of the subdifferential",2013,,paper_c7399ca865c3,title_exact,0.95,check_target_correctness
+matched,paper_169510b0f515,8,Asymptotic convergence in a generalized predictor-corrector method,1992,,paper_61139ce5651c,title_fuzzy,1.0,check_target_correctness
+matched,paper_d7e6d12057b0,2,The Entropic Penalty Approach to Stochastic Programming,1985,,paper_514145e2d014,title_exact,0.95,check_target_correctness
+matched,paper_181a8d09dd71,2,An efficient re-scaled perceptron algorithm for conic systems,2006,,paper_0454dfbaeb81,title_fuzzy,0.9917,check_target_correctness
+matched,paper_c82ba05e634e,5,Theory and applications of robust optimization,2011,10.1137/080734510,paper_4d434ee0325c,author_year,0.78,check_target_correctness
+matched,paper_fe7e7938e683,8,Partitioned quasi-Newton methods for nonlinear equality constrained optimization,1992,,paper_dfdcd86ff910,title_fuzzy,1.0,check_target_correctness
+matched,paper_auto_5416d4e2a221,38,Some NP-complete problems in quadratic and nonlinear programming,1987,,paper_4e7b145f3fdd,title_fuzzy,1.0,check_target_correctness
+matched,paper_auto_1394f20565cc,29,Validation analysis of mirror descent stochastic approximation method,2012,,paper_acb5313d756e,title_fuzzy,1.0,check_target_correctness
+matched,paper_31df20291e1c,5,Composite difference-max programs for modern statistical estimation problems,2018,,paper_59ac2fc9646f,title_exact,0.95,check_target_correctness
+matched,paper_a51ee26498b7,20,Distributed subgradient methods for multi-agent optimization,2009,10.1109/tac.2008.2009515,paper_be1379ccc1c9,author_year,0.78,check_target_correctness
+matched,paper_3c39274b6aac,8,A variant of Karmarkar's linear programming algorithm for problems in standard form,1987,,paper_fef45fa00662,title_fuzzy,1.0,check_target_correctness
+matched,paper_3900cf8bb592,44,An exact duality theory for semidefinite programming and its complexity implications,1997,,paper_601c109a0b12,title_fuzzy,1.0,check_target_correctness
+matched,paper_auto_2ae32a6de4e0,16,"Survivable networks, linear programming relaxations and the parsimonious property",1993,,paper_218ef178fa09,title_fuzzy,1.0,check_target_correctness
+matched,paper_a6aa21b83091,27,Optimal control of a semidiscrete Cahn-Hilliard-Navier-Stokes system,2014,,paper_cde5952cf8e6,author_year,0.78,check_target_correctness
+matched,paper_auto_c9f119c1f64c,37,On affine scaling algorithms for nonconvex quadratic programming,1992,,paper_942a9d5f60e7,title_fuzzy,1.0,check_target_correctness
+matched,paper_336bcc3b8d3f,8,The travelling salesman problem and a class of polyhedra of diameter two,1974,,paper_ac5a8ff9fea3,title_fuzzy,1.0,check_target_correctness
+matched,paper_a1874abf1597,36,An algorithm for linear programming which requires $O((m + n)n^2 + (m + n)^{1.5}nL)$ arithmetic operations,1990,,paper_fe9773188a59,title_fuzzy,0.9588,check_target_correctness
+matched,paper_auto_c4a5b9897014,66,Minimizing finite sums with the stochastic average gradient,2017,,paper_52462cc0e594,title_fuzzy,1.0,check_target_correctness
+matched,paper_218ef178fa09,5,A note on the prize collecting traveling salesman problem,1993,,paper_7d5d80d60940,title_fuzzy,1.0,check_target_correctness
+matched,paper_6ea714312add,3,"Strong conical hull intersection property, bounded linear regularity, Jameson's property (G), and error bounds in convex optimization",1999,,paper_d305d6410b5e,title_exact,0.95,check_target_correctness
+matched,paper_auto_11215b6de309,19,Recovering optimal basis in Karmarkar's polynomial algorithm for linear programming,1990,,paper_3d84e898a47b,title_fuzzy,0.9371,check_target_correctness
+matched,paper_auto_0b0256d4b23f,14,Asymptotic constraint qualifications and global error bounds for convex inequalities,1999,,paper_ffe749844810,title_fuzzy,1.0,check_target_correctness
+matched,paper_auto_f51ec9451cc9,9,On projected Newton barrier methods for linear programming and an equivalence to Karmarkar's projective method,1986,,paper_c1f777eb3eca,title_fuzzy,1.0,check_target_correctness
+matched,paper_0e2dfca6d749,6,Explicit duality for convex homogeneous programs,1976,,paper_d495c5c0d582,title_fuzzy,1.0,check_target_correctness
+matched,paper_c4428044ed2c,53,Recovering optimal dual solutions in Karmarkar's polynomial algorithm for linear programming,1987,,paper_3d84e898a47b,title_fuzzy,1.0,check_target_correctness
+matched,paper_264178131ab4,2,Mixed-integer sets from two rows of two adjacent simplex bases,2010,,paper_80d5fe554fb2,title_exact,0.95,check_target_correctness
+matched,paper_abfc08f43fe2,3,A parallel implementation of the nested decomposition method for multistage stochastic linear programs,1996,,paper_3dbad985f6d1,title_fuzzy,0.9469,check_target_correctness
+matched,paper_auto_a78265b5b027,13,Some comments on Wolfe's away step,1986,,paper_38c2e757e2d8,title_fuzzy,1.0,check_target_correctness
+ambiguous,paper_6dc35a7ed972,9,Approximated formulas of average distances associated with regions and their applications to urban analyses,,,paper_6dc35a7ed972,title_fuzzy,0.8981,multiple_candidates_or_low_margin
+ambiguous,paper_auto_b7123ab3d94f,8,Solutions of a large-scale travelling salesman problem,1954,,paper_0ae58ceb210d,title_fuzzy,0.8793,multiple_candidates_or_low_margin
+ambiguous,paper_4f80ddef4f02,19,An $\mathrm{O}(n^3 L)$ long step path following algorithm for a linear complementarity problem,1989,,paper_d118c2cea883,title_fuzzy,0.9266,multiple_candidates_or_low_margin
+ambiguous,paper_auto_497866e31451,43,Some continuous functions related to corner polyhedra,1972,,paper_83ca94a9ae04,title_fuzzy,1.0,multiple_candidates_or_low_margin
+ambiguous,paper_5c877d373ff8,47,"Local structure of feasible sets in nonlinear programming, Part III: Stability and sensitivity",1987,,paper_97c05134caa2,title_fuzzy,0.9293,multiple_candidates_or_low_margin
+ambiguous,paper_71b5dfad244f,14,A Linearly Convergent Conditional Gradient Algorithm with Applications to Online and Stochastic Optimization,2013,,paper_a3d72f152768,title_fuzzy,0.8504,multiple_candidates_or_low_margin
+ambiguous,paper_a23fe1aac471,27,Function space interior point methods for PDE constrained optimization,2004,,paper_f8362d434d37,title_fuzzy,0.8467,multiple_candidates_or_low_margin
+ambiguous,paper_c3bf1209348a,4,Estimation of sparse Jacobian and graph coloring problems,1983,,paper_fbce946bb791,title_fuzzy,0.8525,multiple_candidates_or_low_margin
+ambiguous,paper_4eb9a9b2d668,9,Exact augmented Lagrangian duality for mixed integer linear programming,2017,10.1007/s10107-016-1012-8,paper_4eb9a9b2d668,title_fuzzy,0.9103,multiple_candidates_or_low_margin
+ambiguous,paper_bcb59c1c50b1,9,Lower bound theory of nonzero entries in solutions of l2 - lp minimization,2010,,paper_7f309e3e6cba,author_year_multi,0.66,multiple_candidates_or_low_margin
+ambiguous,paper_28f5cf82b12a,10,A Class of Multivariate New Better Than Used Distributions,,,paper_314ae999ddee,title_fuzzy,0.8952,multiple_candidates_or_low_margin
+ambiguous,paper_5f93d9d8840d,14,PCA by optimisation of symmetric functions has no spurious local optima,2018,10.1145/3219819.3220069,paper_535825c613b7,title_fuzzy,0.8383,multiple_candidates_or_low_margin
+ambiguous,paper_7c7c55f0a99e,3,The linear complementarity problem,1992,,paper_163c9a2c58a4,title_fuzzy,0.9189,multiple_candidates_or_low_margin
+ambiguous,paper_f10b564229cc,14,A constraint qualification for convex programming.,2000,,paper_31eccbfbe869,title_fuzzy,0.8846,multiple_candidates_or_low_margin
+ambiguous,paper_822ac4b05aba,62,Metric subregularity and constraint qualifications for convex generalized equations in Banach spaces,2007,,paper_64a8bc4e12dc,title_fuzzy,0.8602,multiple_candidates_or_low_margin
+ambiguous,paper_d5821934a1f0,14,Convex Games Without Side Payments,1977,,paper_62a4bcc51a60,title_fuzzy,0.8831,multiple_candidates_or_low_margin
+ambiguous,paper_auto_e1809d900005,20,A class of stochastic programs with decision dependent random elements,1998,,paper_f8bdde543668,title_fuzzy,0.8511,multiple_candidates_or_low_margin
+ambiguous,paper_7ae8b32f9792,10,An $O(n)$ algorithm for the multiple-choice knapsack problem.,1984,,paper_69fd535c7b47,title_fuzzy,0.8926,multiple_candidates_or_low_margin
+ambiguous,paper_8946e0f034da,32,Computable error bounds for semidefinite programming,1996,,paper_49a3333c7431,title_fuzzy,0.8515,multiple_candidates_or_low_margin
+ambiguous,paper_332a893b9440,26,Certificates of convexity for basic semi-algebraic sets,2010,,paper_bacac13d513c,author_year_multi,0.66,multiple_candidates_or_low_margin
+ambiguous,paper_b2b2c60ef090,23,Line search in potential reduction algorithms for linear programming,1989,,paper_6fb102a7ae08,title_fuzzy,0.8322,multiple_candidates_or_low_margin
+ambiguous,paper_8a94c02845db,25,The bilinear programming problem,1976,,paper_ac12f4f6b08b,title_fuzzy,0.8814,multiple_candidates_or_low_margin
+ambiguous,paper_8946e0f034da,30,Global error bounds for convex inequality systems in Banach Spaces,1995,,paper_fc3e0dde41c6,title_fuzzy,0.8429,multiple_candidates_or_low_margin
+ambiguous,paper_a16325367412,10,A parallel algorithm for constrained concave quadratic global minimization: Computational aspects,1987,,paper_a16325367412,title_fuzzy,0.8706,multiple_candidates_or_low_margin
+ambiguous,paper_6dd4e49b3840,4,The linear complementarity problem,1971,,paper_b6662fa0c4f4,title_fuzzy,0.8852,multiple_candidates_or_low_margin
+ambiguous,paper_00dbb21f0313,34,Interior-point methods for semidefinite programming,1997,,paper_c4428044ed2c,title_fuzzy,0.8491,multiple_candidates_or_low_margin
+ambiguous,paper_19a9e5dc772a,1,The linear complementarity problem,1971,,paper_b6662fa0c4f4,title_fuzzy,0.8852,multiple_candidates_or_low_margin
+ambiguous,paper_0a51db689c87,32,Parallel and distributed block-coordinate Frank-Wolfe algorithms,2016,,paper_822ac4b05aba,author_year_multi,0.66,multiple_candidates_or_low_margin
+ambiguous,paper_auto_f769089c8f63,8,On the product knapsack problem,2018,,paper_9a3aeea023b0,title_fuzzy,0.8657,multiple_candidates_or_low_margin
+ambiguous,paper_62e28605c4d5,63,A stochastic quasi-Newton method for online convex optimization,2007,,paper_c5feb5e73ac2,title_fuzzy,0.8485,multiple_candidates_or_low_margin
+ambiguous,paper_74783d045172,7,Dual variable-metric algorithms for constrained optimization,1977,,paper_1a22109f8e58,title_fuzzy,0.9206,multiple_candidates_or_low_margin
+ambiguous,paper_f4f1004e1e1b,21,An algorithm for the traffic assignment problem,1974,,paper_3016364b02ac,title_fuzzy,0.8764,multiple_candidates_or_low_margin
+ambiguous,paper_ba23ee94db49,7,First order optimality conditions for mathematical programs with semidefinite cone complementarity constraints,2014,,paper_665ea0413476,title_fuzzy,0.9273,multiple_candidates_or_low_margin
+ambiguous,paper_auto_1a9059ef787c,8,A tight upper bound for the expectation of a convex function of a multivariate random variable,1986,,paper_5f4ec9cb9216,title_fuzzy,0.837,multiple_candidates_or_low_margin
+ambiguous,paper_c56e81b2b0fa,7,Ekeland's principle for vector equilibrium problems,2007,,paper_a793731630bf,title_fuzzy,0.8393,multiple_candidates_or_low_margin
+ambiguous,paper_dbda7f1a17fa,20,Composition of facets of the clique partitioning polytope,1990,,paper_46713a607c6d,title_fuzzy,0.8485,multiple_candidates_or_low_margin
+ambiguous,paper_12832b881f27,7,The integer collapsing knapsack problem,1980,,paper_12832b881f27,title_fuzzy,0.8395,multiple_candidates_or_low_margin
+ambiguous,paper_60d227353221,2,Optimal stopping of regular diffusions under random discounting,2001,,paper_60d227353221,title_fuzzy,0.871,multiple_candidates_or_low_margin
+ambiguous,paper_60887d1794ec,27,On the interior algorithms for nonconvex quadratic programming,1988,,paper_942a9d5f60e7,title_fuzzy,0.8571,multiple_candidates_or_low_margin
+ambiguous,paper_auto_7011949c3bc5,25,On scaling linear programming problems,1975,,paper_ac12f4f6b08b,title_fuzzy,0.8308,multiple_candidates_or_low_margin
+ambiguous,paper_81bf2acbd124,51,Lipschitzian properties of multifunctions,1985,,paper_75888cdb301b,title_fuzzy,0.8723,multiple_candidates_or_low_margin
+ambiguous,paper_6b7234a2d743,21,"Some continuous functions related to corner polyhedra, part II",1972,,paper_f6b2201c280b,title_fuzzy,0.9573,multiple_candidates_or_low_margin
+ambiguous,paper_03d414abca3e,37,Accelerated and inexact forward-backward,2013,,paper_1596d06b8bf2,title_fuzzy,0.8791,multiple_candidates_or_low_margin
+ambiguous,paper_auto_f769089c8f63,31,A minimal algorithm for the 0-1 knapsack problem,1997,,paper_b4334a4a01de,title_fuzzy,0.9213,multiple_candidates_or_low_margin
+ambiguous,paper_064ab366af97,1,A globally and superlinearly convergent algorithm for one-dimensional minimization of convex functions,1982,,paper_7e090b5230ef,title_fuzzy,0.9268,multiple_candidates_or_low_margin
+ambiguous,paper_bcddfdf616a9,22,A globally convergent primal-dual interior-point filter method for nonlinear programming,2004,,paper_b185de6f64d7,title_fuzzy,0.8521,multiple_candidates_or_low_margin
+ambiguous,paper_f11b3cebc6bc,18,Scalarization of vector optimization problems,1987,,paper_aae228e61187,title_fuzzy,0.8395,multiple_candidates_or_low_margin
+ambiguous,paper_c1994271e4f0,3,The facets of the asymmetric 5-City traveling salesman problem,1989,,paper_0de1c60294c1,title_fuzzy,0.8421,multiple_candidates_or_low_margin
+ambiguous,paper_8ce378914ea8,41,Convergence properties of a regularization scheme for mathematical programs with complementarity constraints,2001,,paper_d28a057b82df,title_fuzzy,0.8426,multiple_candidates_or_low_margin
+ambiguous,paper_c4428044ed2c,27,A primal-dual interior point algorithm for linear programming,1989,,paper_26a5172bc2d1,title_fuzzy,0.9173,multiple_candidates_or_low_margin
+ambiguous,paper_5dc6acee4040,9,Minimax theorems,1953,10.1073/pnas.39.1.42,paper_437f8d991372,title_fuzzy,0.9091,multiple_candidates_or_low_margin
+ambiguous,paper_auto_cb8c2b667b5d,41,Data-driven chance constrained stochastic program,2016,,paper_d72401b6dfa7,author_year_multi,0.66,multiple_candidates_or_low_margin
+ambiguous,paper_auto_29d115bf3602,11,A generalization of the linear complementarity problem,1970,,paper_a3e7454e1c54,title_fuzzy,0.8454,multiple_candidates_or_low_margin
+ambiguous,paper_fd390ad2a022,22,Stochastic subgradient method converges at the rate $O(k^{-1/4})$ on weakly convex functions,2018,,paper_8c4cf4fd85b8,author_year_multi,0.66,multiple_candidates_or_low_margin
+ambiguous,paper_04cfb495918a,2,Balanced matrices,1972,,paper_7e31bfc6415f,title_fuzzy,0.85,multiple_candidates_or_low_margin
+ambiguous,paper_d53570830cd9,6,On two-level optimization,1982,,paper_dbb1234fedd1,title_fuzzy,0.9259,multiple_candidates_or_low_margin
+ambiguous,paper_a404f3b928e1,14,Adaptive first-order methods for general sparse inverse covariance selection,2010,,paper_d578f85e2474,author_year_multi,0.66,multiple_candidates_or_low_margin
+ambiguous,paper_f9c23e89b1a7,21,A note on an open problem in linear complementarity,1977,,paper_d5ad1bb82f05,title_fuzzy,0.8361,multiple_candidates_or_low_margin
+ambiguous,paper_c1acfb8fab5f,8,Convex Analysis and Monotone Operator Theory in Hilbert Spaces,2017,,paper_74879ef279e1,author_year_multi,0.66,multiple_candidates_or_low_margin
+ambiguous,paper_825f348502ea,7,On homotopy-smoothing methods for box-constrained variational inequalities,1999,10.1137/s0363012997315907,paper_84ec9c7034a2,author_year_multi,0.66,multiple_candidates_or_low_margin
+ambiguous,paper_11f75b00d329,12,Combined Relaxation Methods for Variational Inequalities,2001,,paper_bb12b56c10fe,title_fuzzy,0.835,multiple_candidates_or_low_margin
+ambiguous,paper_cb685d6e271d,12,Convergence of Reweighted $l_{1}$ Minimization Algorithms and Unique Solution of Truncated $l_{p}$ Minimization,2010,,paper_7f309e3e6cba,author_year_multi,0.66,multiple_candidates_or_low_margin
+ambiguous,paper_f00041338b4d,24,Error bounds of generalized D-gap functions for nonsmooth and nonmonotone variational inequality problems,2009,,paper_e74ff6396850,title_fuzzy,0.8542,multiple_candidates_or_low_margin
+ambiguous,paper_00f1e45ba2ff,36,A stochastic quasi-Newton method for online convex optimization,2007,,paper_c5feb5e73ac2,title_fuzzy,0.8485,multiple_candidates_or_low_margin
+ambiguous,paper_auto_bf7e8fe57c5b,9,Lifting the facets of 0-1 polytopes,1978,,paper_12b4ac7e062f,title_fuzzy,0.88,multiple_candidates_or_low_margin
+ambiguous,paper_71653ef8f1e1,8,On the solution of large structured linear complementarity problems,1978,,paper_0fe670c20633,title_fuzzy,0.8308,multiple_candidates_or_low_margin
+ambiguous,paper_auto_8b4c3e69cf11,7,A generalized subgradient method with relaxation step,1995,,paper_ef9f6089b945,title_fuzzy,0.9138,multiple_candidates_or_low_margin
+ambiguous,paper_115f862ca38d,3,The Linear Complementarity Problem,1971,,paper_163c9a2c58a4,title_fuzzy,0.9189,multiple_candidates_or_low_margin
+ambiguous,paper_618138844384,16,A New Class of Functions for Measuring Solution Integrality in the Feasibility Pump Approach: Complete Results,2013,,paper_618138844384,title_fuzzy,0.9154,multiple_candidates_or_low_margin
+ambiguous,paper_981bc58d2e13,20,Ordinary convex programs without a duality gap,1971,,paper_9a4db4d74046,title_fuzzy,0.8864,multiple_candidates_or_low_margin
+ambiguous,paper_f5fbb626ae3d,2,More risk-sensitive Markov Decision Processes,2014,,paper_f5fbb626ae3d,title_fuzzy,0.8302,multiple_candidates_or_low_margin
+ambiguous,paper_e1bb84e7e787,23,Linearized ADMM for Non-convex Non-smooth Optimization with Convergence Analysis,2017,,paper_faef2addf762,author_year_multi,0.66,multiple_candidates_or_low_margin
+ambiguous,paper_auto_2d783df0e019,11,Settling the complexity of computing two-player Nash equilibria,2009,,paper_2b6fcc738f0f,author_year_multi,0.66,multiple_candidates_or_low_margin
+ambiguous,paper_62da3bf3e0ec,3,Implicit representation of variable upper bounds in linear programs,1975,,paper_62da3bf3e0ec,title_fuzzy,0.8859,multiple_candidates_or_low_margin
+ambiguous,paper_2f786a98f7be,11,"Algorithm 887: CHOLMOD, supernodal sparse Cholesky factorization and update/downdate",2009,,paper_7145a1059594,author_year_multi,0.66,multiple_candidates_or_low_margin
+ambiguous,paper_auto_0eaa9b25d372,14,Feasibility issues in an interior point method for linear programming,1990,,paper_88e32df0d948,title_fuzzy,0.9128,multiple_candidates_or_low_margin
+ambiguous,paper_549017e6b114,6,The value function of a mixed integer program: I,1977,,paper_64e7e85917c9,title_fuzzy,0.8966,multiple_candidates_or_low_margin
+ambiguous,paper_4491ac76a804,14,Penalty Methods for the Solution of Generalized Nash Equilibrium Problems (with Complete Test Problems),2009,,paper_4491ac76a804,title_fuzzy,0.8391,multiple_candidates_or_low_margin
+ambiguous,paper_4ad5bd8610a9,7,Accelerated schemes for a class of variational inequalities,2017,,paper_ad3f249400a5,author_year_multi,0.66,multiple_candidates_or_low_margin
+ambiguous,paper_6dbee1903064,15,"Local structure of feasible sets in nonlinear programming, part III: Stability and sensitivity",1987,,paper_97c05134caa2,title_fuzzy,0.9293,multiple_candidates_or_low_margin
+ambiguous,paper_7dd146ae6fc5,23,Universal rigidity: towards accurate and efficient localization of wireless networks,2010,,paper_40573ad08ad8,author_year_multi,0.66,multiple_candidates_or_low_margin
+ambiguous,paper_e91bc49c695e,18,Optimizing the Efficiency of First-Order Methods for Decreasing the Gradient of Smooth Convex Functions,2018,,paper_ea15c0068f05,author_year_multi,0.66,multiple_candidates_or_low_margin
+ambiguous,paper_36d6885152ff,44,Lipschitzian Properties of Multifunctions,,,paper_75888cdb301b,title_fuzzy,0.8723,multiple_candidates_or_low_margin
+ambiguous,paper_c062fbdb220d,8,A filter-trust-region method for unconstrained optimization,2005,,paper_33e7530987fa,title_fuzzy,0.88,multiple_candidates_or_low_margin
+ambiguous,paper_729ae1ffb8bf,19,Finite master programs in stochastic decomposition,1990,,paper_eea59532fe58,title_fuzzy,0.8929,multiple_candidates_or_low_margin
+ambiguous,paper_c454d64f459c,10,Lifting integer variables in minimal inequalities corresponding to lattice-free triangles,2008,,paper_7b463c7ffcbc,author_year_multi,0.66,multiple_candidates_or_low_margin
+ambiguous,paper_6830dddf6040,3,Convex Analysis and Monotone Operator Theory in Hilbert Spaces,2017,,paper_74879ef279e1,author_year_multi,0.66,multiple_candidates_or_low_margin
+ambiguous,paper_6920be2ec533,27,Stochastic Dynamic Programming,1981,,paper_6afb37d252c6,title_fuzzy,0.8571,multiple_candidates_or_low_margin
+ambiguous,paper_auto_d8b241275665,19,On the complexity analysis of randomized block-coordinate descent methods,2015,,paper_0e9650d4b08d,title_fuzzy,0.8406,multiple_candidates_or_low_margin
+ambiguous,paper_419d3f0a68a9,6,Robust portfolio selection based on a joint ellipsoidal uncertainty set,2008,,paper_419d3f0a68a9,title_fuzzy,0.8503,multiple_candidates_or_low_margin
+ambiguous,paper_a0dc925b62e3,6,The decomposition algorithm for linear programming,1961,,paper_e80580fc6965,title_fuzzy,0.8317,multiple_candidates_or_low_margin
+ambiguous,paper_84a59214df29,11,Primal-dual path-following algorithms for semidefinite programming,1997,,paper_8937fab4332b,title_fuzzy,0.8467,multiple_candidates_or_low_margin
+ambiguous,paper_auto_1a38e5b94902,14,Exact penalty functions in nonlinear programming,1979,,paper_53eb9bb58044,title_fuzzy,1.0,multiple_candidates_or_low_margin
+ambiguous,paper_384b1f896289,7,Dual variable metric algorithms for constrained optimization,1977,,paper_1a22109f8e58,title_fuzzy,0.9206,multiple_candidates_or_low_margin
+ambiguous,paper_48a666f043b3,33,Strong Valid Inequalities for Orthogonal Disjunctions and Polynomial Covering Sets,2008,,paper_48a666f043b3,title_fuzzy,0.9259,multiple_candidates_or_low_margin
+ambiguous,paper_6fb102a7ae08,8,A Unified Approach to Interior Point Algorithms for Linear Complementarity Problems,1991,10.1007/3-540-54509-3,paper_c625d95309ba,title_fuzzy,0.8408,multiple_candidates_or_low_margin
+ambiguous,paper_afa61e807716,9,"Perspective functions: Properties, constructions, and examples",2018,,paper_821b6890f320,author_year_multi,0.66,multiple_candidates_or_low_margin
+ambiguous,paper_bc4fe80e93fb,2,Combinatorial Theorems on the Simplotope that Generalize Results on the Simplex and Cube,1984,,paper_c95fa54c098b,author_year_multi,0.66,multiple_candidates_or_low_margin
+ambiguous,paper_auto_fbe6c38317dc,25,Complementarity problems,1994,,paper_b6662fa0c4f4,title_fuzzy,0.902,multiple_candidates_or_low_margin
+ambiguous,paper_auto_e80a7bbab1ee,12,"\{0, 1/2\} -Chvátal-Gomory cuts",1996,,paper_04f50e026975,title_fuzzy,0.9091,multiple_candidates_or_low_margin
+ambiguous,paper_a64b46983089,12,The Projected Power Method: An Efficient Algorithm for Joint Alignment from Pairwise Differences,2016,10.48550/arxiv.1609.05820,paper_4f293218b0b0,author_year_multi,0.66,multiple_candidates_or_low_margin
+ambiguous,paper_6c1b435e17ae,22,Practical polynomial time algorithms for linear complementarity problems,1989,,paper_2635bcfaf7c2,title_fuzzy,0.863,multiple_candidates_or_low_margin
+ambiguous,paper_4bda01daf0fa,3,Characterization of totally unimodular matrices,1965,10.1090/s0002-9939-1965-0184940-7,paper_cbe76c0192ba,title_fuzzy,0.8932,multiple_candidates_or_low_margin
+ambiguous,paper_auto_df8aa3ed6b6b,34,Two-stage stochastic risk threshold and hierarchical multiple risk problems: models and algorithms,2009,,paper_c990a8d8ed31,title_fuzzy,0.8914,multiple_candidates_or_low_margin
+ambiguous,paper_66cc3d1acbb2,2,Constrained Optimization and Lagrange Multiplier Methods,1982,,paper_86983d73515b,title_fuzzy,0.84,multiple_candidates_or_low_margin
+ambiguous,paper_f9c23e89b1a7,9,The linear complementarity problem,1971,,paper_b6662fa0c4f4,title_fuzzy,0.8852,multiple_candidates_or_low_margin
+ambiguous,paper_d8ed84ac67f0,7,Numerical methods for constrained optimization,1974,,paper_a5e214c68628,title_fuzzy,0.8315,multiple_candidates_or_low_margin
+ambiguous,paper_e9f7a1a9a64c,10,A Gauss-Newton method for convex composite optimization,1995,,paper_96a0a21428be,title_fuzzy,0.9167,multiple_candidates_or_low_margin
+ambiguous,paper_c79d66797452,43,Polynomial algorithms in linear programming,1980,,paper_2eebca9cb25a,title_fuzzy,0.8913,multiple_candidates_or_low_margin
+ambiguous,paper_6585c3fa8d10,28,Interior methods for mathematical programs with complementarity constraints,2006,10.1137/040621065,paper_dd14bd547d3c,title_fuzzy,0.8321,multiple_candidates_or_low_margin
+ambiguous,paper_014083318ff7,17,Pivot selection rules of the Devex LP code,1975,,paper_00df1e57d1b5,title_fuzzy,0.907,multiple_candidates_or_low_margin
+ambiguous,paper_auto_08048619f90a,22,Free-steering relaxation methods for problems with strictly convex costs and linear constraints,1997,,paper_2eed86398c6d,title_fuzzy,0.871,multiple_candidates_or_low_margin
+ambiguous,paper_33cb81209c5b,26,Characterizing and testing subdifferential regularity for piecewise smooth objective functions,2017,,paper_8528c6e22c6e,title_fuzzy,0.8778,multiple_candidates_or_low_margin
+ambiguous,paper_a385ab44d338,21,A new branch-and-cut algorithm for the capacitated vehicle routing problem,2004,,paper_287fe481e03f,title_fuzzy,0.8456,multiple_candidates_or_low_margin
+ambiguous,paper_12556ddabfbe,27,Stochastic compositional gradient descent: Algorithms for minimizing compositions of expected-value functions,2017,,paper_baa75362d2af,author_year_multi,0.66,multiple_candidates_or_low_margin
+ambiguous,paper_e4a609c69711,11,An algorithm for quadratic programming.,1956,,paper_e80580fc6965,title_fuzzy,0.8539,multiple_candidates_or_low_margin
+ambiguous,paper_61139ce5651c,1,Theory of linear programming,1956,,paper_35d0ab65068f,title_fuzzy,0.8333,multiple_candidates_or_low_margin
+ambiguous,paper_auto_09dc7de8a978,7,A new heuristic for the travelling salesman problem,1990,,paper_ef4cb51b88b4,title_fuzzy,0.9245,multiple_candidates_or_low_margin
+ambiguous,paper_44843390ff70,15,On the parametric linear complementarity problem,1971,,paper_57b338223188,title_fuzzy,0.8511,multiple_candidates_or_low_margin
+ambiguous,paper_auto_03a3a632d90a,12,"Some continuous functions related to corner polyhedra, I",1972,,paper_f6b2201c280b,title_fuzzy,0.991,multiple_candidates_or_low_margin
+ambiguous,paper_067964e16a06,20,An effective branch-and-bound algorithm for convex quadratic programming,2010,,paper_2876e1a27eed,author_year_multi,0.66,multiple_candidates_or_low_margin
+ambiguous,paper_387a57007f31,16,Newton's method for non-differentiable functions,1988,,paper_ea2a080af46a,title_fuzzy,0.8936,multiple_candidates_or_low_margin
+ambiguous,paper_8a9219ba2951,5,The Linear Complementarity Problem,1992,,paper_b6662fa0c4f4,title_fuzzy,0.8852,multiple_candidates_or_low_margin
+ambiguous,paper_auto_cd566a85e7ee,23,"Local structure of feasible sets in nonlinear programming, Part III: Stability and sensitivity",1987,,paper_97c05134caa2,title_fuzzy,0.9293,multiple_candidates_or_low_margin
+ambiguous,paper_306814d6db9e,4,Mixed-Integer Sets Associated from Two Rows of Two Adjacent Simplex Bases,2010,,paper_b33551e40459,title_fuzzy,0.9185,multiple_candidates_or_low_margin
+ambiguous,paper_auto_091c1159f509,3,Stability in nonlinear programming,1970,,paper_915cab51c3ba,title_fuzzy,0.9091,multiple_candidates_or_low_margin
+ambiguous,paper_34d461c781be,8,A Class of Multivariate New Better Than Used Distributions,1979,,paper_314ae999ddee,title_fuzzy,0.8952,multiple_candidates_or_low_margin
+ambiguous,paper_1b313fd32cb0,29,Accelerating stochastic composition optimization,2016,,paper_822ac4b05aba,author_year_multi,0.66,multiple_candidates_or_low_margin
+ambiguous,paper_75f7214af66f,5,A polynomial algorithm in linear programming,1979,10.1007/bf01844431,paper_2eebca9cb25a,title_fuzzy,0.8602,multiple_candidates_or_low_margin
+ambiguous,paper_28b509d4b6b5,60,Robust implementation of Lemke's method for the linear complementarity problem,1976,,paper_9e79fd8e0cc3,title_fuzzy,0.8462,multiple_candidates_or_low_margin
+ambiguous,paper_ebaa8a726ead,4,An algorithm for quadratic programming,1956,,paper_e80580fc6965,title_fuzzy,0.8539,multiple_candidates_or_low_margin
+ambiguous,paper_auto_2062f6025785,13,Infeasible-interior-point primal-dual potential-reduction algorithms for linear programming,1995,,paper_b2b2c60ef090,title_fuzzy,0.8352,multiple_candidates_or_low_margin
+ambiguous,paper_d9734fc09a8d,16,Second order conditions for pseudo-convex functions,1974,,paper_749e864e6679,title_fuzzy,0.8411,multiple_candidates_or_low_margin
+ambiguous,paper_b10ca23c00c3,19,Characterization theorems for stochastic programs with recourse,1972,,paper_0d3728f1e260,title_fuzzy,0.875,multiple_candidates_or_low_margin
+ambiguous,paper_auto_00aec6b9f083,1,Projection method for variational inequalities with applications to the traffic assignment problem,1982,,paper_fa19f14b031d,title_fuzzy,0.8358,multiple_candidates_or_low_margin
+ambiguous,paper_6b92f9bc61f4,31,Robust solutions to uncertain linear complementarity problems,2011,10.1007/s10255-010-0033-y,paper_f9a6f1626d8f,title_fuzzy,0.8472,multiple_candidates_or_low_margin
+ambiguous,paper_auto_f9194d483b43,17,A new approach to continuation methods for complementarity problems with uniform $P$ -functions.,1997,,paper_383637644b26,title_fuzzy,0.924,multiple_candidates_or_low_margin
+ambiguous,paper_aa3e4f16a0dd,5,The Linear Complementarity Problem,1992,,paper_b6662fa0c4f4,title_fuzzy,0.8852,multiple_candidates_or_low_margin
+ambiguous,paper_8051679e9402,7,An algorithm for linear programming that requires $O((m + n)n^2 + (m + n)^{1.5}n)L)$ arithmetic operations,1987,,paper_fe9773188a59,title_fuzzy,0.9278,multiple_candidates_or_low_margin
+ambiguous,paper_0ed869199825,9,An extension of Karmarkar's algorithm for bounded linear programming problems,1985,,paper_1b0feea93f8e,title_fuzzy,0.8497,multiple_candidates_or_low_margin
+ambiguous,paper_6c0b59cfe940,17,A polynomial algorithm in linear programming,1979,,paper_2eebca9cb25a,title_fuzzy,0.8602,multiple_candidates_or_low_margin
+ambiguous,paper_d206439a4ecc,19,SET: An algorithm for consistent matrix completion,2010,,paper_b7be8447c88d,author_year_multi,0.66,multiple_candidates_or_low_margin
+ambiguous,paper_e1bb84e7e787,29,Global convergence of ADMM in nonconvex nonsmooth optimization,2019,,paper_09a771784cd2,author_year_multi,0.66,multiple_candidates_or_low_margin
+ambiguous,paper_318981d0c6f9,4,A branch-and-cut algorithm for the dial-a-ride problem,2006,,paper_759e8d422c8b,title_fuzzy,0.8462,multiple_candidates_or_low_margin
+ambiguous,paper_9a0dba6e25de,3,Adaptive lexicographic optimization in multi-class M / G I / 1 queues with feedback,1993,,paper_e6c6ea3fdafe,title_fuzzy,0.8951,multiple_candidates_or_low_margin
+ambiguous,paper_535825c613b7,12,Streaming principal component analysis from incomplete data,2019,,paper_535825c613b7,author_year_multi,0.66,multiple_candidates_or_low_margin
+ambiguous,paper_549c4b268eda,5,On the Quadratic Assignment Problem,1983,,paper_46635d69b84a,title_fuzzy,0.8974,multiple_candidates_or_low_margin
+ambiguous,paper_49e318984798,54,A superlinear infeasible interior point algorithm for monotone nonlinear complementarity problems,1993,,paper_c625d95309ba,title_fuzzy,0.8655,multiple_candidates_or_low_margin
+ambiguous,paper_750638f3e396,12,Convex sets with lifted semidefinite representation,2006,,paper_57c906831f77,title_fuzzy,0.9263,multiple_candidates_or_low_margin
+ambiguous,paper_412f8a00aad3,15,An algorithm for quadratic programming,1956,,paper_e80580fc6965,title_fuzzy,0.8539,multiple_candidates_or_low_margin
+unmatched,paper_7b5f9bb06bd8,1,Convergence of mesh adaptive direct search to second-order stationary points,2006,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_76f4a189974e,1,DSOS and SDSOS optimization: LP and SOCP-based alternatives to sum of squares optimization,2014,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_bb1d34368428,18,Dynamic load balancing in parallel and distributed networks by random matchings,1994,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_36d6885152ff,15,Côté tangent et côné normal à un ensemble,1981,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_646fac1c07d1,42,An interpolation approximation for the mean workload in a GI/G/1 queue,,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_3c3b3eedc571,20,Some Graphtheoretical Problems of Network Analysis under Resource Constraints,1979,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_d10da2f4f92e,40,"Advanced mixed-integer programming formulations: methodology, computation, and application",2018,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_99bb34f5f5ce,2,Directional stability theorem and directional metric regularity,2006,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_6ea714312add,53,Guaranteed minimum-rank solutions of linear matrix equations via nuclear norm minimization,2010,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_485c9038a143,14,"Ideal 0, 1 matrices",1994,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_be36f682f131,8,Minimization of some nonlinear functions over polymatroidal flows,1981,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_100c15525bfd,3,Computing equilibria when asset markets are incomplete,1996,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_8265df1e10de,13,On the number of solutions to the complementarity problem and spanning properties of complementary cones,1972,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_8d8257e18660,16,Multiplier Methods for Convex Programming,1973,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_e16e58183c9f,13,Law invariant convex risk measures,2005,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_09ce50ec7ecf,5,Sum of squares lower bounds from pairwise independence,2015,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_6252540896c4,79,Global optimization of stiff dynamical systems,2019,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_b63732bc77ab,12,Characterizing extreme points as basic feasible solutions in infinite linear programs,2009,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_497866e31451,57,On convex envelopes for bivariate functions over polytopes.,2014,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_4d434ee0325c,3,Min-max control of constrained uncertain discrete-time linear systems,2003,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_f3c95ae77460,29,Minimizing a submodular function on a lattice,1978,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_640c080f50e5,16,Improved iteratively reweighted least squares for unconstrained smoothed l_p minimization,2013,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_332a893b9440,23,Sums of Squares Relaxations of Polynomial Semidefinite Programs,2003,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_0e7148f32ff3,16,Kullback-leibler divergence constrained distributionally robust optimization,2012,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_60d227353221,14,Markov Processes: Theorems and Problems,1969,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_10c3409868b4,43,Convergence properties of generalized Benders decomposition,1991,10.1016/0098-1354(91)85027-r,,none,0.0,doi_not_in_library
+unmatched,paper_aa262c8e67dc,15,Semicontinuities of marginal functions in a sequential setting,1992,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_3270d4b32b82,6,Convex Analysis and Measurable Multifunctions,1977,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_cf1b01863116,3,Convergence of Probability Measures,1968,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_ca129fa15ac1,1,Finite Checkability for Integer Rounding Properties in Combinatorial Optimization Problems,1982,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_25eb701f5d05,14,A low-rank approach to off-the-grid sparse deconvolution,2017,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_63ac253d9d24,22,Development of valid inequalities for disjunctive programming,1984,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_3b4598aa2efb,12,Sublinear optimization for machine learning,2012,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_a8254b194b52,4,"Mathematical Methods and Theory in Games, Programming, and Economics",1959,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_f5313c298a13,24,Matroid Theory and its Applications in Electric Network Theory and in Statics,1989,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_020fefb96917,13,Convex Statistical Distances,1987,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_c674bac38d32,49,A Direct Method for Parabolic PDE Constrained Optimization Problems,2013,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_8a94c02845db,19,A finite method for globally minimizing concave functions over unbounded polyhedral convex sets and its applications,1984,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_e64e57f2dc38,18,Fundamentals of Convex Analysis,2004,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_67ef638fce8d,3,Censored regression quantiles with endogenous regression,2007,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_e1eed3cbe615,24,Submodular feature selection for high-dimensional acoustic score spaces,2013,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_d0607d820d01,11,Variational inequalities and the pricing of american options,1990,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_9ebfcb959c2b,25,Evolutionary stable strategies and game dynamics,1978,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_6109d36d6f71,14,Computational results with a cutting plane algorithm for designing communication networks with low-connectivity constraints,1992,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_73bc25173342,38,Generalized linear models,1972,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_2961b663c8aa,8,,1998,,,none,0.0,parse_issue_missing_title
+unmatched,paper_3b21a468022c,8,Variance Penalized Markov Decision Processes,1989,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_3d03a16bbf8a,4,Bounded variation singular stochastic control and associated Dynkin game,2001,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_e10fb7349d00,16,The Hirsch conjecture in Leontief substitution systems,1971,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_39e9c726f080,32,Accelerated proximal stochastic dual coordinate ascent for regularized loss minimization,2014,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_329cc826d237,22,Response Surface Methodology: Process and Product Optimization Using Designed Experiments,2009,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_c56e81b2b0fa,45,$\varepsilon$ -Henig proper efficiency of set-valued optimization problems in real ordered linear spaces,2014,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_e26ad3690ee3,12,Dual dynamic programming with cut selection: Convergence proof and numerical experiments,2017,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_fbb8ea94a747,18,"An Implicit Function Theorem for $C^{0,1}$ Equations and Parametric $C^{1,1}$ Optimization",1991,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_a17e3d72ff1d,6,On Optimal Consumption Plans in a Multi-sector Economy,1972,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_39a395ebcb05,37,A collaborative training algorithm for distributed learning,2009,10.1109/tit.2009.2012992,,none,0.0,doi_not_in_library
+unmatched,paper_e60e1ab5b553,33,Subset Selection in Regression,2002,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_534384610ed5,22,Portfolio choices and asset prices: The comparative statics of ambiguity aversion,2011,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_8babaef60d75,29,Variational Analysis,1998,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_463c677df01f,44,A martingale proof of Dobrushin's theorem for non-homogeneous Markov chains,2005,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_45b3940893f6,42,Computational complexity of optimum multiuser detection,1989,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_9ac51e50f071,12,Solving SLP recourse problems with arbitrary multivariate distributions - The dependent case,1988,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_04cfb495918a,5,Integral boundary points of convex polyhedra,1956,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_783b531e8f1b,8,Least Busy Alternative Routing in Queueing and Loss Networks,1992,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_22ca7c8cdffa,9,"Dirichlet's principle, conformal mapping, and minimal surfaces",1950,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_28ec91d78728,15,A necessary and sufficient regularity condition to have bounded multipliers in nonconvex programming,1977,,,none,0.0,insufficient_parsed_fields
+unmatched,paper_54fd38951b16,5,Prime Numbers: A Computational Perspective,2005,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_dfff65932759,31,Linear convergence of the Douglas-Rachford method for two closed sets,2016,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_f26fb74d027d,18,A value for n-person games,1953,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_c16a89aebe80,1,On the set-covering problem,1972,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_e5881e809a0f,10,Variational convergence of bivariate functions: motivating applications II,2006,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_1e67803c5384,3,Mixed 0-1 programming by lift-and-project in a branch-and-cut framework,1996,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_81eb2bd03340,59,On the effects of scaling of the Peaceman-Rachford method,1971,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_3c3bf9fe1639,30,Interior-point Polynomial Methods in Convex Programming,1994,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_e1b8fd759df5,1,On the asymptotic directions of the s-dimensional optimum gradient method,1968,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_cb8c2b667b5d,42,Recovering best statistical guarantees via the empirical divergence-based distributionally robust optimization,2019,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_846f5b900ed7,11,On Piecewise Affine Mappings in $R^n$,1975,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_33cd6223040d,14,The scenario approach to robust control design,2006,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_b09455d37a62,7,Hybrid random/deterministic parallel algorithms for nonconvex big data optimization,2014,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_83e369d34daf,38,,,,,none,0.0,parse_issue_missing_title
+unmatched,paper_4ad5bd8610a9,16,Optimal Stochastic Extragradient Schemes for Pseudomonotone Stochastic Variational Inequality Problems and Their Variants,2017,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_09511836ed4d,20,Aubin Property and Uniqueness of Solutions in Cone Constrained Optimization,2012,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_b2dd503d8fe2,7,New Farkas-type constraint qualification in convex semi-infinite programming,2007,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_65c78a22118c,10,"Multiple channel queues in heavy traffic II: Sequences, networks, and batches",1970,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_4b238a22e977,11,Une caractérisation complète des minima locaux en programmation quadratique,1980,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_24f081f13ecc,30,Pessimistic bilevel optimization,2013,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_e5145d202172,9,"The electronic mail game: strategic behavior under ""almost common knowledge.""",1989,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_85eb6ca8be06,31,Ergodic convergence to a zero of the sum of monotone operators in Hilbert space,1979,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_1b84b7f29a2f,24,Edge-graph diameter bounds for convex polytopes with few facets,2011,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_46635d69b84a,13,Approximation algorithms for min-sum p-clustering,1998,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_412f8a00aad3,4,Analysis of nonsmooth vector-valued functions associated with second-order cones,2004,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_21e1d010bcd9,4,On certain polytopes associated with graphs,1975,10.1016/0095-8956(75)90040-7,,none,0.0,doi_not_in_library
+unmatched,paper_1911f037e355,1,MIPLIB 2003,,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_a18513b07cf8,40,Stochastic Programming,2003,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_0681201d9d64,18,A review of goal programming and its applications,1995,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_4be5bf3c8eb7,27,Moments and sums of squares for polynomial optimization and related problems,2009,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_f8dbd96b2b80,8,A definition of uncertainty aversion,1999,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_0688b12246ee,32,The convex feasibility problem in image recovery,1996,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_c79d66797452,9,Orientability of matroids,1978,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_68bfd62dc622,21,Optimization of convex risk functions,2006,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_886d6d80ab77,11,Computational difficulties of bilevel linear programming,1990,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_cbd17f98c2be,1,"Über approximative Nomographie, I",1958,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_73db5118ac6b,23,Supply-constrained equilibria in economies with indexed prices,1987,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_6b92f9bc61f4,4,Adjustable robust solutions of uncertain linear programs,2004,10.1007/s10107-003-0454-y,,none,0.0,doi_not_in_library
+unmatched,paper_9fb8281bbb80,14,A robust semi-local convergence analysis of newtons method for cone inclusion problems in banach spaces under affine invariant majorant condition,2015,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_5c03ef572361,14,Risk objectives in two-stage stochastic programming models,2008,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_57c906831f77,6,Convex analysis and minimization algorithms I,1993,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_22e0909899ae,24,A characterization of box $\frac{1}{d}$-integral binary clutters,1995,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_193e913d88f5,6,An ideal penalty function for constrained optimization,1975,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_1c715821248b,14,Cooperative facility location games,2004,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_ee994459de8b,14,Discrete nonlinear optimization by state-space decompositions,2018,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_e4a35a429fd7,1,Adaptive and self-confident on-line learning algorithms,2002,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_d22b004d5a54,16,On the numerical representation of homogeneous games,,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_4a79d06ee0c7,25,On efficiently solving the subproblems of a level-set method for fused lasso problems,2017,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_33c15b9a36b9,6,Beating the Curse of Dimensionality in Options Pricing and Optimal Stopping,2018,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_5f93d9d8840d,10,Phase retrieval for imaging problems,2016,10.1007/s12532-016-0103-0,,none,0.0,doi_not_in_library
+unmatched,paper_44f354d508c0,17,SIGNOPT – A computer code for signomial geometric programming,1972,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_6081417bbe57,27,Sublinear circuits for polyhedral sets.,2022,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_2d2851705fd9,25,"Fenchel duality, Fitzpatrick functions and maximal monotonicity",2005,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_03c9e5b91617,10,Excluding Braess's paradox in nonatomic selfish routing,2015,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_1f785d634104,19,Optimal assignments in an ordered set: an application of matroid theory,1968,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_846f5b900ed7,3,Some Results on the Existence and Uniqueness of Solutions of Nonlinear Networks,1977,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_5416d4e2a221,1,Convergence of the iterates of descent methods for analytic cost functions,2005,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_a51ee26498b7,28,Consensus-based distributed optimization: Practical issues and applications in large-scale machine learning,2012,10.1109/allerton.2012.6483403,,none,0.0,doi_not_in_library
+unmatched,paper_46120dda5b61,1,An algorithm for optimization problems with functional inequality constraints,1976,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_f3aff50e6f77,38,From stochastic dominance to mean-risk models: semideviations as risk measures,1999,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_09a771784cd2,14,A steepest descent method for vector optimization,2005,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_71b5dfad244f,18,On Lower Complexity Bounds for Large-Scale Smooth Convex Optimization,2015,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_4cdc7f750005,33,Distributional study of de Finetti's dividend problem for a general Lévy insurance risk process,2007,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_982ebd4b9ff9,10,A large deviation principle for join the shortest queue,2007,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_23a5908c6690,25,Convex Analysis,1970,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_b31ce559f00b,26,"Necessary conditions for linear convergence of iterated expansive, set-valued mappings",2020,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_973c22e6578c,45,Consistency of multi-dimensional convex regression,2012,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_9eb9485d68b3,62,Solving the fixed charge problem by ranking the extreme points,1968,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_8159284ddd69,11,On the relationship of the Tchebycheff norm and the efficient frontier of multiple-criteria objectives,1976,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_2b552e8ca43c,25,Nonlinear Programming,1951,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_bd205acac1ac,5,"""The relaxation method for solving systems of linear inequalities""",1980,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_43dd88c32466,49,Multi-resource allocation in stochastic project scheduling,2008,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_28ec91d78728,37,Modifying SQP for degenerate problems,2002,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_0b21c0526bf1,18,Quadratic convergence in a primal-dual method,1993,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_76cdcdecd293,19,Decomposition algorithms for stochastic programming on a computational grid,2003,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_497866e31451,13,Minimal inequalities for an infinite relaxation of integer programs.,2010,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_6830dddf6040,10,An iterative solution of a variational inequality for certain monotone operators in Hilbert space,1975,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_a64e70f5c600,8,Gradient descent efficiently finds the cubic-regularized non-convex Newton step,2016,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_3270d4b32b82,1,Existence of solutions for nonconvex second order differential inclusions with nonconvex pertubations,2007,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_9dd32552bc90,24,Convexity and Optimization in Finite Dimensions I,1970,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_393d8026e643,36,On the convergence of the concave-convex procedure,2009,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_a6469ae0ded2,30,On the implementation of a primal-dual interior point filter line search algorithm for large-scale nonlinear programming,2006,,,none,0.0,title_not_in_library_or_normalization_issue
+unmatched,paper_auto_05005c74df2c,8,,,,,none,0.0,parse_issue_missing_title
+unmatched,paper_auto_d8b241275665,17,Asynchronous stochastic coordinate descent: parallelism and convergence properties,2015,,,none,0.0,title_not_in_library_or_normalization_issue
