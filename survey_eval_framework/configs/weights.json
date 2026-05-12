@@ -1,0 +1,14 @@
+﻿{
+  "coverage": 0.08,
+  "factual_consistency": 0.10,
+  "structure_clarity": 0.04,
+  "citation_grounding": 0.08,
+  "gap_future_alignment": 0.07,
+  "novel_insight": 0.03,
+  "l1_l2_routing_accuracy": 0.12,
+  "evolution_chain_coherence": 0.12,
+  "gap_identification_quality": 0.10,
+  "gap_future_linkage": 0.12,
+  "citation_semantic_grounding": 0.10,
+  "evidence_traceability": 0.04
+}
