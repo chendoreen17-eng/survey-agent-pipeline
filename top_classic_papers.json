@@ -1,0 +1,302 @@
+[
+  {
+    "paper_id": "paper_f33dbbd28b34",
+    "title": "Nonlinear Programming",
+    "year": "",
+    "journal": "fixed md",
+    "in_degree": 426,
+    "out_degree": 0,
+    "pagerank": 0.0099377002,
+    "betweenness": 0.0
+  },
+  {
+    "paper_id": "paper_2d5a713a1238",
+    "title": "Augmented Lagrangians and Applications of the Proximal Point Algorithm in Convex Programming",
+    "year": "1976",
+    "journal": "fixed md",
+    "in_degree": 309,
+    "out_degree": 0,
+    "pagerank": 0.0031866682,
+    "betweenness": 0.0
+  },
+  {
+    "paper_id": "paper_491e53ca959b",
+    "title": "Smooth minimization of non-smooth functions",
+    "year": "2004",
+    "journal": "fixed md",
+    "in_degree": 302,
+    "out_degree": 4,
+    "pagerank": 0.0025149067,
+    "betweenness": 0.0003050254
+  },
+  {
+    "paper_id": "paper_408727753262",
+    "title": "NONDEGENERACY AND QUANTITATIVE STABILITY OF PARAMETERIZED OPTIMIZATION PROBLEMS WITH MULTIPLE SOLUTIONS",
+    "year": "2000",
+    "journal": "fixed md",
+    "in_degree": 256,
+    "out_degree": 6,
+    "pagerank": 0.001419609,
+    "betweenness": 0.0003845842
+  },
+  {
+    "paper_id": "paper_953e5fb35580",
+    "title": "Polynomial Time Algorithms for Linear Programming",
+    "year": "",
+    "journal": "fixed md",
+    "in_degree": 223,
+    "out_degree": 0,
+    "pagerank": 0.0057016359,
+    "betweenness": 0.0
+  },
+  {
+    "paper_id": "paper_2b7c6d7f18ad",
+    "title": "Variational Analysis in Nonsmooth Optimization and Discrete Optimal Control",
+    "year": "2006",
+    "journal": "fixed md",
+    "in_degree": 211,
+    "out_degree": 0,
+    "pagerank": 0.0009596778,
+    "betweenness": 0.0
+  },
+  {
+    "paper_id": "paper_95ab1987aa5b",
+    "title": "Global Optimization with Polynomials and the Problem of Moments",
+    "year": "2001",
+    "journal": "fixed md",
+    "in_degree": 184,
+    "out_degree": 0,
+    "pagerank": 0.0015076607,
+    "betweenness": 0.0
+  },
+  {
+    "paper_id": "paper_7755c0710718",
+    "title": "On Borwein-Wiersma Decompositions of Monotone Linear Relations",
+    "year": "2011",
+    "journal": "fixed md",
+    "in_degree": 165,
+    "out_degree": 7,
+    "pagerank": 0.0008092977,
+    "betweenness": 0.0004061713
+  },
+  {
+    "paper_id": "paper_ceeee1c0995d",
+    "title": "Strongly Regular Generalized Equations",
+    "year": "1980",
+    "journal": "fixed md",
+    "in_degree": 164,
+    "out_degree": 0,
+    "pagerank": 0.0014609919,
+    "betweenness": 0.0
+  },
+  {
+    "paper_id": "paper_a01ba23f8661",
+    "title": "Stochastic Programming",
+    "year": "",
+    "journal": "fixed md",
+    "in_degree": 161,
+    "out_degree": 0,
+    "pagerank": 0.0014134133,
+    "betweenness": 0.0
+  },
+  {
+    "paper_id": "paper_cfd418870949",
+    "title": "Worst-case comparison of valid inequalities for the TSP",
+    "year": "1995",
+    "journal": "fixed md",
+    "in_degree": 157,
+    "out_degree": 21,
+    "pagerank": 0.0014675047,
+    "betweenness": 0.0008617201
+  },
+  {
+    "paper_id": "paper_1558efcd000b",
+    "title": "The Ordered Subsets Mirror Descent Optimization Method with Applications to Tomography",
+    "year": "2001",
+    "journal": "fixed md",
+    "in_degree": 146,
+    "out_degree": 5,
+    "pagerank": 0.0016013705,
+    "betweenness": 0.0001633327
+  },
+  {
+    "paper_id": "paper_d5c2b01b3582",
+    "title": "Superlinear Convergence of an Algorithm for Monotone Linear Complementarity Problems, When No Strictly Complementary Solution Exists",
+    "year": "1999",
+    "journal": "fixed md",
+    "in_degree": 133,
+    "out_degree": 0,
+    "pagerank": 0.0007884143,
+    "betweenness": 0.0
+  },
+  {
+    "paper_id": "paper_c8aa652ed27b",
+    "title": "Regularity and Stability for Convex Multivalued Functions",
+    "year": "1976",
+    "journal": "fixed md",
+    "in_degree": 132,
+    "out_degree": 0,
+    "pagerank": 0.0019089695,
+    "betweenness": 0.0
+  },
+  {
+    "paper_id": "paper_3560219a3612",
+    "title": "Benchmarking optimization software with performance profiles",
+    "year": "2001",
+    "journal": "fixed md",
+    "in_degree": 131,
+    "out_degree": 6,
+    "pagerank": 0.000623292,
+    "betweenness": 0.0005339541
+  },
+  {
+    "paper_id": "paper_3a937438f070",
+    "title": "Exact penalization and stationarity conditions of mathematical programs with equilibrium constraints",
+    "year": "1996",
+    "journal": "fixed md",
+    "in_degree": 130,
+    "out_degree": 23,
+    "pagerank": 0.0009726885,
+    "betweenness": 0.0007226831
+  },
+  {
+    "paper_id": "paper_86ba2a4c32cf",
+    "title": "A nonsmooth version of Newton's method",
+    "year": "1993",
+    "journal": "fixed md",
+    "in_degree": 128,
+    "out_degree": 10,
+    "pagerank": 0.0006212673,
+    "betweenness": 0.0001809305
+  },
+  {
+    "paper_id": "paper_7e6c3839f69a",
+    "title": "On the Douglas-Rachford splitting method and the proximal point algorithm for maximal monotone operators",
+    "year": "1992",
+    "journal": "fixed md",
+    "in_degree": 122,
+    "out_degree": 4,
+    "pagerank": 0.0006843947,
+    "betweenness": 4.55503e-05
+  },
+  {
+    "paper_id": "paper_29b1c1d7346a",
+    "title": "Lipschitz Behavior of Solutions to Convex Minimization Problems",
+    "year": "1984",
+    "journal": "fixed md",
+    "in_degree": 119,
+    "out_degree": 0,
+    "pagerank": 0.0012492572,
+    "betweenness": 0.0
+  },
+  {
+    "paper_id": "paper_2a93879240cf",
+    "title": "An Algorithm for Constrained Optimization with Semismooth Functions",
+    "year": "1977",
+    "journal": "fixed md",
+    "in_degree": 104,
+    "out_degree": 0,
+    "pagerank": 0.0011911971,
+    "betweenness": 0.0
+  },
+  {
+    "paper_id": "paper_d33c0b745d80",
+    "title": "A POLYNOMIAL-TIME ALGORITHM, BASED ON NEWTON'S METHOD, FOR LINEAR PROGRAMMING",
+    "year": "1988",
+    "journal": "fixed md",
+    "in_degree": 101,
+    "out_degree": 3,
+    "pagerank": 0.0023624222,
+    "betweenness": 2.12563e-05
+  },
+  {
+    "paper_id": "paper_89e141dcd1c8",
+    "title": "CONES OF MATRICES AND SET-FUNCTIONS AND 0-1 OPTIMIZATION",
+    "year": "",
+    "journal": "fixed md",
+    "in_degree": 99,
+    "out_degree": 4,
+    "pagerank": 0.0011395116,
+    "betweenness": 0.0005396075
+  },
+  {
+    "paper_id": "paper_cc89a004e655",
+    "title": "Boundary Behavior of Interior Point Algorithms in Linear Programming",
+    "year": "1989",
+    "journal": "fixed md",
+    "in_degree": 98,
+    "out_degree": 0,
+    "pagerank": 0.0015500095,
+    "betweenness": 0.0
+  },
+  {
+    "paper_id": "paper_8d6a6f3e2a03",
+    "title": "Interior Path Following Primal-Dual Algorithms. Part I: Linear Programming",
+    "year": "1988",
+    "journal": "fixed md",
+    "in_degree": 96,
+    "out_degree": 4,
+    "pagerank": 0.0009338893,
+    "betweenness": 7.3807e-05
+  },
+  {
+    "paper_id": "paper_57e56cbaed21",
+    "title": "FINITE-DIMENSIONAL VARIATIONAL INEQUALITY AND NONLINEAR COMPLEMENTARITY PROBLEMS: A SURVEY OF THEORY, ALGORITHMS AND APPLICATIONS",
+    "year": "1989",
+    "journal": "fixed md",
+    "in_degree": 95,
+    "out_degree": 16,
+    "pagerank": 0.0009035488,
+    "betweenness": 0.0005729991
+  },
+  {
+    "paper_id": "paper_eeb488a21a51",
+    "title": "Robust Stochastic Approximation Approach to Stochastic Programming",
+    "year": "",
+    "journal": "fixed md",
+    "in_degree": 95,
+    "out_degree": 5,
+    "pagerank": 0.0003539199,
+    "betweenness": 0.0001401485
+  },
+  {
+    "paper_id": "paper_0cc7b3d6f000",
+    "title": "Cubic regularization of Newton method and its global performance",
+    "year": "2006",
+    "journal": "fixed md",
+    "in_degree": 92,
+    "out_degree": 1,
+    "pagerank": 0.0005583795,
+    "betweenness": 2.22693e-05
+  },
+  {
+    "paper_id": "paper_7c6f2d655085",
+    "title": "A lift-and-project cutting plane algorithm for mixed 0-1 programs",
+    "year": "1993",
+    "journal": "fixed md",
+    "in_degree": 90,
+    "out_degree": 7,
+    "pagerank": 0.000780984,
+    "betweenness": 0.000172778
+  },
+  {
+    "paper_id": "paper_842102e51152",
+    "title": "Error bounds in mathematical programming",
+    "year": "1997",
+    "journal": "fixed md",
+    "in_degree": 89,
+    "out_degree": 27,
+    "pagerank": 0.0006352886,
+    "betweenness": 0.0010611445
+  },
+  {
+    "paper_id": "paper_e514b5d2ca04",
+    "title": "A POLYNOMIAL-TIME ALGORITHM FOR A CLASS OF LINEAR COMPLEMENTARITY PROBLEMS",
+    "year": "1988",
+    "journal": "fixed md",
+    "in_degree": 88,
+    "out_degree": 12,
+    "pagerank": 0.0010677953,
+    "betweenness": 0.0007228199
+  }
+]

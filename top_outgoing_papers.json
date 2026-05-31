@@ -1,0 +1,302 @@
+[
+  {
+    "paper_id": "paper_5dc7dd5dc4f3",
+    "title": "Theoretical challenges towards cutting-plane selection",
+    "year": "2018",
+    "journal": "fixed md",
+    "in_degree": 3,
+    "out_degree": 38,
+    "pagerank": 4.34073e-05,
+    "betweenness": 7.6696e-06
+  },
+  {
+    "paper_id": "paper_ce2f27843a34",
+    "title": "SPECTRAL OPERATORS OF MATRICES: SEMISMOOTHNESS AND CHARACTERIZATIONS OF THE GENERALIZED JACOBIAN",
+    "year": "2020",
+    "journal": "fixed md",
+    "in_degree": 0,
+    "out_degree": 36,
+    "pagerank": 3.40415e-05,
+    "betweenness": 0.0
+  },
+  {
+    "paper_id": "paper_a20c246f2752",
+    "title": "SPECTRAL OPERATORS OF MATRICES: SEMISMOOTHNESS AND CHARACTERIZATIONS OF THE GENERALIZED JACOBIAN",
+    "year": "2020",
+    "journal": "fixed md",
+    "in_degree": 0,
+    "out_degree": 36,
+    "pagerank": 3.40415e-05,
+    "betweenness": 0.0
+  },
+  {
+    "paper_id": "paper_719a738cea0f",
+    "title": "First- and second-order methods for semidefinite programming",
+    "year": "2003",
+    "journal": "fixed md",
+    "in_degree": 8,
+    "out_degree": 35,
+    "pagerank": 7.33987e-05,
+    "betweenness": 0.0001214375
+  },
+  {
+    "paper_id": "paper_35219565fa84",
+    "title": "Outer-product-free sets for polynomial optimization and oracle-based cuts",
+    "year": "2020",
+    "journal": "fixed md",
+    "in_degree": 3,
+    "out_degree": 35,
+    "pagerank": 3.81638e-05,
+    "betweenness": 1.36022e-05
+  },
+  {
+    "paper_id": "paper_8a5c5c0fbc3f",
+    "title": "Quantitative Analysis for Perturbed Abstract Inequality Systems in Banach Spaces",
+    "year": "2018",
+    "journal": "fixed md",
+    "in_degree": 0,
+    "out_degree": 35,
+    "pagerank": 3.40415e-05,
+    "betweenness": 0.0
+  },
+  {
+    "paper_id": "paper_bfb0cda61e31",
+    "title": "Potential-reduction methods in mathematical programming",
+    "year": "1995",
+    "journal": "fixed md",
+    "in_degree": 7,
+    "out_degree": 34,
+    "pagerank": 6.62966e-05,
+    "betweenness": 0.0004248343
+  },
+  {
+    "paper_id": "paper_8a2d34ddcc9b",
+    "title": "Primal-Dual Affine Scaling Interior Point Methods for Linear Complementarity Problems",
+    "year": "2008",
+    "journal": "fixed md",
+    "in_degree": 3,
+    "out_degree": 34,
+    "pagerank": 4.39612e-05,
+    "betweenness": 3.26375e-05
+  },
+  {
+    "paper_id": "paper_f434a58ab980",
+    "title": "A hybrid stochastic optimization framework for composite nonconvex optimization",
+    "year": "2021",
+    "journal": "fixed md",
+    "in_degree": 2,
+    "out_degree": 34,
+    "pagerank": 3.88e-05,
+    "betweenness": 2.09001e-05
+  },
+  {
+    "paper_id": "paper_19da32100041",
+    "title": "Achieving Geometric Convergence for Distributed Optimization over Time-Varying Graphs",
+    "year": "2017",
+    "journal": "fixed md",
+    "in_degree": 3,
+    "out_degree": 33,
+    "pagerank": 3.77774e-05,
+    "betweenness": 3.3098e-06
+  },
+  {
+    "paper_id": "paper_ce08a2725654",
+    "title": "SECOND-ORDER GUARANTEES OF DISTRIBUTED GRADIENT ALGORITHMS",
+    "year": "2020",
+    "journal": "fixed md",
+    "in_degree": 0,
+    "out_degree": 33,
+    "pagerank": 3.40415e-05,
+    "betweenness": 0.0
+  },
+  {
+    "paper_id": "paper_34c0f4029206",
+    "title": "Second-Order Guarantees of Distributed Gradient Algorithms",
+    "year": "2020",
+    "journal": "fixed md",
+    "in_degree": 0,
+    "out_degree": 33,
+    "pagerank": 3.40415e-05,
+    "betweenness": 0.0
+  },
+  {
+    "paper_id": "paper_b64e41d48204",
+    "title": "Directional Quasi-/Pseudo-Normality as Sufficient Conditions for Metric Subregularity",
+    "year": "2020",
+    "journal": "fixed md",
+    "in_degree": 0,
+    "out_degree": 33,
+    "pagerank": 3.40415e-05,
+    "betweenness": 0.0
+  },
+  {
+    "paper_id": "paper_99e9ecfe6810",
+    "title": "An interior point potential reduction method for constrained equations",
+    "year": "1994",
+    "journal": "fixed md",
+    "in_degree": 23,
+    "out_degree": 32,
+    "pagerank": 0.000175954,
+    "betweenness": 0.0005005751
+  },
+  {
+    "paper_id": "paper_06cf5af6ac4c",
+    "title": "Perturbation of error bounds",
+    "year": "2017",
+    "journal": "fixed md",
+    "in_degree": 1,
+    "out_degree": 32,
+    "pagerank": 3.7226e-05,
+    "betweenness": 2.22982e-05
+  },
+  {
+    "paper_id": "paper_22beb06215e0",
+    "title": "A BARRIER-BASED SMOOTHING PROXIMAL POINT ALGORITHM FOR NCPS OVER CLOSED CONVEX CONES",
+    "year": "2014",
+    "journal": "fixed md",
+    "in_degree": 1,
+    "out_degree": 32,
+    "pagerank": 3.58203e-05,
+    "betweenness": 2.2935e-06
+  },
+  {
+    "paper_id": "paper_8f41d56284a5",
+    "title": "Communication-efficient algorithms for decentralized and stochastic optimization",
+    "year": "2018",
+    "journal": "fixed md",
+    "in_degree": 1,
+    "out_degree": 32,
+    "pagerank": 3.51522e-05,
+    "betweenness": 6.5106e-06
+  },
+  {
+    "paper_id": "paper_226d7c4f2583",
+    "title": "Smoothing methods for nonsmooth, nonconvex minimization",
+    "year": "2012",
+    "journal": "fixed md",
+    "in_degree": 19,
+    "out_degree": 31,
+    "pagerank": 7.87155e-05,
+    "betweenness": 0.0001368251
+  },
+  {
+    "paper_id": "paper_c3913de7911e",
+    "title": "Block-coordinate and incremental aggregated proximal gradient methods for nonsmooth nonconvex problems",
+    "year": "2021",
+    "journal": "fixed md",
+    "in_degree": 0,
+    "out_degree": 31,
+    "pagerank": 3.40415e-05,
+    "betweenness": 0.0
+  },
+  {
+    "paper_id": "paper_8fd4633d10b2",
+    "title": "SNOPT: An SQP Algorithm for Large-Scale Constrained Optimization",
+    "year": "2002",
+    "journal": "fixed md",
+    "in_degree": 42,
+    "out_degree": 30,
+    "pagerank": 0.0003593803,
+    "betweenness": 0.0007326121
+  },
+  {
+    "paper_id": "paper_a02b94c3c9a1",
+    "title": "A new look at smoothing Newton methods for nonlinear complementarity problems and box constrained variational inequalities",
+    "year": "1999",
+    "journal": "fixed md",
+    "in_degree": 20,
+    "out_degree": 30,
+    "pagerank": 0.0001076082,
+    "betweenness": 0.0001217383
+  },
+  {
+    "paper_id": "paper_3ae5f83ee760",
+    "title": "A simplified view of first order methods for optimization",
+    "year": "2018",
+    "journal": "fixed md",
+    "in_degree": 10,
+    "out_degree": 30,
+    "pagerank": 5.13455e-05,
+    "betweenness": 4.30758e-05
+  },
+  {
+    "paper_id": "paper_23786b9c89dc",
+    "title": "Global Convergence of Augmented Lagrangian Methods Applied to Optimization Problems with Degenerate Constraints, Including Problems with Complementarity Constraints",
+    "year": "",
+    "journal": "fixed md",
+    "in_degree": 5,
+    "out_degree": 30,
+    "pagerank": 4.31037e-05,
+    "betweenness": 9.6987e-06
+  },
+  {
+    "paper_id": "paper_b8478cb1c557",
+    "title": "SUPERLINEAR CONVERGENCE OF AN INFEASIBLE PREDICTOR-CORRECTOR PATH-FOLLOWING INTERIOR POINT ALGORITHM FOR A SEMIDEFINITE LINEAR COMPLEMENTARITY PROBLEM USING THE HELMBERG-KOJIMA-MONTEIRO DIRECTION",
+    "year": "2011",
+    "journal": "fixed md",
+    "in_degree": 0,
+    "out_degree": 30,
+    "pagerank": 3.40415e-05,
+    "betweenness": 0.0
+  },
+  {
+    "paper_id": "paper_c6e994278bef",
+    "title": "A Newton-CG Based Augmented Lagrangian Method for Finding a Second-Order Stationary Point of Nonconvex Equality Constrained Optimization with Complexity Guarantees",
+    "year": "",
+    "journal": "fixed md",
+    "in_degree": 0,
+    "out_degree": 30,
+    "pagerank": 3.40415e-05,
+    "betweenness": 0.0
+  },
+  {
+    "paper_id": "paper_e7ee2ea2a3e3",
+    "title": "Polynomiality of primal-dual affine scaling algorithms for nonlinear complementarity problems",
+    "year": "1997",
+    "journal": "fixed md",
+    "in_degree": 9,
+    "out_degree": 29,
+    "pagerank": 9.20609e-05,
+    "betweenness": 7.69759e-05
+  },
+  {
+    "paper_id": "paper_3ae6a36f50c5",
+    "title": "NONMONOTONE TRUST-REGION METHODS FOR BOUND-CONSTRAINED SEMISMOOTH EQUATIONS WITH APPLICATIONS TO NONLINEAR MIXED COMPLEMENTARITY PROBLEMS",
+    "year": "2004",
+    "journal": "fixed md",
+    "in_degree": 7,
+    "out_degree": 29,
+    "pagerank": 8.81948e-05,
+    "betweenness": 0.0004059646
+  },
+  {
+    "paper_id": "paper_a6b8ccfaaeb7",
+    "title": "On a Class of Superlinearly Convergent Polynomial Time Interior Point Methods for Sufficient LCP",
+    "year": "",
+    "journal": "fixed md",
+    "in_degree": 1,
+    "out_degree": 29,
+    "pagerank": 3.67269e-05,
+    "betweenness": 9.582e-07
+  },
+  {
+    "paper_id": "paper_941d5af273eb",
+    "title": "Bregman Finito/MISO for nonconvex regularized finite sum minimization without Lipschitz gradient continuity",
+    "year": "",
+    "journal": "fixed md",
+    "in_degree": 2,
+    "out_degree": 29,
+    "pagerank": 3.64124e-05,
+    "betweenness": 1.04695e-05
+  },
+  {
+    "paper_id": "paper_75c189f40a70",
+    "title": "On a generalization of the Chvátal-Gomory closure",
+    "year": "2021",
+    "journal": "fixed md",
+    "in_degree": 1,
+    "out_degree": 29,
+    "pagerank": 3.62111e-05,
+    "betweenness": 1.76358e-05
+  }
+]
