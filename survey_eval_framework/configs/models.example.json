@@ -1,26 +1,3 @@
-﻿[
-  {
-    "model_id": "survey_agent",
-    "mode": "precomputed",
-    "model_name": "survey_agent_pipeline",
-    "precomputed_jsonl": "C:/Users/doreen chen/Desktop/source_discovery/survey_eval_framework/outputs/survey_agent_outputs.jsonl"
-  },
-  {
-    "model_id": "gemini_2_5_pro",
-    "mode": "llm_api",
-    "base_url": "https://llmmelon.cloud",
-    "api_key": "env:LLMMELON_API_KEY",
-    "model_name": "gemini-2.5-pro",
-    "temperature": 0.2,
-    "system_prompt": "You are an expert research assistant. Produce rigorous survey writing grounded in evidence."
-  },
-  {
-    "model_id": "qwen_flash",
-    "mode": "llm_api",
-    "base_url": "https://llmmelon.cloud",
-    "api_key": "env:LLMMELON_API_KEY",
-    "model_name": "qwen-flash",
-    "temperature": 0.2,
-    "system_prompt": "You are an expert research assistant. Produce rigorous survey writing grounded in evidence."
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:04a319ba23f52a0037b0d7a5af766ed88ec12d6f0f03e9b5558f0b7ef124387f
+size 884

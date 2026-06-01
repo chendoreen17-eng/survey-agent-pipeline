@@ -1,10 +1,3 @@
-{
-  "meta": {
-    "stage": "extract",
-    "extract_source": "qwen_api",
-    "corpus_root": "C:\\Users\\doreen chen\\Desktop\\SCI_Agent_OCR\\fixed_cropus_md\\arxiv\\arxiv_ocr_needed_pdfs_flat\\fixed_md",
-    "num_rows": 0,
-    "num_papers": 106
-  },
-  "raw_citations": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:adf29ae452a370d3a4d041ba457d7a84dda0c5834b616a3bf9242477f05bc2d9
+size 281
