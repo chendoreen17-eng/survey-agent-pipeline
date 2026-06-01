@@ -1,14 +1,3 @@
-﻿# File Curation Notes
-
-Selection policy: keep only final merged and complete repaired versions.
-
-## Kept priority
-1. all / all_dedup / all_dedup_repaired over group-level split files.
-2. repaired outputs over non-repaired versions.
-3. files that form an end-to-end runnable chain.
-
-## Removed categories
-- split intermediate files (group*, mor, siam, mp)
-- backups (*.bak)
-- duplicate old variants
-- temporary testing artifacts
+version https://git-lfs.github.com/spec/v1
+oid sha256:96b9cdedbc8eebb0b43ff16c95b9a870f23a630db02a3b757264da49aebe1034
+size 432
