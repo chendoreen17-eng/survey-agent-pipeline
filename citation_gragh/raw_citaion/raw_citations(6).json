@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "stage": "extract",
+    "extract_source": "qwen_api",
+    "corpus_root": "C:\\Users\\doreen chen\\Desktop\\SCI_Agent_OCR\\fixed_cropus_md\\arxiv\\arxiv_ocr_needed_pdfs_flat\\fixed_md",
+    "num_rows": 0,
+    "num_papers": 106
+  },
+  "raw_citations": []
+}
